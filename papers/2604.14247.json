@@ -1,0 +1,12 @@
+{
+  "abstract": "The high-mass ($M \\gtrsim 30 M_\\odot$) black holes (BHs) from the gravitational-wave (GW) observations of LIGO and Virgo came as a surprise to many astronomers. While the collapse of metal-poor massive stars could produce such BHs, gravitational lensing has been invoked to explain their high masses. Broadhurst, Diego, and Smoot (henceforth BDS) argued that the mass distribution of BHs in coalescing binaries is very similar to that of the galactic BHs, and the inferred high masses are the result of neglecting the lensing magnification. They also proposed a redshift distribution of binary BH (BBH) mergers to explain the observed LIGO-Virgo mass distribution. We ask whether such a model is consistent with different aspects of the GW observations: 1) the observed number of BBH mergers, 2) the distribution of their redshifted total mass and apparent luminosity distance, 3) the non-detection of strongly lensed events, and 4) the non-observation of the stochastic GW background. By simulating lensed BBH mergers with the BDS model and comparing them with observations, we conclude that no choice of BDS model parameters is consistent with all aspects of the observations. Lensing magnification is not a viable explanation for the high-mass BHs discovered by LIGO and Virgo.",
+  "id": "2604.14247",
+  "title": "Could the high-mass black holes from gravitational-wave observations be explained by lensing?",
+  "url": "https://arxiv.org/abs/2604.14247",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-27T08:22:10.205599Z"
+    }
+  ]
+}
