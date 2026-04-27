@@ -1,0 +1,12 @@
+{
+  "abstract": "We perform a statistical standard siren analysis of GW170817. Our analysis does not utilize knowledge of NGC 4993 as the unique host galaxy of the optical counterpart to GW170817. Instead, we consider each galaxy within the GW170817 localization region as a potential host; combining the redshift from each galaxy with the distance estimate from GW170817 provides an estimate of the Hubble constant, $H_0$. We then combine the $H_0$ values from all the galaxies to provide a final measurement of $H_0$. We explore the dependence of our results on the thresholds by which galaxies are included in our sample, as well as the impact of weighting the galaxies by stellar mass and star-formation rate. Considering all galaxies brighter than $0.01 L^\\star_B$ as equally likely to host a BNS merger, we find $H_0= 76^{+48}_{-23}$ km s$^{-1}$ Mpc$^{-1}$ (maximum a posteriori and 68.3% highest density posterior interval; assuming a flat $H_0$ prior in the range $\\left[ 10, 220 \\right]$ km s$^{-1}$ Mpc$^{-1}$). Restricting only to galaxies brighter than $0.626 L^\\star_B$ tightens the measurement to $H_0= 77^{+37}_{-18}$ km s$^{-1}$ Mpc$^{-1}$. We show that weighting the host galaxies by stellar mass or star-formation rate provides entirely consistent results with potentially tighter constraints. While these statistical estimates are inferior to the value from the counterpart standard siren measurement utilizing NGC 4993 as the unique host, $H_0=76^{+19}_{-13}$ km s$^{-1}$ Mpc$^{-1}$ (determined from the same publicly available data), our analysis is a proof-of-principle demonstration of the statistical approach first proposed by Bernard Schutz over 30 years ago.",
+  "id": "1807.05667",
+  "title": "A standard siren measurement of the Hubble constant from GW170817 without the electromagnetic counterpart",
+  "url": "https://arxiv.org/abs/1807.05667",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-04-27T07:56:58.381084Z"
+    }
+  ]
+}
