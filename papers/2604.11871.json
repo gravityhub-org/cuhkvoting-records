@@ -1,0 +1,12 @@
+{
+  "abstract": "Next-generation (XG) gravitational-wave detectors, such as Cosmic Explorer (CE) and the Einstein Telescope (ET), will observe compact binary coalescences at unprecedented rates and signal-to-noise ratios (SNRs). Accurate sky localization of these sources is crucial for several aspects of the science case of CE and ET. The localization of most binary black hole (BBH) signals, which will spend at most a few minutes within the XG detector's effective sensitivity band, will continue to rely primarily on timing triangulation across a network of detectors. A key design choice for triangulation is the baseline between instruments. We investigate how the baseline affects the localization capabilities of a two-detector CE network, analyzing both fixed-parameter injections and a realistic BBH population consistent with the latest GWTC-4 results. For detector-frame total masses up to $\\sim\\!100\\,{\\rm M}_\\odot$, we find that baselines corresponding to light travel times of $8-11$ ms ($\\sim\\!2300-3300$ km) offer a reasonable compromise, producing predominantly unimodal or bimodal sky localizations suitable for electromagnetic follow-up and statistical host galaxy identification and galaxy cross-correlation studies. Shorter baselines significantly degrade localization, particularly for high SNR events. Crucially, we find that adding a third detector to the network eliminates localization multimodality for a substantial fraction of sources. A network with two CEs and LIGO-India provides unimodal posteriors for a good fraction of events, whereas two CEs plus ET would provide unimodal posteriors for essentially all of them. These considerations should be useful to inform the development of the XG detector network.",
+  "id": "2604.11871",
+  "title": "Not too close! Evaluating the impact of the baseline on the localization of binary black holes by next-generation gravitational-wave detectors",
+  "url": "https://arxiv.org/abs/2604.11871",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-04-27T10:05:06.606387Z"
+    }
+  ]
+}
