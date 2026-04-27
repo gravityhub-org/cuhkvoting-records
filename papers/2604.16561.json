@@ -1,0 +1,12 @@
+{
+  "abstract": "Accurate sky localization is essential for gravitational-wave (GW) astronomy, particularly for multimessenger follow-up and host galaxy identification. For strongly lensed GW events, achieving localization at the level of $\\sim 10~\\mathrm{deg}^2$ is critical for associating signals with their lensing structures and enabling targeted searches for additional faint images. We investigate how sky localization improves when combining multiple lensed images of the same source. Using simulated lensed compact binary coalescences and \\textsc{BAYESTAR} sky localization, we evaluate localization performance as a function of image multiplicity. We find that combining multiple images leads to a systematic improvement in localization, with the largest gain occurring when combining two images, typically reducing the 90\\% credible region area by an order of magnitude. Additional images provide further improvements, with four-image systems achieving localization areas of $\\sim 10$--$100~\\mathrm{deg}^2$. We also show that subthreshold images contribute modest but non-degrading improvements, enabling their safe inclusion in localization analyses. These results demonstrate that strongly lensed GW events provide a natural pathway to improved localization and motivate hierarchical search strategies for detecting faint lensed images.",
+  "id": "2604.16561",
+  "title": "A First Investigation of Repeated-Signal Localization of Strongly Lensed Gravitational Waves for Multimessenger Astronomy",
+  "url": "https://arxiv.org/abs/2604.16561",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-27T10:08:29.858098Z"
+    }
+  ]
+}
