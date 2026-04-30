@@ -1,0 +1,12 @@
+{
+  "abstract": "Fast radio bursts (FRBs) are enigmatic millisecond-duration radio transients whose physical origins remain debated. To shed light on this, we analyze the CHIME/FRB Catalog 2. By using the probability distribution of dispersion measured (DM) derived from the IllustrisTGN simulation, we compute the pseudo-redshift with $1\u03c3$ error for each FRB. To derive the FRB luminosity function and event rate, we employ a non-parametric statistical method. Building upon Efron-Petrosian method, we find strong luminosity evolution with redshift, well described by $L_0 \\propto (1+z)^{6.38}$. After de-evolving this trend, we apply Lynden-Bell's $C^-$ method to derive the comoving FRB formation rate which is found to decline rapidly at high redshift, following $\u03c1(z) \\propto (1+z)^{-5.38 \\pm 0.02}$. We also test the robustness of our results by considering the upper and lower limits of pseudo-redshifts, and different flux limits of CHIME. Similar results are found. This steep decline is inconsistent with a direct tracing of the cosmic star formation rate, but closely resembles the redshift evolution of short gamma-ray bursts-systems linked to compact object mergers. Our results support that the origin of FRBs is associated with old populations, such as neutron stars and black holes.",
+  "id": "2604.26574",
+  "title": "Cosmological evolution of fast radio bursts and its rapid decline relative to star formation rate",
+  "url": "https://arxiv.org/abs/2604.26574",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T09:09:57.953799Z"
+    }
+  ]
+}
