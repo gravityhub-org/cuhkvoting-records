@@ -1,0 +1,12 @@
+{
+  "abstract": "In this paper, we introduce Mujic\u039b (Mapping the Universe with Jax-based Initial Condition Reconstr\u039bction), an optimization-based framework for reconstructing initial conditions from realistic galaxy spectroscopic redshift surveys. Unlike standard optimization-based approaches, Mujic\u039b augments the L-BFGS algorithm with a projection operator and rank-order matching to enforce Gaussianity of the initial conditions and substantially improve robustness to incomplete survey geometries. We validate Mujic\u039b on a mock lightcone catalog derived from semi-analytic models applied to the Millennium simulation. We construct a differentiable forward model that incorporates a fast particle-mesh simulation at megaparsec resolution and a comprehensive treatment of observational effects and survey incompleteness. Mujic\u039b reaches good agreement with the true density field down to the scale of the forward model, while maintaining consistency with the Gaussian prior through the projection step. It also broadly recovers the cosmic web classification, underscoring its value for deciphering environmental information in galaxy evolution studies. Beyond its key role in next-generation constrained simulations, the methodology offers a practical way to generate initial guesses and speed up field-level inference, especially for upcoming large-scale galaxy surveys.",
+  "id": "2604.26823",
+  "title": "Mujic\u039b: Reconstructing Initial Conditions from Incomplete Redshift Surveys with Projected Optimization",
+  "url": "https://arxiv.org/abs/2604.26823",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T09:41:00.238231Z"
+    }
+  ]
+}
