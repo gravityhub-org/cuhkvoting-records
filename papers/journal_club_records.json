@@ -18,10 +18,14 @@
     },
     {
       "arxiv_id": "2604.18709",
-      "historical_vote": 2,
+      "historical_vote": 1,
       "selected_at": "2026-04-29T00:06:52.795730Z",
       "selected_by": "ohannuks",
       "title": "Investigating the formation channel of GW231123: Population III stars or hierarchical mergers?",
+      "url": "https://arxiv.org/abs/2604.18709",
+      "voters": [
+        "souvik.jana"
+      ],
       "week": "2026-W18"
     },
     {
