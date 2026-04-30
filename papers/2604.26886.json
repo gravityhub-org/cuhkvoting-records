@@ -1,0 +1,12 @@
+{
+  "abstract": "The 21cm emission line from neutral hydrogen (HI) contained within galaxies provides a way to make accurate spectroscopic redshift determinations in the radio part of the spectrum. Large radio arrays such as SKA-MID are coming online that will have the sensitivity and survey time required to catalogue hundreds of thousands to millions of HI galaxies, opening up the possibility of studying the cosmological large scale structure using this technique. The expected number counts and clustering properties of the galaxies are still quite poorly understood however. We use three different simulated galaxy catalogues to predict the properties of the HI galaxy distribution that SKA-MID will be able to observe, along with estimates of the error on these predictions due to modelling uncertainty. The simulations in question are from S$^3$-SAX (semi-analytic models based on the Millennium dark matter-only simulation); GAEA (an updated semi-analytic model partially calibrated on hydrodynamical simulations); and IllustrisTNG (a hydrodynamical simulation). We present predictions for galaxy number counts as a function of sensitivity cut and redshift, and use these to forecast the cosmological performance of a proposed SKA-MID cosmological survey. Finally, we fit a halo occupation distribution model to low-redshift angular correlation functions to constrain clustering properties of multiple sub-volumes of the simulations to gain insight into the expected variation (sample variance) over smaller survey areas.",
+  "id": "2604.26886",
+  "title": "Predicted number counts and clustering of Hi galaxies from future radio surveys",
+  "url": "https://arxiv.org/abs/2604.26886",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T09:29:00.926744Z"
+    }
+  ]
+}
