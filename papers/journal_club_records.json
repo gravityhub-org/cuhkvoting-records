@@ -10,10 +10,14 @@
     },
     {
       "arxiv_id": "2604.19435",
-      "historical_vote": 2,
+      "historical_vote": 1,
       "selected_at": "2026-04-27T07:52:55.843251Z",
       "selected_by": "ohannuks",
       "title": "SDSSJ110546.07+145202.4: The first long-duration radio changing-look NLS1 galaxy",
+      "url": "https://arxiv.org/abs/2604.19435",
+      "voters": [
+        "souvik.jana"
+      ],
       "week": "2026-W18"
     },
     {
