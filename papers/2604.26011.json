@@ -1,0 +1,12 @@
+{
+  "abstract": "Given the multi-frequency nature of relativistic orbits, transient orbital resonances are expected to be ubiquitous during an extreme-mass-ratio inspiral (EMRI). At a resonance, the orbital dynamics is modified in a nontrivial way, imprinting an overall dephasing in the emitted gravitational waves and potentially impacting both the detection and parameter estimation of these sources. In this work, using a Fisher-matrix approach, we investigate the bias induced by transient orbital resonances in EMRI parameter estimation. We focus on the most dynamically significant low-order resonances, 3 : 2 and 2 : 1, as well as on the high-order, subdominant resonances 3 : 1 and 4 : 3. We find that, for most of the orbits considered, neglecting the effect of a resonance crossing leads to significant losses in signal-to-noise ratio and induces bias in parameter recovery. Furthermore, both the sign and the amplitude of the resonance-induced modifications to the integrals of motion play a crucial role and must be modeled accurately. Our results provide further evidence that failing to model transient orbital resonances accurately can hinder EMRI detection and parameter estimation, thereby limiting their scientific potential.",
+  "id": "2604.26011",
+  "title": "Parameter-estimation bias induced by transient orbital resonances in extreme-mass-ratio inspirals",
+  "url": "https://arxiv.org/abs/2604.26011",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T08:45:32.302995Z"
+    }
+  ]
+}
