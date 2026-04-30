@@ -123,6 +123,19 @@
         "souvik.jana"
       ],
       "week": "2026-W18"
+    },
+    {
+      "arxiv_id": "2604.25985",
+      "authors": [],
+      "historical_vote": 1,
+      "selected_at": "2026-04-30T09:17:37.508024Z",
+      "selected_by": "",
+      "title": "Learning Neural Operator Surrogates for the Black Hole Accretion Code",
+      "url": "https://arxiv.org/abs/2604.25985",
+      "voters": [
+        "souvik.jana"
+      ],
+      "week": "2026-W18"
     }
   ]
 }
