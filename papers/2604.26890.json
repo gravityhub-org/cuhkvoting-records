@@ -1,0 +1,12 @@
+{
+  "abstract": "Foreground removal remains an ongoing challenge in radio cosmology, and increasingly sensitive experiments necessitate more robust analysis techniques. In this work, we model simulated data from a single-dish intensity mapping experiment, and use the Gibbs sampling and Gaussian constrained realisation (GCR) techniques to draw samples from the posterior probability distribution of the model parameters. This allows for a separation of the foregrounds and 21 cm signal at the map level, as well as recovery of the 1-dimensional HI power spectrum to within statistical uncertainties. Despite the model consisting of over 2 million free parameters in the example presented here, these methods allow us to sample from the Bayesian posterior at a rate of $<30$ seconds per iteration. This framework is also resilient to frequency channel flagging (e.g. due to RFI excision), with the GCR steps effectively in-painting the missing data with statistically-consistent model realisations. The power spectrum is recovered accurately in the presence of strong foreground contamination and RFI flagging -- the estimate falling within $2\u03c3$ of the true model in our example, similar to the commonly-used transfer function correction method. Statistical realisations of foreground and HI maps are also recovered, with associated uncertainties available from the full joint posterior distribution of all parameters.",
+  "id": "2604.26890",
+  "title": "Bayesian component separation and power spectrum estimation for 21 cm intensity mapping data cubes",
+  "url": "https://arxiv.org/abs/2604.26890",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T09:16:19.309658Z"
+    }
+  ]
+}
