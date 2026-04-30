@@ -188,6 +188,19 @@
         "souvik.jana"
       ],
       "week": "2026-W18"
+    },
+    {
+      "arxiv_id": "2604.26823",
+      "authors": [],
+      "historical_vote": 1,
+      "selected_at": "2026-04-30T09:41:18.197539Z",
+      "selected_by": "",
+      "title": "Mujic\u039b: Reconstructing Initial Conditions from Incomplete Redshift Surveys with Projected Optimization",
+      "url": "https://arxiv.org/abs/2604.26823",
+      "voters": [
+        "souvik.jana"
+      ],
+      "week": "2026-W18"
     }
   ]
 }
