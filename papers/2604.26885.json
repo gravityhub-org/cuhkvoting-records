@@ -1,0 +1,12 @@
+{
+  "abstract": "Observing the Epoch of Reionisation using 21cm radio interferometry has proven to be a challenging task. Extraction of the extremely faint redshifted signal is complicated by the presence of bright foregrounds, radio frequency interference (RFI), and systematic artefacts. We discuss the challenge of accounting for systematic effects, particularly cable reflections, that appear in the visibility data obtained from 21cm interferometers. Cable reflections cause attenuated copies of the foreground signal to appear outside the 'foreground wedge' region in which foreground contamination is supposed to be localised. We build on the hydra-pspec Gibbs sampler to implement a model of the systematics as a multiplicative effect in delay-fringe rate space. We include this model in the inference of the joint posterior distribution, in addition to the 21cm signal, its power spectrum, and foregrounds. This allows the systematics contribution to be marginalised, rather than filtering it out and causing additional signal loss. We demonstrate the method on simulated visibility data for a single baseline, showing that the 21cm delay power spectrum can be recovered well regardless of the location of the systematics in delay-fringe rate space. Our implementation is suitable for modelling other multiplicative factors on the visibilities, e.g. residual gain errors.",
+  "id": "2604.26885",
+  "title": "Bayesian power spectrum estimation with modelling of systematic effects in delay-fringe rate space",
+  "url": "https://arxiv.org/abs/2604.26885",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T09:19:52.613891Z"
+    }
+  ]
+}
