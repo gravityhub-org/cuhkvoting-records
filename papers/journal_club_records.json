@@ -110,6 +110,19 @@
         "souvik.jana"
       ],
       "week": "2026-W18"
+    },
+    {
+      "arxiv_id": "2604.26890",
+      "authors": [],
+      "historical_vote": 1,
+      "selected_at": "2026-04-30T09:16:37.852037Z",
+      "selected_by": "",
+      "title": "Bayesian component separation and power spectrum estimation for 21 cm intensity mapping data cubes",
+      "url": "https://arxiv.org/abs/2604.26890",
+      "voters": [
+        "souvik.jana"
+      ],
+      "week": "2026-W18"
     }
   ]
 }
