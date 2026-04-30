@@ -1,0 +1,12 @@
+{
+  "abstract": "We investigate spherical collapse in Eddington-inspired Born--Infeld (EiBI) gravity in the subhorizon, pressureless, and quasi-static regime, emphasizing the matter-gradient correction that appears in the weak-field limit of the theory. Starting from the nonlinear continuity and Euler equations, we derive the evolution equation for the density contrast and show that the EiBI contribution depends explicitly on spatial derivatives of the matter density. This feature makes the ideal discontinuous top-hat construction ill-defined, since gradient terms become singular at the boundary, and requires a regularized overdensity profile together with a coarse-graining prescription. We adopt an effective physical-gradient closure for the EiBI source term and compare two matched initial configurations: a regularized Tanh profile and a peak-based profile, calibrated to share the same characteristic radius and cumulative mass proxy. Within this framework, we compute the linear collapse threshold $\u03b4_c(z_{\\rm coll})$, the turnaround overdensity $\u03b4_t(z_{\\rm coll})$, the turnaround radius $R_t(z_{\\rm coll})$, and the virial overdensity $\u0394_{\\rm vir}(z_{\\rm coll})$. Relative to the $\u039b$CDM reference case, the EiBI correction lowers $\u03b4_c$, enhances both $\u03b4_t$ and $\u0394_{\\rm vir}$, and produces a more modest reduction of $R_t$, with deviations increasing with the dimensionless coupling $\\hat\u03ba_{\\rm BI}$ over the range considered. The nonlinear overdensity observables show the strongest response to the EiBI correction and retain a residual dependence on the internal shape of the matched profile, whereas the turnaround radius is comparatively less affected. These results identify spherical collapse as a sensitive probe of EiBI matter-gradient couplings and motivate applications to halo statistics and nonlinear structure formation.",
+  "id": "2604.26433",
+  "title": "Studying spherical collapse and its implications in the Eddington-inspired Born-Infeld gravity theory",
+  "url": "https://arxiv.org/abs/2604.26433",
+  "votes": [
+    {
+      "user": "souvik.jana",
+      "voted_at": "2026-04-30T08:58:08.177164Z"
+    }
+  ]
+}
