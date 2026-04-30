@@ -23,6 +23,20 @@
       "selected_by": "ohannuks",
       "title": "Investigating the formation channel of GW231123: Population III stars or hierarchical mergers?",
       "week": "2026-W18"
+    },
+    {
+      "arxiv_id": "2604.26011",
+      "authors": [
+        "Edoardo Levati",
+        "Alejandro C\u00e1rdenas-Avenda\u00f1o"
+      ],
+      "historical_vote": 0,
+      "selected_at": "2026-04-30T07:31:18.475470Z",
+      "selected_by": "souvik.jana",
+      "title": "Parameter-estimation bias induced by transient orbital resonances in extreme-mass-ratio inspirals",
+      "url": "https://arxiv.org/abs/2604.26011",
+      "voters": [],
+      "week": "2026-W18"
     }
   ]
 }
