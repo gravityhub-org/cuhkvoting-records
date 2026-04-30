@@ -30,12 +30,14 @@
         "Edoardo Levati",
         "Alejandro C\u00e1rdenas-Avenda\u00f1o"
       ],
-      "historical_vote": 0,
+      "historical_vote": 1,
       "selected_at": "2026-04-30T08:38:19.016833Z",
       "selected_by": "souvik.jana",
       "title": "Parameter-estimation bias induced by transient orbital resonances in extreme-mass-ratio inspirals",
       "url": "https://arxiv.org/abs/2604.26011",
-      "voters": [],
+      "voters": [
+        "souvik.jana"
+      ],
       "week": "2026-W18"
     },
     {
@@ -44,12 +46,14 @@
         "Edoardo Levati",
         "Alejandro C\u00e1rdenas-Avenda\u00f1o"
       ],
-      "historical_vote": 0,
+      "historical_vote": 1,
       "selected_at": "2026-04-30T08:22:10.861434Z",
       "selected_by": "souvik.jana",
       "title": "Parameter-estimation bias induced by transient orbital resonances in extreme-mass-ratio inspirals",
       "url": "https://arxiv.org/abs/2604.26011",
-      "voters": [],
+      "voters": [
+        "souvik.jana"
+      ],
       "week": "2026-W18"
     },
     {
@@ -58,12 +62,14 @@
         "Edoardo Levati",
         "Alejandro C\u00e1rdenas-Avenda\u00f1o"
       ],
-      "historical_vote": 0,
+      "historical_vote": 1,
       "selected_at": "2026-04-30T08:26:20.384264Z",
       "selected_by": "souvik.jana",
       "title": "Parameter-estimation bias induced by transient orbital resonances in extreme-mass-ratio inspirals",
       "url": "https://arxiv.org/abs/2604.26011",
-      "voters": [],
+      "voters": [
+        "souvik.jana"
+      ],
       "week": "2026-W18"
     }
   ]
