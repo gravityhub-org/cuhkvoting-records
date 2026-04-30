@@ -136,6 +136,19 @@
         "souvik.jana"
       ],
       "week": "2026-W18"
+    },
+    {
+      "arxiv_id": "2604.26885",
+      "authors": [],
+      "historical_vote": 1,
+      "selected_at": "2026-04-30T09:20:11.750650Z",
+      "selected_by": "",
+      "title": "Bayesian power spectrum estimation with modelling of systematic effects in delay-fringe rate space",
+      "url": "https://arxiv.org/abs/2604.26885",
+      "voters": [
+        "souvik.jana"
+      ],
+      "week": "2026-W18"
     }
   ]
 }
