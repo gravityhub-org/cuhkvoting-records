@@ -1,0 +1,12 @@
+{
+  "abstract": "Higher-order correlation functions are firmly established as a fundamental tool for the statistical analysis of clustering in modern galaxy surveys. It was demonstrated that they greatly enrich the information content extracted by two-point statistics, allowing us to break the degeneracies between model parameters and constrain departures from Gaussianity. This paper presents the statistical estimators adopted to evaluate the galaxy three-point correlation function and its numerical implementation within the data analysis pipeline of the Euclid Science Ground Segment. Two different algorithms are adopted to count triplets: a direct and exact counting method capable of providing a robust three-point correlation function measurement for any triangular configuration, and a more efficient method based on spherical harmonic decomposition, designed to address the computational challenges of measuring the three-point statistics for data sets as large as those of the final Euclid survey. The spherical harmonic decomposition estimates the Legendre coefficients of the three-point correlation function up to a finite expansion order. Despite being an approximation, the three-point function measured with this approach satisfies the scientific requirements of the mission. We also introduce, implement, and validate the random split technique, which reduces the computational cost of counting triplets in the reference random sample by a factor of 10, without significantly compromising numerical accuracy. We evaluated the robustness, precision, and accuracy of the numerical estimates through an extensive campaign of validation tests, the results of which are presented. Finally, we quantify the computational requirements and their scaling with the expected size of Euclid data set, showing that a complete three-point analysis of the final Euclid survey is within computational reach.",
+  "id": "2605.03012",
+  "title": "Euclid preparation. Three-dimensional galaxy clustering in configuration space: Three-point correlation function estimation",
+  "url": "https://arxiv.org/abs/2605.03012",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-05-06T15:56:08.155663Z"
+    }
+  ]
+}
