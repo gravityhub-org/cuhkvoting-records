@@ -1,0 +1,12 @@
+{
+  "abstract": "We introduce a Bayesian null-stream method to constrain calibration errors in closed-geometry gravitational-wave (GW) detector networks. Unlike prior methods requiring electromagnetic counterparts or waveform models, this method uses sky-independent null streams to calibrate the detectors with any GW signals, independent of general relativity or waveform assumptions. We show a proof-of-concept study to demonstrate the feasibility of the method. We discuss prospects for next-generation detectors like Einstein Telescope, Cosmic Explorer, and LISA, where enhanced calibration accuracy will advance low-frequency GW science.",
+  "id": "2510.06327",
+  "title": "Bayesian Calibration of Gravitational-Wave Detectors Using Null Streams Without Waveform Assumptions",
+  "url": "https://arxiv.org/abs/2510.06327",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-05-07T16:29:54.173003Z"
+    }
+  ]
+}
