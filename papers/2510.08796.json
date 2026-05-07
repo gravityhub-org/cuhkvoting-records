@@ -1,0 +1,12 @@
+{
+  "abstract": "Understanding the early evolution of the universe requires models that incorporate possible quantum and anisotropic effects in its dynamics. In this work, we analyze the dynamical evolution of locally rotationally symmetric anisotropic cosmological models of Bianchi type I (flat curvature) and Bianchi type III (open curvature) within a noncommutative phase space framework characterized by a deformation parameter gamma. Using a Hamiltonian formulation based on Schutz formalism for a perfect radiation fluid, we introduce noncommutative Poisson brackets that allow for geometric corrections to commutative dynamics. The resulting equations are solved numerically under various initial conditions, enabling the study of the impact of gamma and the energy density C on the universe expansion and anisotropy evolution. The results show that gamma < 0 enhances expansion and favors isotropization, while gamma > 0 tends to slow expansion and preserve residual anisotropy, especially in the open curvature model. It is estimated that the influence of non-commutativity was significant during the early stages of the universe, decreasing toward the present time, suggesting that this approach could serve as an effective alternative to the cosmological constant in describing the evolution of the early universe.",
+  "id": "2510.08796",
+  "title": "Noncommutative Bianchi I and III Cosmology Models: Radiation Era Dynamics and gamma Estimation",
+  "url": "https://arxiv.org/abs/2510.08796",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-05-07T16:28:37.379035Z"
+    }
+  ]
+}
