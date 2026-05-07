@@ -1,0 +1,12 @@
+{
+  "abstract": "Laser Interferometer Space Antenna (LISA) observations of massive black hole binaries (MBHBs) will provide long duration inspiral signals with high signal-to-noise ratio (SNR) data, ideal for testing general relativity (GR) in the strong-field and relativistic regime regime. We present an extension of the Flexible Theory-Independent (FTI) framework, adapted to gravitational waves (GWs) from MBHBs observed with LISA, to perform parametrized inspiral tests of GR. This approach introduces generic deviations to the post-Newtonian (PN) coefficients of the frequency-domain GW phase while accounting for the time- and frequency-dependent instrument response, thus effectively identifying potential deviations from GR by constraining modifications to the PN phasing formula. Complementary analyses using Fisher matrix and full Bayesian approaches confirm that LISA observations could improve constraints on agnostic, scale-independent deviations from GR by at least two orders of magnitude compared to the most recent LIGO-Virgo-KAGRA measurements. Since LISA's sensitivity to different GW phases -- inspiral, merger, and ringdown -- varies across the MBHB parameter space with masses between $10^4$ and $10^7M_{\\odot}$, the optimal regime for testing agnostic deviations is not known a priori. Our results illustrate how the strength of these constraints depends significantly on both the total mass and the SNR, reflecting the trade-off between inspiral and merger-ringdown contributions to the observed signal. We also investigate the interplay between inspiral-only versus inspiral-merger-ringdown analyses in constraining these inspiral deviation parameters. This work contributes to the development of robust tests of GR with LISA, enhancing our ability to probe the nature of gravity and BHs with GW observations.",
+  "id": "2510.06330",
+  "title": "A Parametrized Test of General Relativity for LISA Massive Black Hole Binary Inspirals",
+  "url": "https://arxiv.org/abs/2510.06330",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-05-07T16:29:32.258634Z"
+    }
+  ]
+}
