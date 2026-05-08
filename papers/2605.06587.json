@@ -1,0 +1,13 @@
+{
+  "abstract": "The 3D mass distributions of galaxy clusters are generally triaxial, a geometry that is difficult to constrain from projected observations. In this work, we measure the projected halo shapes of clusters from their weak lensing signatures using the triaxiality functionality in the Cluster Lensing Mass Modeling software, a tool developed by the Dark Energy Science Collaboration to analyze data from NSF-DOE Rubin Observatory's Legacy Survey of Space and Time (LSST). We measure ensemble halo ellipticity on the plane of the sky via axis-aligned stacking and multipole expansion of the weak lensing data. We study a precursor dataset -- the redMaPPer cluster catalog, the metacalibration shape catalog, and the Directional Neighborhood Fitting photometric redshift catalog from the Dark Energy Survey Year 3 public data release. We select clusters that have a high centering probability (>90%) of the identified central galaxy, and use the satellite galaxy distribution to determine the major-axis orientation for stacking. We extend the analysis to the second order of ellipticity in the monopole and quadrupole measurement. The projected ellipticity of the cluster sample is found to be $0.310^{+0.017}_{-0.016}$ (axis ratio $0.527^{+0.018}_{-0.019}$). The projected cluster ellipticity shows no statistically significant dependence on mass and redshift. We further verify the accuracy of the cluster shape measurement using mock catalogs. This analysis is applicable to datasets from upcoming wide-area cosmic surveys such as LSST, Euclid, and the Roman Space Telescope, where larger sample sizes will lead to tighter constraints on the cluster ellipticities.",
+  "id": "2605.06587",
+  "title": "Constraining Galaxy Cluster Triaxiality via Weak Lensing -- I. Preparation for the Rubin Data Beyond Leading Order",
+  "url": "https://arxiv.org/abs/2605.06587",
+  "votes": [
+    {
+      "display_name": "Paul",
+      "user": "cosmoquark",
+      "voted_at": "2026-05-08T07:53:55.038582Z"
+    }
+  ]
+}
