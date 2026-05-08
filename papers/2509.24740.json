@@ -1,7 +1,7 @@
 {
   "abstract": "",
   "id": "2509.24740",
-  "title": "SymBoltz.jl: a symbolic-numeric, approximation-free and differentiable\n  linear Einstein-Boltzmann solver",
+  "title": "SymBoltz.jl: a symbolic-numeric, approximation-free and differentiable linear Einstein-Boltzmann solver",
   "url": "https://arxiv.org/abs/2509.24740",
   "votes": [
     {
