@@ -1,0 +1,12 @@
+{
+  "abstract": "We present a novel fully Bayesian analysis to constrain short gamma-ray burst jet structures associated with cocoon, wide-angle and simple top-hat jet models, as well as the binary neutron star merger rate. These constraints are made given the distance and inclination information from GW170817, observed flux of GRB170817A, observed rate of short gamma-ray bursts detected by Swift, and the neutron star merger rate inferred from LIGO's first and second observing runs. A separate analysis is conducted where a fitted short gamma-ray burst luminosity function is included to provide further constraints. The jet structure models are further constrained using the observation of GW190425 and we find that the assumption that it produced a GRB170817-like short gamma-ray burst that went undetected due to the jet geometry is consistent with previous observations. We find and quantify evidence for low luminosity and wide-angled jet structuring in the short gamma-ray burst population, independently from afterglow observations, with log Bayes factors of $0.45{-}0.55$ for such models when compared to a classical top-hat jet. Slight evidence is found for a Gaussian jet structure model over all others when the fitted luminosity function is provided, producing log Bayes factors of $0.25{-}0.9\\pm0.05$ when compared to the other models. However without considering GW190425 or the fitted luminosity function, the evidence favours a cocoon-like model with log Bayes factors of $0.14\\pm0.05$ over the Gaussian jet structure. We provide new constraints to the binary neutron star merger rates of $1{-}1300$Gpc$^{-3}$yr$^{-1}$ or $2{-}680$Gpc$^{-3}$yr$^{-1}$ when a fitted luminosity function is assumed.",
+  "id": "2305.06275",
+  "title": "Unpacking merger jets: a Bayesian analysis of GW170817, GW190425 and electromagnetic observations of short gamma-ray bursts",
+  "url": "https://arxiv.org/abs/2305.06275",
+  "votes": [
+    {
+      "user": "diceandcats",
+      "voted_at": "2026-06-09T06:12:38.336254Z"
+    }
+  ]
+}
