@@ -1,0 +1,12 @@
+{
+  "abstract": "We investigate the wave optics in the Schwarzschild spacetime. Applying the standard formalism of wave scattering problems, the Green function represented by the sum over the partial waves is evaluated using the Poisson sum formula. The effect of orbiting scattering due to the unstable circular orbit for null rays is taken into account as the contribution of the Regge poles of the scattering matrix and the asymptotic form of the scattering wave is obtained in the eikonal limit. Using this wave function, images of the black hole illuminated by a point source are reconstructed. We also discuss the wave effect in the frequency domain caused by the interference between the direct rays and the winding rays.",
+  "id": "1502.05468",
+  "title": "Wave Optics in Black Hole Spacetimes: Schwarzschild Case",
+  "url": "https://arxiv.org/abs/1502.05468",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-06-09T23:53:00.401191Z"
+    }
+  ]
+}
