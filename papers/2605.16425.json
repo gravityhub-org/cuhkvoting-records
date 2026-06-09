@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "GW231123 is a short, massive binary-black-hole event whose source properties show strong waveform dependence. We use this event to test gravitational-wave polarization birefringence, modeled as a frequency-dependent rotation of the tensor-polarization basis. Instead of sampling a distance-normalized coefficient directly, we sample the band-differential rotation $\u03b4_{\\rm br}=\u0394(448\\,\\mathrm{Hz})-\u0394(20\\,\\mathrm{Hz})$ with prior $[-\u03c0,\u03c0]$, and report the derived coefficient $\u03b2_{\\rm br}^{\\rm derived}$ for comparison with standard propagation parametrizations. We analyze three waveform families: IMRPhenomXPHM (XPHM), IMRPhenomXO4a (XO4a), and NRSur7dq4. The derived posteriors are consistent with the general relativity value, giving $90\\%$ upper limits $|\u03b2_{\\rm br}^{\\rm derived}|_{90}=0.378,\\,0.097,\\,0.273$ for XPHM, XO4a, and NRSur7dq4, respectively. The directly sampled $\u03b4_{\\rm br}$ posterior remains broad, with $|\u03b4_{\\rm br}|_{90}\\simeq2.8\\,\\mathrm{rad}$, so the accumulated rotation across the analysis band is weakly constrained. The Bayes factors are waveform dependent: $\\ln\\mathcal{B}_{\\rm br/GR}=-1.26\\pm0.30$, $+3.64\\pm0.28$, and $-0.86\\pm0.29$, respectively. We therefore find no waveform-robust evidence for parity-violating propagation. The positive XO4a result is better interpreted as a waveform-dependent birefringence-like response associated with the mass-ratio--distance--spin degeneracy of this short high-mass event.",
   "id": "2605.16425",
-  "title": "",
+  "title": "Polarization Birefringence and Waveform Systematics in GW231123",
   "url": "https://arxiv.org/abs/2605.16425",
   "votes": [
     {

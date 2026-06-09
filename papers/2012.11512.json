@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We describe the Multi-Band Template Analysis (MBTA) search for gravitational waves signals from coalescences of compact objects in the LIGO-Virgo data, at the time of the third observing run (2019-2020), both for low-latency detections and for offline analysis. Details are given on the architecture and functioning of the pipeline, including transient noise mitigation strategies, parameter space for the searched signals, detection of candidates and evaluation of a false alarm rate associated to them. The performance of the low-latency search is demonstrated based on the LIGO-Virgo third observing run, during which MBTA has contributed to 42 alerts, submitting candidates with a median latency of 36 seconds. The performance of the offline search is illustrated on a subset of data collected during the second LIGO-Virgo observation run in 2017, and are quantified based on injections of simulated signal events on the same data.",
   "id": "2012.11512",
-  "title": "",
+  "title": "The MBTA Pipeline for Detecting Compact Binary Coalescences in the Third LIGO-Virgo Observing Run",
   "url": "https://arxiv.org/abs/2012.11512",
   "votes": [
     {

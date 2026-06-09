@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Scaling symmetries have previously been examined for classical field theories described by singular Lagrangians; in this article, we apply these results to the first-order formulation of General Relativity. It is shown that the dynamical content of the Hilbert action may be formulated in terms of the conformal spacetime geometry, together with a dissipative sector, which is required in order to compensate the elimination of the notion of scale encoded by the conformal factor. Further, we consider the linearisation of the equations of motion of the scale-invariant action, demonstrating that the first-order metric perturbations satisfy a free wave equation, as expected. The second-order dynamics, describing gravitational backreaction, are found to be sourced by quadratic combinations of the first-order perturbations. However, these dynamics are non-conservative, as is made manifest by the presence of terms which couple the action sector with the geometrical degrees of freedom.",
   "id": "2605.05817",
   "title": "Classical General Relativity as a Non-Conservative Action-Dependent Field Theory",
   "url": "https://arxiv.org/abs/2605.05817",

@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "As gravitational-wave ringdown signals grow louder, quasinormal-mode inference depends increasingly on the treatment of extrinsic parameters. Standard analyses fix sky localization - and sometimes also polarization and inclination - to point estimates from a prior inspiral-merger-ringdown analysis, artificially breaking degeneracies and underestimating the true uncertainty of mode-amplitude values. We test two alternatives: uninformative priors on the extrinsic parameters, sampled jointly with the remnant mass, spin, mode amplitudes, and phases; and informed priors on sky position from the full signal posterior. The former yields wider marginal constraints on amplitude posteriors, and both avoid potential bias introduced by fixing the sky localization. In contrast, mode amplitude ratios remain consistent across approaches, making them a robust observable for Kerr spectroscopy. Our publicly available pipeline enables fast ringdown analyses capable of sampling all parameters, requiring tens of minutes on a laptop for a full inference. Applied to GW250114 and GW190521, our methods confirm the robust detection of the $(2,2,1)$ overtone in GW250114, and, for GW190521, find only mild evidence for the $(3,3,0)$ mode.",
   "id": "2605.18595",
-  "title": "",
+  "title": "Impact of sky localization uncertainty on ringdown inference",
   "url": "https://arxiv.org/abs/2605.18595",
   "votes": [
     {

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The radial acceleration relation (RAR) links observed and baryonic accelerations, and is best established in rotation curves of late-type galaxies. Pulsar timing, which measures line-of-sight (LOS) differential accelerations between the Sun and pulsars, provides a novel probe of this relation, including along directions outside the Galactic disc. By combining these pulsar differential accelerations with the acceleration at the Sun, we test whether current pulsar timing data carry information on a vector generalisation of the RAR, ${g}_{\\rm obs}=\u03bd(|{g}_{\\rm bar}|){g}_{\\rm bar}$. Comparing the measured SPARC RAR (generalised to 3D) to 26 binary-system pulsars with literature accelerations, we find a reduced $\u03c7^2$ of 3.58, compared with 10.86 for Newtonian baryonic gravity alone. However, setting all accelerations to that of the Sun gives a reduced $\u03c7^2$ of 3.75, showing that this vector RAR test is dominated by the Solar acceleration with current data.",
   "id": "2605.06659",
   "title": "The Pulsar Radial Acceleration Relation",
   "url": "https://arxiv.org/abs/2605.06659",

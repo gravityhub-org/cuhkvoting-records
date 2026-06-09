@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the population properties of binary black holes (BBHs) from the LIGO-Virgo-KAGRA collaboration, focusing especially on those in the high-mass range, using the newly released GWTC-4 catalog. For the first time, we search for a subpopulation of low-spin intermediate-mass black holes (IMBHs) that would indicate formation via stellar core collapse. With the currently available catalog, we find no evidence for such a subpopulation, and set a 90\\% upper limit on the merger rate of collapse-formed IMBHs at $0.077~\\mathrm{Gpc}^{-3}\\,\\mathrm{yr}^{-1}$. The mass distribution of low-spin (stellar-origin) black holes truncates at $65^{+23}_{-22}\\,M_\\odot$, consistent with the lower edge of the pair-instability mass gap (PIMG), although we cannot directly determine its upper boundary from current data. Informed by stellar evolution theory, we estimate the upper edge of the PIMG to be $150\\pm24\\,M_\\odot$. We find that the observed IMBHs belong to a high-spin subpopulation, consistent with formation through successive hierarchical mergers.",
   "id": "2605.05563",
   "title": "How do the LIGO-Virgo-KAGRA's Heavy Black Holes Form? No evidence for core-collapse Intermediate-mass black holes in GWTC-4",
   "url": "https://arxiv.org/abs/2605.05563",
