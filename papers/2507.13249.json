@@ -1,0 +1,12 @@
+{
+  "abstract": "Comparing population-synthesis models to the results of hierarchical Bayesian inference in gravitational-wave astronomy requires a careful understanding of the domain of validity of the models fitted to data. This comparison is usually done using the inferred astrophysical distribution: from the data that were collected, one deconvolves selection effects to reconstruct the generating population distribution. In this paper, we demonstrate the benefits of instead comparing observable populations directly. In this approach, the domain of validity of the models is trivially respected, such that only the relevant parameter space regions as predicted by the astrophysical models of interest contribute to the comparison. With this in mind, it can be useful to fit the observed population directly, rather than effectively deconvolving the selection effects only to fold them back in when reconstructing the observable population. We clarify that unbiased inference of the observable compact-binary population is indeed possible. Crucially, this approach still requires incorporating selection effects, but in a manner that differs from the standard implementation. We apply our observable-space reconstruction to LIGO-Virgo-KAGRA data from their third observing run and illustrate its potential by comparing the results to the predictions of a fiducial population-synthesis model.",
+  "id": "2507.13249",
+  "title": "Comparing astrophysical models to gravitational-wave data in the observable space",
+  "url": "https://arxiv.org/abs/2507.13249",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-06-30T09:01:05.619027Z"
+    }
+  ]
+}
