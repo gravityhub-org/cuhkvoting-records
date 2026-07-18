@@ -1,0 +1,12 @@
+{
+  "abstract": "We investigate the effect of microlensing on the standardisation of strongly lensed Type Ia supernovae (GLSNe Ia). We present predictions for the amount of scatter induced by microlensing across a range of plausible strong lens macromodels. We find that lensed images in regions of low convergence, shear and stellar density are standardisable, where the microlensing scatter is < 0.15 magnitudes, comparable to the intrinsic dispersion of for a typical SN Ia. These standardisable configurations correspond to asymmetric lenses with an image located far outside the Einstein radius of the lens. Symmetric and small Einstein radius lenses (< 0.5 arcsec) are not standardisable. We apply our model to the recently discovered GLSN Ia iPTF16geu and find that the large discrepancy between the observed flux and the macromodel predictions from More et al. (2017) cannot be explained by microlensing alone. Using the mock GLSNe Ia catalogue of Goldstein et al. (2017), we predict that ~ 22% of GLSNe Ia discovered by LSST will be standardisable, with a median Einstein radius of 0.9 arcseconds and a median time-delay of 41 days. By breaking the mass-sheet degeneracy the full LSST GLSNe Ia sample will be able to detect systematics in H0 at the 0.5% level.",
+  "id": "1802.07738",
+  "title": "The Impact of Microlensing on the Standardisation of Strongly Lensed Type Ia Supernovae",
+  "url": "https://arxiv.org/abs/1802.07738",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-07-18T08:08:37.672766Z"
+    }
+  ]
+}
