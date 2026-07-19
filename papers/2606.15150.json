@@ -1,0 +1,12 @@
+{
+  "abstract": "GW231123 is a gravitational-wave signal originating from the merger of a black hole binary with total mass $\\sim 250 M_{\\odot}$, the largest ever detected by the LIGO-Virgo-Kagra Collaboration. Remarkably, under standard priors, the system features among the fastest-spinning binary components confidently measured in binary mergers, $ \u03c7_{1,2} \\gtrsim 0.7$ at $90\\%$ one-dimensional credibility, according to the most accurate model employed. As typical binary mergers result in remnants with $\u03c7\\sim 0.7$, such spin values are challenging to obtain even from previous (hierarchical) mergers. These inferred properties rely on waveform models lacking eccentric corrections in the merger-ringdown stage. Here, we show that binaries retaining significant eccentricity up to merger can be misinterpreted as near-extremally spinning when non-circular corrections are neglected. Binary-agnostic ringdown analysis instead provides unbiased estimates of the remnant properties, provided that a robust estimate of the signal peak can be obtained. We re-analyse GW231123 using available eccentric numerical-relativity catalogues, finding that although eccentric templates can provide a good fit to the data, quasi-spherical templates are still favoured. Ringdown analyses confirm a secondary likelihood peak correlated with large eccentricity values, but improved eccentric models will be required to assess the reliability of this interpretation. Finally, analysing GW231123 under population-informed parametric priors confirms the exceptional nature of this event within the current black hole binary population.",
+  "id": "2606.15150",
+  "title": "Eccentricity in Disguise? Insights from GW231123 and Numerically Simulated Binary Black Hole Merger Signals",
+  "url": "https://arxiv.org/abs/2606.15150",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-07-19T01:35:47.547786Z"
+    }
+  ]
+}
