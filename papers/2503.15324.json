@@ -1,0 +1,12 @@
+{
+  "abstract": "We present a catalogue of 497 galaxy-galaxy strong lenses in the Euclid Quick Release 1 data (63 deg$^2$). In the initial 0.45\\% of Euclid's surveys, we double the total number of known lens candidates with space-based imaging. Our catalogue includes 250 grade A candidates, the vast majority of which (243) were previously unpublished. Euclid's resolution reveals rare lens configurations of scientific value including double-source-plane lenses, edge-on lenses, complete Einstein rings, and quadruply-imaged lenses. We resolve lenses with small Einstein radii ($\u03b8_{\\rm E} < 1''$) in large numbers for the first time. These lenses are found through an initial sweep by deep learning models, followed by Space Warps citizen scientist inspection, expert vetting, and system-by-system modelling. Our search approach scales straightforwardly to Euclid Data Release 1 and, without changes, would yield approximately 7000 high-confidence (grade A or B) lens candidates by late 2026. Further extrapolating to the complete Euclid Wide Survey implies a likely yield of over 100000 high-confidence candidates, transforming strong lensing science.",
+  "id": "2503.15324",
+  "title": "Euclid Quick Data Release (Q1): The Strong Lensing Discovery Engine A -- System overview and lens catalogue",
+  "url": "https://arxiv.org/abs/2503.15324",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-07-19T04:36:13.616405Z"
+    }
+  ]
+}
