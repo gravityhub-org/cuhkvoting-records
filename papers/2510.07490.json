@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study the impact of general disformal metric transformations on fermions, which shift the gravitational metric by an additional rank-2 tensor. This tensor can in principle be constructed from scalar-field gradients, vector fields, or field-strength contractions. We show this transformation results in the conventional Dirac action being modified by additional kinetic and axial-current couplings that are quadratic in the shifted field. When the field sourcing the metric shift takes on a nontrivial background value, apparent Lorentz-violating effects can result, which we identify as terms in an effective field theory. Assuming the well-motivated cases of scalar and vector ultralight dark matter, we demonstrate that experimental tests of rotation and boost violation imply constraints on the additional kinetic coupling. Even under conservative assumptions, the constraints for vector ultralight dark matter are extremely stringent.",
   "id": "2510.07490",
   "title": "Apparent Lorentz violation from disformally coupled ultralight dark matter",
   "url": "https://arxiv.org/abs/2510.07490",

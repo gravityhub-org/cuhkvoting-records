@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In Jordan-frame scalar--tensor gravity, a timelike scalar gradient defines an effective thermodynamic medium. We show that a transverse--traceless perturbation of a homogeneous shear-free background activates the local shear-work channel $\\mathcal W_\u03d5=\u03c0_{ab}^{(\u03d5)}\u03c3^{ab}$, with leading pure-TT contribution $\\mathcal P_{\\rm TT}^{[1,1]} =\\overline{\\mathcal K\\mathcal T} \\dot\u03c7_{ij}^{\\rm TT}\\dot\u03c7_{\\rm TT}^{ij}/4$. This stress power follows from local traction mechanics, enters the scalar-sector energy balance, and is gauge invariant at second order. The same scalar--tensor coupling controls non-GR tensor damping and appears with the opposite sign in a GR-normalized amplitude balance, although its interpretation as a separate tensor-energy source is normalization dependent. Scalar--tensor gravity thus provides a controlled example in which a propagating spin-2 mode acquires an intrinsically gravitational thermodynamic interpretation.",
   "id": "2607.16437",
   "title": "Gravitational Waves as Thermodynamic Shear Excitations in Scalar-Tensor Gravity",
   "url": "https://arxiv.org/abs/2607.16437",

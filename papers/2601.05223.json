@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Synergies between self-force theory and other approaches to the gravitational two-body problem have traditionally relied on calculations of gauge-invariant observables as functions of orbital frequencies. However, in self-force theory, one can also define a complete set of constants of motion: energy, azimuthal angular momentum, and radial and polar actions. Here, we outline how directly utilizing these constants allows for more straightforward comparisons and hybridizations across the parameter space, as well as more streamlined waveform generation through flux-balance laws. Restricting to the case of eccentric, nonspinning binaries and first order in self-force, we compute the constants of motion and the corrections to fundamental frequencies numerically as well as analytically (to 9PN in a post-Newtonian expansion), establishing consistency with the highest-order (4PN) results available from post-Newtonian theory. We also apply the results to identify the perturbed locations of special curves in the parameter space: circular orbits and the separatrix between bound and plunging orbits.",
   "id": "2601.05223",
   "title": "Constants of motion in gravitational self-force theory",
   "url": "https://arxiv.org/abs/2601.05223",

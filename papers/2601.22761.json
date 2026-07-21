@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Undecidability, a hallmark of G\u00f6del incompleteness theorems, has recently emerged in quantum many-body physics through the spectral gap problem. We demonstrate how this logical limitation can be holographically transmitted to a class of gravitational theories via the AdS/CFT correspondence. By embedding a translationally invariant spin Hamiltonian with undecidable gap status into a large-N gauge theory, we generate an anti\u2013de Sitter (AdS) dual in which the selection of dominant bulk saddle (Poincar\u00e9 AdS or AdS soliton) is itself undecidable. Consequently, under standard semiclassical holographic assumptions, even determining which smooth spacetime geometry emerges from quantum gravity can be beyond the limits of computability.",
   "id": "2601.22761",
   "title": "Undecidability in Spacetime Geometry via the AdS/CFT Correspondence",
   "url": "https://arxiv.org/abs/2601.22761",

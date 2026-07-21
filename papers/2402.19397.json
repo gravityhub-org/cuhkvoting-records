@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We perform a comprehensive analysis of state-of-the-art waveform models, focusing on their predictions concerning kick velocity and inferred gravitational wave memory. In our investigation we assess the accuracy of waveform models using energy-momentum balance laws, which were derived in the framework of full, non-linear General Relativity. The numerical accuracy assessment is performed for precessing as well as non-precessing scenarios for models belonging to the \\textit{EOB}, \\textit{Phenom}, and \\textit{Surrogate} families. We analyze the deviations of these models from each other and from Numerical Relativity waveforms. Our analysis reveals statistically significant deviations, which we trace back to inaccuracies in modelling subdominant modes and inherent systematic errors in the chosen models. We corroborate our findings through analytical considerations regarding the mixing of harmonic modes in the computed kick velocities and inferred memories.",
   "id": "2402.19397",
   "title": "Testing gravitational waveforms in full General Relativity",
   "url": "https://arxiv.org/abs/2402.19397",

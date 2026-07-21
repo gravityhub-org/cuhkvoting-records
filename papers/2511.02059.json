@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We demonstrate that violent kinetic preheating following inflation can lead to the formation of black holes in the early Universe. In <math display=\"inline\"><mi>\u03b1</mi></math>-attractor models with derivative inflaton couplings, nonlinear amplification of field fluctuations drives large spacetime curvature and gravitational collapse shortly after inflation ends. Using fully general-relativistic lattice simulations, we find that these dynamics produce black holes with masses of order tens of grams at subhorizon scales, without requiring large primordial curvature perturbations. Although such micro black holes evaporate rapidly via Hawking radiation, their formation modifies the postinflationary equation of state and their evaporation can successfully reheat the Universe before big bang nucleosynthesis. These results identify kinetic preheating as a new, efficient channel for black-hole production.",
   "id": "2511.02059",
   "title": "Primordial Black Holes from Kinetic Preheating",
   "url": "https://arxiv.org/abs/2511.02059",

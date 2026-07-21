@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We consider the question of counting the degrees of freedom in theoretical models, with an emphasis on theories of fields and gravity. Among the possible approaches, the Hamiltonian formulation remains one of the most systematic and robust tools. However, it can easily become long and technically involved. In this work, we present a broadly applicable recipe to find the degrees of freedom directly, based on the Lagrangian formulation. We compare it to the standard approaches, highlight the challenges that may arise in the latter, and demonstrate that the proposed method leads to transparent insights about the dynamical nature of theory in a quick, simple, and straight-forward way.",
   "id": "2601.10288",
   "title": "The recipe for the degrees of freedom",
   "url": "https://arxiv.org/abs/2601.10288",

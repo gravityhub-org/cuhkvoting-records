@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In this Letter, we provide a novel test of general relativity based on ringdown analysis. The test is performed on agnostic models, where the postmerger signal is fitted with a superposition of damped sinusoids. If at least two modes are detected, one has to compute the ratio of the frequencies and of the damping times and compare them against the predictions of general relativity. By considering ratios, the dependency on the black hole\u2019s mass is scaled away. Most notably, we find that the ratios vary very little with the spin, the real part depends mostly on the angular momentum of the mode <math display=\"inline\"><mo>\u2113</mo></math> and the imaginary part depends mostly on the overtone number <math display=\"inline\"><mrow><mi>n</mi></mrow></math>: different combinations create specific mode islands. We provide a qualitative explanation of these islands through a semianalytical argument. We discuss the application of the method to future detectors. Finally, we show that ratios in alternative theories of gravity or between different field content drastically differ from those of general relativity.",
   "id": "2511.02010",
   "title": "Quasi-normal modes ratios as agnostic test of general relativity",
   "url": "https://arxiv.org/abs/2511.02010",

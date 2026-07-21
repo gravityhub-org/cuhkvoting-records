@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In gravitational lensing under the weak-field approximation, the usual viewpoint is that light bending measures how a ray deviates from a straight line in Euclidean space. In this work, we take the opposite perspective: we ask how a straight line bends in a curved space, such as optical geometry\u2013that is, how it deviates from geodesics. Using the Gauss\u2013Bonnet theorem, we show that, at leading order, the deflection angle can be written as the integral of the geodesic curvature of a straight line in curved space. This reformulation emphasizes the global, coordinate-independent nature of the deflection angle and provides a complementary way of understanding the classical Gibbons\u2013Werner method. To illustrate the idea, we apply it to three familiar spacetimes\u2013Schwarzschild, Reissner\u2013Nordstr\u00f6m, and Kerr\u2013and recover the well-known results. Furthermore, we extend the method to massive particles using the Jacobi metric, and illustrate it with the Reissner\u2013Nordstr\u00f6m spacetime.",
   "id": "2510.01150",
   "title": "The bending of a straight line",
   "url": "https://arxiv.org/abs/2510.01150",

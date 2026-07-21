@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The future space-based gravitational wave observatory, the Laser Interferometer Space Antenna, is expected to observe between 1 and 1000s of extreme-mass-ratio inspirals (EMRIs) per year. Because of the simultaneous presence of other gravitational wave signals in the data, it can be challenging to detect EMRIs and accurately estimate their parameters. In this work, we investigate the interaction between a gravitational signal from an EMRI and millions of signals from inspiraling Galactic white dwarf binaries. We demonstrate that bright Galactic binaries can contaminate the detection and characterization of EMRIs. We perform Bayesian inference of EMRI parameters after removing resolvable Galactic binaries and confirm an accuracy comparable to that expected in Gaussian noise.",
   "id": "2509.20062",
   "title": "\"Chat\" between extreme mass ratio inspirals and Galactic binaries in LISA data",
   "url": "https://arxiv.org/abs/2509.20062",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The classification of general probabilistic theories (GPTs) whose CHSH value is stable under arbitrary rounds of teleportation and entanglement swapping was obtained in Dmello and Gross work and consists of seven families, indexed by characters of the Klein four-group $K_4$, the cyclic group $\\mathbb{Z}_4$, and the dihedral group $D_4$. The question of which of these families admits a realization within standard quantum mechanics was left open. In this work we resolve this question completely. Using elementary representation theory, we prove that exactly two families are quantum-realizable, namely $\u03c7^{K_4}_{1234}$ and $\u03c7^{D_4}_{125}$, while the remaining five admit no quantum realization.",
   "id": "2605.04931",
   "title": "Quantum Realizability of Probabilistic Theories Stable under Teleportation",
   "url": "https://arxiv.org/abs/2605.04931",

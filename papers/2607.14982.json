@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We test the isotropy of the Universe using 536 Fast Radio Bursts (FRBs) from the first CHIME/FRB catalog, employing two complementary statistical methods: the two-point angular correlation function (2PACF) and the sigma-map method, with observational biases corrected using CHIME injection data. Both analyses are consistent with the isotropic expectation, but are limited by the small sample size. The 2PACF suffers from an ill-conditioned covariance matrix, preventing robust parameter inference. The sigma-map angular power spectrum shows no statistically significant directional anisotropy, though the uncertainties at low multipoles remain large. Future FRB surveys are expected to improve these limitations.",
   "id": "2607.14982",
   "title": "Testing the Isotropy of the Universe with the CHIME/FRB Catalog I",
   "url": "https://arxiv.org/abs/2607.14982",

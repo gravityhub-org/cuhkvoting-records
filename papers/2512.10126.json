@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Cosmological perturbations generated during inflation exhibit striking quantum features, including entanglement and high circuit complexity. Yet their observational signatures remain effectively indistinguishable from classical stochastic variables. We quantify this tension by showing that quantum inflationary perturbations are continuous variable stabilizer states with vanishing quantum magic, a necessary resource for universal quantum computation as measured by Wigner negativity. Consequently, despite their quantum origins and description, these states can be efficiently simulated using classical algorithms. We further show that the Wigner negativity arising from primordial non-Gaussianity is suppressed not only by the non-linearity parameter $f_{NL}$, but also by the exponential squeezing of the perturbations. Viewing the early universe as a \"high complexity, low magic\" regime provides another perspective of what it means for the origin of structure in the universe to be \"quantum.\"",
   "id": "2512.10126",
   "title": "Inflation is Not Magic",
   "url": "https://arxiv.org/abs/2512.10126",

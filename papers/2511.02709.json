@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The regain of interest in Moon exploration has substantially grown in the last years. For this reason, the space agencies consider the development of a precise navigation and positioning service similar to the Earth GNSS. Aiming at some meter accuracy, this requires to set up a relativistic lunar reference frame, with an associated coordinate time. If the IAU already defined the Lunar Coordinate Time TCL, there is still some freedom in the choice of the coordinate timescale to be adopted as reference on or around the Moon. This paper proposes a trade-off analysis of different possible options for this reference time scale. It shows that TCL is the best option to be used as practical time reference on the Moon, without the need to define a new time scale based on a scaling of TCL.",
   "id": "2511.02709",
   "title": "Lunar Time",
   "url": "https://arxiv.org/abs/2511.02709",

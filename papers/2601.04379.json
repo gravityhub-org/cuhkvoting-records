@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Gravitational waves from binary black hole mergers yield values for both the black hole remnant mass $M$ and it's spin $a$, with the $169$$a$ values collected so far crowding significantly around their average $\\bar{a}=0.6869\\pm 0.087$. Could this crowding relate directly to the Davies phase transition point at $a=0.68125$ from black hole thermodynamics? I argue that a necessary challenge for such a connection requires a consistent application of the thermodynamic fluctuation theory that follows from black hole thermodynamics (BHT). Specifically, necessary are a correct choice of fluctuating variables, as well as thermal equilibrium between the event horizon at the Hawking temperature $\\sim \u03bcK$ and the outside universe $\\sim 3 K$. I show that the former requirement follows in straightforward fashion from the BHT of the Kerr model, while the later requires an accretion disk following the Novikov-Thorne accretion disk model. I construct a thermodynamic fluctuation theory meeting both these requirements. My results open the possibility that black hole mergers are based on some dynamical model (not known to me) with a limiting attractor state at the Davies point.",
   "id": "2601.04379",
   "title": "Could black hole thermodynamics play a role in black hole mergers?",
   "url": "https://arxiv.org/abs/2601.04379",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Physical aspects of a static solution to the Einstein equations with two black holes of equal mass are studied via ray tracing. The exact solution for this double Schwarzschild solution is known in explicit form. The black holes are separated by a singularity called Weyl strut. The effect of this strut on null geodesics is shown to be defocusing, in contrast to the focusing effect of the black holes. It is shown that black holes with a large separation essentially lead to similar behavior of the null geodesics as a single black hole, whereas nearby holes display widely changed behavior due to the Weyl strut.",
   "id": "2512.12032",
   "title": "On visible effects in the double Schwarzschild solution",
   "url": "https://arxiv.org/abs/2512.12032",

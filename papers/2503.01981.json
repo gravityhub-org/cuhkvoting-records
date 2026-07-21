@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study classical background electric fields and the Schwinger effect in de Sitter space. We show that having a constant electric field in de Sitter requires the photon to have a tachyonic mass proportional to the Hubble scale. This has physical implications for the induced Schwinger current which affect its IR behaviour. To study this we recompute the Schwinger current in de Sitter space for charged fermions and minimally coupled scalars imposing a physically consistent renormalization condition. We find a finite and positive Schwinger current even in the massless limit. This is in contrast to previous calculations in the literature which found a negative IR divergence. We also obtain the first result of the Schwinger current for a non-minimally coupled scalar, including for a conformally coupled scalar which we find has very similar behaviour to the fermion current. Our results may have physical implications for both magnetogenesis and inflationary dark matter production.",
   "id": "2503.01981",
   "title": "Schwinger Current in de Sitter Space",
   "url": "https://arxiv.org/abs/2503.01981",

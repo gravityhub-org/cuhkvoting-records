@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Black hole spectroscopy allows to infer the properties of the remnant of a binary black hole coalescence. Motivated by the recent proposal that a black hole's information load can alter its classical response to small perturbations, an effect known as the swift memory burden, we develop a minimal phenomenological framework to analyze the ringdown of a binary black hole merger and confront it with the data from the GW250114 event. We perform a Bayesian analysis combining the frequencies of the (220) and (440) quasi-normal modes and obtain a lower bound $\\log_{10}p \\gtrsim 2$, where $p$ controls how the gaps reopen when the black hole's master mode occupation departs from the critical value. Moreover, using a Fisher information matrix (high signal-to-noise ratio) approximation, we forecast the lower bound $\\log_{10}p \\gtrsim 3$ for a GW250114-like event observed with Cosmic Explorer or Einstein Telescope. Our results disfavour rapid gap reopening, shedding light on how the swift memory burden effect can be probed with current and next-generation detectors.",
   "id": "2510.19916",
   "title": "Constraining the Swift Memory Burden Effect with GW250114-like Events",
   "url": "https://arxiv.org/abs/2510.19916",

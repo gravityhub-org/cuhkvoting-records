@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Neutron stars are compact, relativistic bodies that host several extremes of modern physics. An exciting development in recent years has been the opportunity to probe this exotic physics by observing compact-binary coalescences using sensitive gravitational-wave and electromagnetic instruments. To maximise the science inferred from these measurements, we require models that accurately represent the physics. In this study, we consider the post-Newtonian approximation to general relativity for the modelling of neutron-star dynamics, with a particular view to model dynamical tides at the late stages of binary inspiral. We develop the post-Newtonian perturbation equations for a non-rotating star and show that the perturbation problem is Hermitian and therefore derives from a fundamental Lagrangian. Establishing this Lagrangian system leads to a conserved symplectic product and canonical energy for the perturbations. We determine the orthogonality condition for the post-Newtonian oscillation modes, which in turn forms the foundation of a mode-sum representation often used for dynamical tides. Finally, we demonstrate that the perturbation formulation is unique.",
   "id": "2503.03345",
   "title": "Perturbation theory for post-Newtonian neutron stars",
   "url": "https://arxiv.org/abs/2503.03345",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Estimating the sensitivity of gravitational-wave searches is important for a wide variety of scientific applications spanning astrophysics and fundamental physics. In this work, we develop a fast semianalytic approximation for estimating matched-filter search sensitivity to physical effects not explicitly modeled in the template bank. This approximation utilizes fitting factors, i.e., the maximum overlap of a candidate signal over the search bank. As illustrations, we compare our estimates to the actual performance of searches against spinning binary neutron stars, and evaluate search sensitivity to compact binaries possessing orbital eccentricity or deviations from general relativity. Our work thus paves the way for fast sensitivity estimates for a variety of applications, including unmodeled effects in template banks such as deviations from general relativity, environmental effects, gravitational lensing, and waveform/calibration systematics.",
   "id": "2606.14045",
   "title": "Semianalytic Sensitivity Estimates for Out-of-Bank Gravitational-Wave Signals",
   "url": "https://arxiv.org/abs/2606.14045",

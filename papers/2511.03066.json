@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We construct exact black hole solutions free of curvature singularities, sourced by dark matter halos described by galactic density profiles. Regularity of the geometry is ensured by adopting the relation <math display=\"inline\"><mrow><msub><mrow><mi>P</mi></mrow><mrow><mi>r</mi></mrow></msub><mo>=</mo><mo>-</mo><mi>\u03c1</mi></mrow></math> between radial pressure and density, which is consistent with the phenomenological freedom of halo models. Under the assumptions of regularity and the weak-energy condition, sufficiently dense dark matter halos can give rise to asymptotically flat, singularity-free black holes embedded in a galactic environment. These regular black holes are shown to be stable under axial perturbations. In particular, we obtain solutions corresponding to Einasto and Dehnen-type dark matter profiles. We further compute the shadow radii and Lyapunov exponents associated with photon circular orbits around these black holes.",
   "id": "2511.03066",
   "title": "Dark matter halo as a source of regular black-hole geometries",
   "url": "https://arxiv.org/abs/2511.03066",

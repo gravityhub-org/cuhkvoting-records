@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We develop a symmetry-based construction of gravity from a phase in which Weyl invariance is spontaneously broken. Using the coset formalism, the dilaton acts as a Stuckelberg field for the gauged scale symmetry, giving the Weyl gauge field a mass of order $\\mathcal{O}(M_{\\rm Pl})$. The resulting gauge-gravity interactions fall within the ghost-free generalized Proca framework. We further show that the Weyl field can be exchanged for a propagating vector component of torsion, providing a natural realization of dynamical vector torsion. Our construction organizes all operators systematically, clarifies the absence of Wess-Zumino terms in $d=4$, and recovers General Relativity in the infrared with controlled higher-derivative corrections.",
   "id": "2510.08778",
   "title": "Broken Weyl Gravity: Dynamical Torsion and Generalized Proca",
   "url": "https://arxiv.org/abs/2510.08778",

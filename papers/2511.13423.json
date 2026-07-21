@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the Coherence--Curvature Model (CCM), a dynamical ensemble of connected graphs governed by a Hamiltonian that couples algebraic connectivity, Ollivier-Ricci curvature, and an edge-density penalty. Using connected simulated annealing we generate low-energy graph configurations and characterize their emergent geometry through the spectral dimension (ds), the Hausdorff dimension (dh), and the average distance. Finite-size scaling shows a clear growth of ds with system size, while dh increases more mildly. At the largest volumes explored the data are compatible with ds ~ 4 and dh ~ 3, implying ds > dh and a nontrivial hierarchy between spectral and volumetric notions of dimension. We also map the dependence on the curvature coupling gamma and the locality coupling beta, and we find a slow power-law growth of typical distances with a small exponent eta. The CCM therefore provides a controlled numerical laboratory in which the interplay of coherence, curvature, and locality yields finite-dimensional, fractal-like geometries.",
   "id": "2511.13423",
   "title": "Emergent spectral geometry in the Coherence--Curvature Model",
   "url": "https://arxiv.org/abs/2511.13423",

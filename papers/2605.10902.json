@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study the parafermionization of the Monster CFT with respect to its $\\mathbb{Z}_{pA}$ subgroups, with $p$ an odd prime. Under certain assumptions, we show that the parafermionization is equal to a non-invertible gauging of $\\mathcal{P}(p) \\times \\mathcal{P}(p)^\\vee$, where $\\mathcal{P}(p)$ is the theory of $\\mathbb{Z}_p$-parafermions and $\\mathcal{P}(p)^\\vee$ is an appropriate dual theory, with global symmetry characterized by the centralizer of $\\mathbb{Z}_{pA}$. By tracking the symmetries of $\\mathcal{P}(p) \\times \\mathcal{P}(p)^\\vee$ through the non-invertible gauging, we argue that the diagonal Monster CFT has $\\mathrm{Rep}(\\mathfrak{so}(3)_p) \\boxtimes \\mathrm{Rep}(\\mathfrak{so}(3)_p)^\\mathrm{op}$ symmetry, and hence that the holomorphic Monster theory has symmetry $\\mathrm{Rep}(\\mathfrak{so}(3)_p)$. We then compute the defect McKay-Thompson series associated to these symmetries, and prove that their invariance subgroups are $\u0393_1(p+2)$.",
   "id": "2605.10902",
   "title": "Parafermionizing the Monster",
   "url": "https://arxiv.org/abs/2605.10902",

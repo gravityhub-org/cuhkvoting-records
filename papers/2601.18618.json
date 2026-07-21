@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Models of effective stellar collapse inspired by loop quantum gravity predict a bounce when the stellar energy density reaches the Planck scale, typically followed by the formation of shell-crossing singularities. This work aims to extend the spacetime beyond these singularities by employing a Hamiltonian formulation of the Darmois-Israel junction conditions, treating the singularity as a nonisolated thin dust shell. By construction, the shell\u2019s motion remains timelike throughout the entire evolution, regardless of the amount of initial stellar mass, and the induced metric on the shell remains continuous. The resulting stellar evolution produces an inter-universal wormhole, analogous to the simpler Oppenheimer-Snyder scenario. The proposed approach provides a general framework for any effective (or classical) theory of stellar collapse characterized by shell-crossing singularities.",
   "id": "2601.18618",
   "title": "Quantum gravitational stellar evolution beyond shell-crossing singularities",
   "url": "https://arxiv.org/abs/2601.18618",

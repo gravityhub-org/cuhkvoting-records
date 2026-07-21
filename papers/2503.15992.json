@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "A recently developed tool allows for a description of spacetime as a manifold with a Lorentz-invariant (lower) limit length built-in. This is accomplished in terms of geometric quantities depending on two spacetime events (bitensors) and looking at the 2-point function of fields on it, all this being well suited to embody nonlocality at the small scale. What one gets is a metric bitensor with components singular in the coincidence limit of the two events, capable to provide a finite distance in the same limit. We discuss here how this metric structure encompasses also the case of null separated events, and describe some results one obtains with the null qmetric which do have immediate thermodynamic/statistical interpretation for horizons. One of them is that the area transverse to null geodesics converging to a base point goes to a finite value in the coincidence limit (instead of shrinking to 0). We comment on the discreteness this seems to imply for the area of black hole horizons as well as on possible ensuing effects in gravitational waves from binary black hole coalescences.",
   "id": "2503.15992",
   "title": "Small-scale metric structure and horizons: Probing the nature of gravity",
   "url": "https://arxiv.org/abs/2503.15992",

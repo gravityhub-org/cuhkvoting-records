@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Perturbative calculations of gravitational radiation near the horizons of rotating black holes in the frequency domain have been plagued by divergence issues. We resolve this longstanding obstacle by constructing a nonsingular source term for near-horizon gravitational perturbations, or equivalently perturbed Weyl scalars <math display=\"inline\"><msub><mi>\u03c8</mi><mn>0</mn></msub></math> with a spin weight of <math display=\"inline\"><mi>s</mi><mo>=</mo><mo>+</mo><mn>2</mn></math>, within the generalized Sasaki-Nakamura formalism for the first time. As illustrative applications, we compute the dynamical deformation of the event horizon induced by an ultrarelativistic particle plunge, demonstrating the excitation of quasinormal modes at the horizon, and we evaluate the energy flux toward the horizon from an extreme mass-ratio inspiral. This work provides a powerful tool for studying physics near black hole horizons.",
   "id": "2512.07937",
   "title": "Near-horizon gravitational perturbations of rotating black holes",
   "url": "https://arxiv.org/abs/2512.07937",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present a categorical formulation of the Hamiltonian renormalisation programme for quantum field theories, establishing a systematic bridge between functional and lattice renormalisation. To this end, we introduce two categories, $Seq$ and $Func$, whose objects correspond to resolution spaces at different ultraviolet scales, and whose morphisms encode embeddings, projections, coarse-graining maps, and discrete derivatives. Focusing on Dirichlet-type embeddings, we construct the corresponding subcategories $Seq_D$, $Func_D$ and prove that the embedding and its adjoint define functors between them. Furthermore we revisit and extend the analysis of the convergence rate to the fixed point for the couplings of the $U(1)^3$ model for $3+1$ Euclidean quantum gravity, analysing different combinations of Haar and Dirichlet embeddings.",
   "id": "2511.15650",
   "title": "Hamiltonian Renormalisation: A Categorical Perspective",
   "url": "https://arxiv.org/abs/2511.15650",

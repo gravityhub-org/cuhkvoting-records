@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Searches for gravitational waves (GWs) from isolated supermassive black hole binaries (SMBHBs) in pulsar timing array (PTA) data require simultaneous estimation of signal and noise parameters, so the dimensionality of the fit scales with the number of observed pulsars. This computational difficulty is exacerbated when source evolution from GW emission is included, since retaining both Earth and pulsar terms introduces the unknown pulsar distances. Existing frequentist methods such as the $\\mathcal{F}$-statistic, restricted so far to non-evolving sources, effectively, imply a circular analysis, which may lead to biased estimators. We present a Generalized Likelihood Ratio Test (GLRT) and the associated $\\mathcal{T}$-statistic that overcomes the aforementioned limitations. The formulation of the GLRT extends earlier work in which the dimensionality of the fitting problem was drastically reduced by semi-analytical maximization of the likelihood over the pulsar phase parameters, followed by efficient global optimization over the remaining parameters using Particle Swarm Optimization. Our simulations demonstrate that for an evolving SMBHB signal with chirp mass $\\mathcal{M}=10^{9.2}\\,M_\\odot$ and signal-to-noise ratio $20$, this detection statistic achieves a $100\\%$ detection probability at a false-alarm probability of $0.06$ in a 30-pulsar timing array, which is characterized by a $100~\\mathrm{ns}$ root-mean-square white noise residual and pulsar-specific red noise.",
   "id": "2606.07330",
-  "title": "",
+  "title": "Red noise and evolving signals: a complete frequentist approach to supermassive black hole binary searches with pulsar timing array",
   "url": "https://arxiv.org/abs/2606.07330",
   "votes": [
     {

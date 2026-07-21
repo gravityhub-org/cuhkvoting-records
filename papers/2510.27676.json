@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The detection of gravitational waves has intensified the need for efficient, high-precision modeling of the two-body problem in General Relativity. Current analytical methods, primarily the Post-Minkowskian and Post-Newtonian expansions, are inherently perturbative, while Numerical Relativity remains computationally expensive. In this Letter, we introduce a middle path: an exact renormalization group (RG) equation for classical gravitational systems. After demonstrating that our equation correctly reproduces the Post-Minkowskian expansion, we show how it easily recovers the 1PN two-body action, bypassing the need for complex three-graviton vertex calculations. This establishes the exact RG as a powerful new tool for tackling strong-field dynamics in gravity.",
   "id": "2510.27676",
   "title": "Renormalisation Group approach to General Relativity",
   "url": "https://arxiv.org/abs/2510.27676",

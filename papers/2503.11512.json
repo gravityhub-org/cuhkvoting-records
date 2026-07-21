@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present the full release of the atlas of continuous gravitational waves, covering frequencies from 20 to 1700 Hz and spin downs from <math display=\"inline\"><mrow><mo>-</mo><mn>5</mn></mrow><mo>\u00d7</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup></math> to <math display=\"inline\"><mn>5</mn><mo>\u00d7</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>10</mn></mrow></msup><mtext> </mtext><mtext> </mtext><mi>Hz</mi><mo>/</mo><mi mathvariant=\"normal\">s</mi></math>. Compared to the early atlas release, we have extended the frequency range and have performed follow-up on the outliers. Conducting continuous wave searches is computationally intensive and time-consuming. The atlas facilitates the execution of new searches with relatively minimal computing resources.",
   "id": "2503.11512",
   "title": "Expanded atlas of the sky in continuous gravitational waves",
   "url": "https://arxiv.org/abs/2503.11512",

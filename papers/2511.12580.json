@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The response of a black hole (BH) to tidal forces encodes key information about the underlying gravitational theory and affects the waveform of gravitational waves emitted during binary inspiral processes. In this paper, we analyze the dynamical tidal response of static and spherically symmetric BHs in a low-frequency regime within general relativity (GR), based on a matching between the Mano-Suzuki-Takasugi (MST) methods for an analytical approach to BH perturbations and the worldline effective field theory (EFT) for an efficient and unified computation of the binary dynamics within the post-Newtonian regime. We show that the renormalized tidal response function is subject to inevitable ambiguities associated with the choice of renormalization scheme and with the initial condition of the renormalization flow equation. Once these ambiguities are fixed, we obtain scheme-dependent dynamical tidal Love numbers. We also discuss possible extensions of our formalism, including generic nonrotating compact objects (e.g., neutron stars) in GR and BHs in theories beyond GR.",
   "id": "2511.12580",
   "title": "Dynamical Tidal Response of Non-rotating Black Holes: Connecting the MST Formalism and Worldline EFT",
   "url": "https://arxiv.org/abs/2511.12580",

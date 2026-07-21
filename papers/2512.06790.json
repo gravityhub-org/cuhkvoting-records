@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Rotating black holes can form dense boson clouds through superradiant instability, making Kerr black holes a powerful probe of ultralight massive bosons. Previous studies of black hole superradiance have often treated bosonic fields classically, leaving open questions about how particles are produced and how the clouds grow over time. In this work, we canonically quantize a massive scalar field around a Kerr black hole, providing a fully quantum description of black hole superradiance. We show that the evolution of the particle number in the cloud, as well as the energy and angular momentum of the scalar field, can be consistently explained within the standard framework of quantum field theory in curved spacetime. Furthermore, we prove that the growth of the cloud occurs independently of the choice of initial state. We also explore several phenomena related to a massive scalar field in a rotating black hole spacetime, including Hawking radiation, adiabatic backreaction on the black hole spin, and the direction of level transitions in the presence of self-interactions of the field. Our analysis provides a consistent quantum-mechanical perspective that includes all these phenomena.",
   "id": "2512.06790",
   "title": "Quantum Treatment of Black Hole Superradiance",
   "url": "https://arxiv.org/abs/2512.06790",

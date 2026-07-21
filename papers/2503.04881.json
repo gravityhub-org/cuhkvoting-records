@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We numerically analyze the behavior of a charged scalar field on a fixed extremal Reissner-Nordstr\u00f6m background. We find an extension of the Aretakis instability characterized by an accumulation of charge on the extremal event horizon. In particular, when the electromagnetic coupling to the scalar field is sufficiently large, the charge density on the horizon asymptotes to a nonzero constant at late times. By constructing monochromatic initial data at the onset of charged superradiance, we give evidence supporting the claim that this instability is connected to the presence of a nearly zero-damped mode. Throughout this work, we employ a numerical integration scheme in compactified double-null coordinates, which allows us to capture the asymptotic behavior of the matter at the boundaries of the spacetime.",
   "id": "2503.04881",
   "title": "Accumulation of Charge on an Extremal Black Hole's Event Horizon",
   "url": "https://arxiv.org/abs/2503.04881",

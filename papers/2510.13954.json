@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present a fully Bayesian, data-driven framework for identifying quasinormal modes in high-accuracy Cauchy characteristic evolution gravitational waveforms. Applying this to a public catalog, we identify quasinormal mode overtones, retrograde modes, and nonlinear modes up to cubic order in the ringdown. Multiple high-order overtones are found near the merger, confirming their physical significance for modeling the ringdown. The ringdown mode content is tabulated across a wide range of start times for all available simulations, providing a systematic reference for theoretical and observational studies. We also search for late-time power-law tails, which are, as expected, absent from the Cauchy characteristic evolution waveforms.",
   "id": "2510.13954",
   "title": "The quasinormal mode content of binary black hole ringdown",
   "url": "https://arxiv.org/abs/2510.13954",

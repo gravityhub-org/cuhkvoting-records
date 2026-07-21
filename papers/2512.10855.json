@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Gravitational-wave observations of extreme mass-ratio inspirals (EMRIs) in vacuum are largely insensitive to the internal structure of the small compact companion. We show that this conclusion can change when the central black hole is surrounded by a dense dark matter environment. We compute, for the first time, the relativistic dynamical-friction force on a neutron star moving through a collisionless medium and its impact on the evolution of EMRIs embedded in dense dark matter spikes. We then perform a Bayesian parameter-estimation analysis of simulated LISA observations to assess the measurability of both spike properties and the companion's internal structure. We find that, in our fiducial dark matter spike models, EMRIs with signal-to-noise ratio (SNR) $\\gtrsim 20$ already allow us to distinguish neutron star from black hole companions, while events with SNR $\\gtrsim 400$ make it possible to discriminate between different neutron star equations of state.",
   "id": "2512.10855",
   "title": "Measuring the neutron star equation of state from EMRIs in dark matter environments with LISA",
   "url": "https://arxiv.org/abs/2512.10855",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We obtain the full set of tidal Love numbers of non-rotating black holes in an effective field theory extension of general relativity. We achieve our results using a recently introduced modified Teukolsky equation that describes the perturbations of black holes in this theory. We show how to identify the Love numbers and their beta functions in a systematic and gauge invariant way, applying analytic continuation on the angular number \u2113 when necessary. We observe that there are three types of Love numbers: electric, magnetic, and a \u201cmixing\u201d type, associated to parity-breaking theories, that we identify here for the first time. The modified Teukolsky equation proves to be very useful as it allows us to obtain all the different Love numbers in a unified framework. We compare our results with previous literature that utilized the Regge-Wheeler-Zerilli equations to compute Love numbers, finding perfect agreement. The method introduced here paves the way towards the computation of Love numbers of rotating black holes beyond general relativity.",
   "id": "2502.20185",
   "title": "Love numbers beyond GR from the modified Teukolsky equation",
   "url": "https://arxiv.org/abs/2502.20185",

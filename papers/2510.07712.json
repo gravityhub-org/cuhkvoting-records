@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In this second paper of our series started with Berens et al (2024 arXiv:2403.20311), we investigate linearized gravitational perturbations of a rotating Kerr black hole in a non-asymptotically flat spacetime with (anti-)de Sitter boundary conditions. Here, we explicitly write down the metric components (in both ingoing and outgoing radiation gauge) of the perturbations that correspond to a given mode of either Weyl scalar. We provide formulas involving Hertz potentials (intermediate quantities with a holographic interpretation) as well as some that involve only the separated radial and angular modes. We expect these analytic results to prove useful in numerical studies of black hole perturbation theory in the context of the holographic correspondence.",
   "id": "2510.07712",
   "title": "Gravitational Waves on Kerr Black Holes II: Metric Reconstruction with Cosmological Constant",
   "url": "https://arxiv.org/abs/2510.07712",

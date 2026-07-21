@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The observation of gravitational waves has opened a new window into the Universe through gravitational-wave astronomy. However, high-frequency gravitational waves remain undetected. In this work, we propose that spin systems can be employed to detect gravitational waves in this unexplored frequency regime. We derive the spin's response to gravitational waves and identify three distinct effects: the well-known Gertsenshtein effect, a metric-induced interaction, and the gravitational spin Hall effect. We focus on nuclear spins and utilize nuclear magnetic resonance to enhance the gravitational response, leveraging the advantages of long coherence time, high polarization, and a small gyromagnetic ratio. The proposed experimental scheme is capable of probing gravitational waves in the kilohertz to gigahertz range, with projected sensitivities reaching $\\sqrt{S_h}\\approx10^{-20}~\\mathrm{Hz}^{-1/2}$.",
   "id": "2510.11009",
   "title": "Detecting gravitational waves with spin systems",
   "url": "https://arxiv.org/abs/2510.11009",

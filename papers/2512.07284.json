@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the impact of a finite temperature environment on the Hawking radiation from black holes (BHs), with particular focus on Kerr BHs immersed in a cosmological thermal bath. The emitted particles from BHs interact with the thermal background and thermalize, leading to a modification in the Hawking radiation spectrum. By employing the methods of Thermofield Dynamics (TFD), a real time formalism of thermal quantum field theory, we derive the modified occupation numbers of the Hawking spectrum for asymptotically flat spacetimes like the Schwarzschild and the Kerr geometries. These corrections depend on the interplay between the BH temperature and the ambient bath temperature. We apply this formalism in the early universe reheating background scenario arising after inflation and demonstrate that the thermal correction to Hawking spectrum enhances the evaporation rate of primordial black holes (PBHs). As a result, the lifetime of PBH shortens compared to the zero temperature vacuum and leads to interesting cosmological consequences.",
   "id": "2512.07284",
   "title": "Evaporation of Primordial Black Holes in a Thermal Universe: A Thermofield Dynamics Approach",
   "url": "https://arxiv.org/abs/2512.07284",

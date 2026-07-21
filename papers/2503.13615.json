@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "While the microscopic laws of physics are often symmetric under time reversal, most natural processes that we observe are not. The emergent asymmetry between typical and time-reversed processes is referred to as the arrow of time. In quantum physics, an arrow of time emerges when a sequence of measurements is performed on a system. We introduce quantum control tools that can yield dynamics more consistent with time flowing backward than forward. The control tools are based on the explicit construction of a Hamiltonian that can replicate the stochastic trajectories of a monitored quantum system. Such a Hamiltonian can reverse the effect of monitoring and, via a feedback process, generate trajectories consistent with a reversed arrow of time. It can also be used to simulate the backward-in-time dynamics of an open quantum system. Finally, we design a feedback-driven continuous measurement engine powered by the energy pumped into the system by the monitoring process. We show that the engine can operate under experimentally realizable conditions with feedback delay and finite-efficiency measurements.",
   "id": "2503.13615",
   "title": "Reshaping the Quantum Arrow of Time",
   "url": "https://arxiv.org/abs/2503.13615",

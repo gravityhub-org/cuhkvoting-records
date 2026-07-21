@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Modeled gravitational wave searches correlate the strain data with a bank of gravitational wave template waveforms to make detections of gravitational wave candidates, and these results are processed by downstream tools to calculate the likely sky location and distance of the source of the candidates. This is crucial for multi-messenger efforts, since it informs astronomers where to point their telescopes to facilitate electromagnetic follow-up of the gravitational wave candidates. We present a novel method to improve the low-latency results of the GstLAL gravitational wave search pipeline, and thus improving sky location estimates of low-latency candidates. This method involves ingesting the GstLAL low-latency results, and performing a small targeted hierarchical search to recover the candidates with more accurate parameters, in a medium-latency timescale (few seconds to five minutes). To test our method, we perform a GstLAL low-latency analysis on forty days of data from the third observing run of LIGO, Virgo, and KAGRA, and show that our method improves the GstLAL results by 5.38% and the subsequent sky location results by 16.75% on average. In addition to this increase in precision, we also show that these results are more accurate as compared to the GstLAL results. This method has been adopted by GstLAL for the fourth observing run.",
   "id": "2606.10076",
-  "title": "",
+  "title": "Method to get Better Sky Maps in a GstLAL Low-Latency Analysis",
   "url": "https://arxiv.org/abs/2606.10076",
   "votes": [
     {

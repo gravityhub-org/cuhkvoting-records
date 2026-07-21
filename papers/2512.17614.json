@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study slowly rotating black hole solutions within Degenerate Higher Order Scalar Tensor (DHOST) theories. Starting from a static, spherically symmetric metric solution of a DHOST theory, we employ the Hartle-Thorne ansatz to model a slowly rotating spacetime. We show that the differential equation governing the frame-dragging function $\u03c9$ (which is supposed to depend on the radial coordinate only) is integrable for any DHOST theory allowing us to obtain its explicit form. We also consider angular dependence in $\u03c9$ and show that regularity at the horizon and at infinity forbids it, as in General Relativity. As an illustration of the formalism introduced here, we study the slowly-rotating version of black hole solutions with primary hair obtained recently, examining the influence of the rotation on the Innermost Stable Circular Orbit (ISCO) and on the circular light trajectories in the equatorial plane.",
   "id": "2512.17614",
   "title": "Slowly rotating Black Holes in DHOST Theories",
   "url": "https://arxiv.org/abs/2512.17614",

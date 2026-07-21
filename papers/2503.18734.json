@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Nonstabilizerness is a fundamental resource for quantum computation, enabling quantum algorithms to surpass classical capabilities. Despite its importance, characterizing this resource remains challenging due to the intricate geometry of stabilizer polytopes and the difficulty of simulating nonstabilizer states. In this work, through device-independent considerations, we reveal an unexpected connection between nonstabilizerness and Bell inequalities. Although certain stabilizer states can already achieve maximal violations of specific Bell inequalities, we demonstrate that appropriately constructed Bell inequalities can nevertheless serve as witnesses of nonstabilizerness, revealing when a state lies beyond the stabilizer set. This result bridges two key quantum resources, uncovering a novel relationship between the device-independent framework and resource-theoretic properties of quantum computation.",
   "id": "2503.18734",
   "title": "Witnessing Magic with Bell inequalities",
   "url": "https://arxiv.org/abs/2503.18734",

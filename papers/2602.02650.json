@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Within the framework of scalar-tensor theories of gravity, certain models can evade classical black hole no-hair theorems. A well-known example is Einstein-scalar-Gauss-Bonnet gravity, where black holes carrying a scalar charge can exist. We find that, within this theory, binary black holes initially described by general relativity can acquire scalar charges once they reach a critical orbital separation (\u201cdynamical scalarization\u201d). We develop a simple semianalytic model, based on the adiabatic conservation of the total Wald entropy, to estimate the scalar charge evolution during the binary inspiral. We also run fully nonlinear numerical-relativity simulations for different configurations, finding consistent results. The gravitational-wave phase difference between Einstein-scalar-Gauss-Bonnet and general relativity waveforms, which we use to assess detectability, is also computed. We find that dynamical scalarization might be observable in nearly equal-mass binary black hole mergers with third-generation ground-based gravitational-wave detectors, in a narrow range of the dimensional coupling of the theory.",
   "id": "2602.02650",
   "title": "Dynamical hair growth in black hole binaries in Einstein-scalar-Gauss-Bonnet gravity",
   "url": "https://arxiv.org/abs/2602.02650",

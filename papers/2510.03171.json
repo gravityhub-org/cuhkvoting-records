@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We revisit the Lagrangian formulation of stochastic inflation, where the path-integral approach is employed to derive the Langevin equation governing the dynamics of long-wavelength fields, in contrast to the standard method where the Langevin equation is derived directly from the equation of motion of the full quantum field. Focusing on a massless, minimally coupled scalar field with quartic self-interaction in a de Sitter background, we re-derive the formal expression for the influence functional that encapsulates the effects of short-wavelength fields up to second order in the coupling constant, and compare our results with those obtained in earlier works. In doing so, we highlight certain subtleties that have been previously overlooked, including the non-orthogonality between long- and short-wavelength modes, which we analyze in detail, as well as the absence of a consistent prescription for handling general interaction terms in the imaginary part of the influence functional. The latter issue points to a broader challenge: the lack of a universally accepted framework for treating the imaginary component of effective actions.",
   "id": "2510.03171",
   "title": "Revisiting Lagrangian Formulation of Stochastic inflation",
   "url": "https://arxiv.org/abs/2510.03171",

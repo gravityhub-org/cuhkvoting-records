@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Building on the relativistic Hamiltonian of Sonnleitner and Barnett arXiv:1806.00234 and its post-Newtonian extensions by Schwartz and Giuilini arXiv:1908.06929, we investigate composite atomic systems in dynamical gravitational backgrounds. Using a local inertial frame and a perturbed Minkowski metric, we derive curvature-dependent corrections to both center-of-mass and internal Hamiltonians for atoms interacting with weak gravitational waves. The resulting Hamiltonian contains distinct curvature couplings modifying the internal potential and affecting the center-of-mass dynamics. These contributions imply that internal-energy variations do not always reduce to mass renormalization and can induce genuine forces due to changes in momentum. The initial research was motivated by anomalous friction-like forces emerging in quantum optics, and clarified that the anomalous forces are mere relativistic corrections from mass-energy equivalence. Our results suggest that, with increasingly sensitive detectors, additional forces from gravitational wave interactions may become visible in future experiments.",
   "id": "2601.17891",
   "title": "The Hamiltonian for an atom interacting with gravitational waves",
   "url": "https://arxiv.org/abs/2601.17891",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "These proceedings summarise some recent efforts in understanding a class of vector-tensor theories known as {\\it bumblebee} models, which spontaneously break local Lorentz and diffeomorphism invariance. Using cosmological perturbation theory on an FLRW background, we find that for non-minimal coupling to gravity, the theory contains a ghost mode unless degeneracy conditions are imposed, after which the model becomes a subset of generalised Proca theory, and the potential is then completely fixed by the background equations. We find a constraint on the bumblebee field from the speed of tensor modes on the order of $10^{-15}$. We go further to show that scalar perturbations do not propagate at the linear level, indicating that the theory is pathological around dynamical cosmological backgrounds, a result which is independent of the form of the potential.",
   "id": "2510.13135",
   "title": "Bumblebee Gravity - Lessons from Perturbation Theory",
   "url": "https://arxiv.org/abs/2510.13135",

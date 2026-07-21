@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the interaction between a nonrotating black hole and incoming gravitational waves using the characteristic formulation of the Einstein field equations, framed as a Bondi problem. By adopting retarded time as the null coordinate and recognizing that the final state is invariably a black hole, we demonstrate that an apparent horizon forms once sufficient mass accretes onto the black hole. We derive the evolution of the Bondi mass and compute its final value, enabling us to quantify the fraction of the incident mass absorbed by the black hole. Additionally, we establish a scaling law for the absorbed mass as a function of initial parameters, such as the amplitude of the gravitational wave data. Furthermore, we explore the dynamics when a reflecting barrier surrounds the black hole. For low-amplitude initial waves, the barrier reflects the waves, leaving the original black hole as the end state. Conversely, high-amplitude waves lead to the formation of an apparent horizon that engulfs the barrier, producing a new, larger black hole.",
   "id": "2503.13266",
   "title": "Distorted black holes: a characteristic view",
   "url": "https://arxiv.org/abs/2503.13266",

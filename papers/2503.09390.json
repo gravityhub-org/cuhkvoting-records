@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Quasinormal modes are characteristic signatures of compact objects. Here, we consider rotating regular black holes, representing rotating generalizations of the Simpson and Visser metric. We present the spectrum of scalar quasinormal modes and compare it with the spectrum of Kerr black holes. The calculations are done using a spectral decomposition method. The scalar modes smoothly connect to the Kerr limit. Interestingly, for particularly low scaled Hawking temperatures, the dependence of the modes changes as rotation increases. A further investigation shows that the real part of the fundamental and first excited modes of the static and slowly rotating black holes (about 13% of the extremal angular momentum) progresses in an opposite behavior in this low temperature region. Meanwhile, the imaginary part of the modes crosses where the excited modes become longer lived than the fundamental modes. Rapid rotation, however, suppresses such a tendency.",
   "id": "2503.09390",
   "title": "Scalar Quasinormal Modes of Rotating Regular Black Holes",
   "url": "https://arxiv.org/abs/2503.09390",

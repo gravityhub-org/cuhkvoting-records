@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We show that the quantum-mechanical probability distribution involving complex probability amplitudes can be derived from three natural conditions imposed on a relativistically invariant probability function describing the motion of a particle that can take multiple paths simultaneously. The conditions are: (i) pairwise Kolmogorov additivity, (ii) time symmetry, and (iii) Bayes\u2019 rule. The resulting solution, parameterized by a single constant, is the squared modulus of a sum of complex exponentials of the relativistic action, thereby recovering the Feynman path-integral formulation of quantum mechanics.",
   "id": "2512.10497",
   "title": "The relativistic reason for quantum probability amplitudes",
   "url": "https://arxiv.org/abs/2512.10497",

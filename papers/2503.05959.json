@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Accurate neutrino transport is crucial for reliably modeling explosive astrophysical events like core-collapse supernovae (CCSNe) and neutron star mergers (NSMs). However, in these extremely neutrino-dense systems, flavor oscillations exhibit challenging nonlinear effects rooted in neutrino\u2013neutrino forward scattering. Evidence is quickly accumulating that these collective phenomena can substantially affect explosion dynamics, neutrino and gravitational-wave signals, nucleosynthesis, and kilonova light curves. We review the progress made so far on the difficult and conceptually deep question of how to correctly include this physics in simulations of CCSNe and NSMs. Our aim is to take a broad view of where the problem stands and provide a critical assessment of where it is headed.</jats:p>",
   "id": "2503.05959",
   "title": "Neutrino Oscillations in Core-Collapse Supernovae and Neutron Star Mergers",
   "url": "https://arxiv.org/abs/2503.05959",

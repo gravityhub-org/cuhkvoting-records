@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The deep connection between black hole thermodynamics and spacetime geometry remains a central focus of general relativity. While recent studies have revealed a precise correspondence for null orbits, given by $K = -\u03bb^2$ between the Gaussian curvature $K$ and the Lyapunov exponent $\u03bb$, its validity for timelike orbits had remained unknown. Our work introduces the massive particle surface (MPS) framework and constructs a new geometric quantity $\\mathcal{G}$. We demonstrate that $\\mathcal{G} \\propto -\u03bb^2$ on unstable timelike orbits, thus establishing the geometry-dynamics correspondence for massive particles. Crucially, near the first-order phase transition of a black hole, $\\mathcal{G}$ displays synchronized multivalued behavior with the Lyapunov exponent $\u03bb$ and yields a critical exponent $\u03b4=1.0244$. Our results demonstrate that spacetime geometry encodes thermodynamic information, opening a new pathway for studying black hole phase transitions from a geometric perspective.",
   "id": "2511.04236",
   "title": "Geometric Unification of Timelike Orbital Chaos and Phase Transitions in Black Holes",
   "url": "https://arxiv.org/abs/2511.04236",

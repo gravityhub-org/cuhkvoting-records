@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate torsion-driven cosmological dynamics within the framework of Einstein\u2013Cartan gravity using the De Donder\u2013Weyl Hamiltonian formalism, where the tetrad and Lorentz connection act as independent variables and the Hamiltonian includes quadratic Riemann Cartan corrections. Embedding this theory in an FLRW background, we derive the corresponding torsion-modified Friedmann equations and analyze their solutions across radiation and matter-dominated epochs. The commonly assumed power law form $a(t)=\\beta t^{\\alpha }$ is shown to generate multiple solution branches, many of which can be considered to be \u201cunphysical\u201d. A hybrid solution, $a(t)=Ct^{\\alpha }e^{Dt^{\\beta }}$ emerges in the special case $g_1=0$, where the quadratic Riemann\u2013Cartan term vanishes. For $g_1\\not =0,$ the equations become nonlinear, precluding closed-form analytic solutions. These findings highlight the limitations of the power-law approximation and identify the restricted conditions under which torsion can coherently drive cosmic expansion.",
   "id": "2511.15773",
   "title": "Embedding Einstein-Cartan theory to Cosmology",
   "url": "https://arxiv.org/abs/2511.15773",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We prove that if S is a time-oriented null hypersurface of a Lorentzian n-manifold (M, g), the causal world-lines, which intersect transversally S and are time-oriented in a compatible way, cross the hypersurface all in the same direction, the other being forbidden. Even if it is known that a smooth event horizon (in the sense of Penrose, Hawking and Ellis) is a null hypersurface and has the above semi-permeability property, at the best of our knowledge, in the literature it was not stated so far that the latter is a mere consequence of the former. Our result leads to the concepts of barriers (= null hypersurfaces separating the space-time into disjoint regions) and black regions (= time-oriented regions bounded by barriers). These objects naturally include (smooth) event horizons and (smoothly bounded) black holes. Since barriers are defined by two simple properties -- the merely local property of \"nullity\" combined with the global property of \"separating the space-time\" -- we expect they may be used to simplify computations for locating static and/or dynamic horizons in numerical computations.",
   "id": "2511.06133",
   "title": "Black holes and black regions, horizons and barriers in Lorentzian manifolds",
   "url": "https://arxiv.org/abs/2511.06133",

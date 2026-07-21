@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "There exist conformally invariant, higher-derivative, variational analogs of the Yang-Mills condition for connections on vector bundles over a conformal manifold of even dimension greater than or equal to six. We give a compact formula for these analogs and prove that they are a strict weakening of the Yang-Mills condition with respect to an Einstein metric. We also show that the conformal Yang-Mills condition for the tractor connection of an even dimensional conformal manifold is equivalent to vanishing of its Fefferman-Graham obstruction tensor. This result uses that the tractor connection on a Poincar\u00e9-Einstein manifold is itself Yang-Mills.",
   "id": "2601.09975",
   "title": "Einstein and Yang-Mills implies conformal Yang-Mills",
   "url": "https://arxiv.org/abs/2601.09975",

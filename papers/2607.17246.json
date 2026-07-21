@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We consider the non-Abelian bosonized Thirring model for a semi-simple group $G$ at level $k$, with deformation parameter $\u03bb$. We compute the two-point correlation functions of current and composite current operators to cubic order in $\u03bb$, assuming large values of the quadratic Casimir $c_G$ of the group $G$ in the adjoint representation. From these, we extract the $\u03b2$-function and the anomalous dimensions of both the current and composite current operators, showing the absence of an additional critical point of order $k/c_G$. Our findings align with those of Destri & de Vega for the Fermionic non-Abelian Thirring model, but contradict the claim in Dashen & Frishman regarding the existence of an additional fixed point of order $1/c_G$.",
   "id": "2607.17246",
   "title": "Non-Abelian Thirring model at large $N$",
   "url": "https://arxiv.org/abs/2607.17246",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We show that 3d gravity on manifolds that are topologically a Riemann surface times an interval $\u03a3_{g,n}\\times I$ with end-of-the-world branes at the ends of the interval is described by a random matrix model, namely the Virasoro minimal string. Because these manifolds have $n$ annular asymptotic boundaries, the path integrals naturally correspond to spectral correlators of open strings upon inverse Laplace transforms. For $g=0$ and $n=2$, we carry out an explicit path integration and find precise agreement with the universal random matrix expression. For Riemann surfaces with negative Euler characteristic, we evaluate the path integral as a gravitational inner product between states prepared by two copies of Virasoro TQFT. Along the way, we clarify the effects of gauging the mapping class group and the connection to chiral 3d gravity.",
   "id": "2512.05045",
   "title": "On random matrix statistics of 3d gravity",
   "url": "https://arxiv.org/abs/2512.05045",

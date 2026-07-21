@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We summarize a new approach for measuring the Hubble constant using standard sirens and the reconstructed matter density field obtained from observed galaxy surveys. Specifically, we describe and test this method using Bayesian forward-modeled software borg. This software evolves the initial density field to the present, sampling plausible density fields from the posterior, accounting for peculiar velocities, and automatically incorporating higher-order correlation functions. The advantage of adding additional information from correlations is expected to make this method more effective in low-signal-to-noise regimes, such as those with modest galaxy number density or incomplete surveys. Our results show that developing a cross-correlation framework between gravitational waves and galaxy surveys, based on the forward-modeled reconstructed density field, to measure $H_0$ is promising.",
   "id": "2503.07974",
   "title": "Inference of Hubble constant using standard sirens and reconstructed matter density field",
   "url": "https://arxiv.org/abs/2503.07974",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We consider the possibility that gravity is mediated by \"continuous spin\" particles, i.e.~ massless particles whose invariant spin scale $\u03c1_g$ is non-zero. In this case, the primary helicity-2 modes of gravitational radiation on a Minkowski background mix with a tower of integer-helicity partner modes under boosts, with $\u03c1_g$ controlling the degree of mixing. We develop a formalism for coupling spinless matter to continuous spin gravity at linearized level. Using this formalism, we calculate the time-delay signatures induced by gravitational waves in an idealized laser interferometer detector. The fractional deviation from general relativity predictions is $O(\u03c1_g/\u03c9)$ for gravitational wave frequencies $\u03c9>\u03c1_g$, and the effects of waves with $\u03c9\\lesssim \u03c1_g$ are damped. The precision and low frequency ranges of gravitational wave detectors suggest potential sensitivity to spin scales at or below $\\sim 10^{-14}$ eV at ground-based laser interferometers and $\\sim 10^{-24}$ eV at pulsar timing arrays, motivating further analysis of observable signatures.",
   "id": "2503.03817",
   "title": "A First Look at \"Continuous Spin\" Gravity -- Time Delay Signatures",
   "url": "https://arxiv.org/abs/2503.03817",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present DeepInflation, an AI agent designed for research and model discovery in inflationary cosmology. Built upon a multi-agent architecture, DeepInflation integrates large language models with a symbolic regression engine and a retrieval-augmented generation knowledge base. This framework enables the agent to automatically explore and verify the vast landscape of inflationary potentials while grounding its outputs in established theoretical literature. We demonstrate that DeepInflation can successfully discover simple and viable single-field slow-roll inflationary potentials consistent with the latest observations (with the ACT DR6 results taken as an example) or any given n$_{s}$ and r, and provide accurate theoretical context for obscure inflationary scenarios. DeepInflation serves as a prototype for a new generation of autonomous scientific discovery engines in cosmology, which enables researchers and non-experts alike to explore the inflationary landscape using natural language. This agent is available at https://github.com/pengzy-cosmo/DeepInflation.",
   "id": "2601.14288",
   "title": "DeepInflation: an AI agent for research and model discovery of inflation",
   "url": "https://arxiv.org/abs/2601.14288",

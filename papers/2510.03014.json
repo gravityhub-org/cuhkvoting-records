@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We perform a Hamiltonian constraint analysis of the multivielbein theory proposed in [Phys. Rev. Lett.122 (2019) 251101]. The analysis shows that the secondary constraints have the correct form to eliminate the problematic ghost fields that generally plague theories of interacting spin-2 fields. In particular, the would-be ghost fields are eliminated by the constraints associated with the lapse functions. The subsequent constraints must then determine the ghost momenta and the remaining non-dynamical variables. To establish this, we work with a restricted set of vielbeins with equal boost functions. This allows us to explicitly compute the additional constraints that eliminate the canonical momenta associated with the ghost fields and fix the remaining non-dynamical variables. Our analysis confirms that, subject to this restriction on the boosts, the theory with \ud835\udca9 interacting vielbeins propagates 2+5 (\ud835\udca9\u22121) modes. This corresponds to a nonlinear theory of one massless and \ud835\udca9\u22121 massive spin-2 fields free of Boulware-Deser ghost instabilities.",
   "id": "2510.03014",
   "title": "Existence of ghost-eliminating constraints in multivielbein theory",
   "url": "https://arxiv.org/abs/2510.03014",

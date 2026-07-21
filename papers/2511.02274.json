@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We introduce the modified Teukolsky equation within a parameterized framework, analogous to the case of small deviations of potential in spherical symmetry. Both the radial and angular equations acquire modifications described by two independent sets of parameters. We derive the parameterized framework of the quasinormal mode spectra using the continued fraction method. The results are cross-validated with the two-dimensional pseudo-spectral method, demonstrating excellent agreement and ensuring self-consistency. This work establishes a robust foundation for a theory-agnostic interpretation of gravitational-wave ringdown signals, providing a practical tool for probing potential deviations from General Relativity in the strong-field regime.",
   "id": "2511.02274",
   "title": "The parameterized quasinormal modes for modified Teukolsky equations",
   "url": "https://arxiv.org/abs/2511.02274",

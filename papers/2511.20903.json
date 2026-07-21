@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We consider a class of models in even spacetime dimensions 2n which share many similarities with Chern-Simons theories in odd spacetime dimensions 2n + 1. The independent dynamical variables of these models are a GL(2n)-connection and a metric in internal space. The action is a polynomial of degree n in the curvature of the connection, with indices saturated by means of the metric and the Levi-Civita tensor. We show that the theory has no local degree of freedom in 2 spacetime dimensions (n = 1), where it can be reformulated as a constrained BF model, but that its dynamics is more intrincate in higher dimensions (n > 1), where local degrees of freedom are present. We treat in detail the cases of 2 and 4 spacetime dimensions.",
   "id": "2511.20903",
   "title": "Palatini Gauss-Bonnet theory",
   "url": "https://arxiv.org/abs/2511.20903",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Gravitational waves from binary black hole mergers provide a glimpse of gravitational dynamics in its most extreme observable regime, potentially enabling precision tests of general relativity (GR) and of the Kerr description of black holes. However, until recently, numerical simulations of black hole mergers have not been possible in theories beyond GR. While recent breakthroughs have overcome that obstacle, simulations covering the full, interesting range of binary parameters remain unfeasible. Here we present a new first-principles approach to this problem. We show how self-force theory can be used to model the merger and ringdown of black holes in a broad class of gravitational theories, assuming one object is much smaller than the other. We calculate self-force effects on the merger waveform for the first time, and we demonstrate how our formulation allows us to modularly compute beyond-GR effects and readily incorporate them into a fast merger-ringdown waveform model.",
   "id": "2510.11793",
   "title": "Black hole mergers beyond general relativity: a self-force approach",
   "url": "https://arxiv.org/abs/2510.11793",

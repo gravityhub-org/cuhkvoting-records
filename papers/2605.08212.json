@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "There is an increasing number of algorithmic computations in theoretical physics. These, while conceptually simple, can nevertheless be time-consuming and contain subtleties that should not be overlooked. Given the recent improvement of Large Language Models (LLM), it is natural to investigate whether LLMs equipped with a computer algebra system (CAS) runtime and sufficiently informative context can reliably carry out these algorithmic tasks. In this work, we interface Claude with Maple, and apply this framework to cosmological perturbations in modified theories of gravity. We demonstrate the current capabilities of this approach, the typical failures, and how the same can be improved. We find that a frontier LLM supplied with worked examples is able to solve most test problems.",
   "id": "2605.08212",
   "title": "LLMs with in-context learning for Algorithmic Theoretical Physics",
   "url": "https://arxiv.org/abs/2605.08212",

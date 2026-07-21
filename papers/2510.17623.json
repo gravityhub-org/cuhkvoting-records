@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In this paper, we discuss the Unruh state for a free scalar quantum field on Kerr\u2013de Sitter under the assumption of mode stability. We summarise the proof of its Hadamard property that was previously given in [C. Klein, Ann. Henri Poincare $\\mathbf{24}$(7), 2401\u20132442 (2023)] for sufficiently small black-hole rotation and cosmological constant, and show how it can be generalised to any subextreme black-hole angular momentum in the same range of the cosmological constant. This is done by extending a geometric analysis of the trapped set of the Kerr spacetime [D. H\u00e4fner and C. Klein, Lett. Math. Phys. $\\mathbf{114}$(5), 119 (2024)] to Kerr\u2013de Sitter. Moreover, we discuss the application of this state in the numerical study of quantum effects at the inner horizon [C. Klein $et~ al.$, Phys. Rev. Lett. $\\mathbf{132}$(12), 121501 (2024)], and describe a universality result for these effects [P. Hintz and C. Klein, Classical Quantum Gravity $\\mathbf{41}$(7), 075006 (2024)].",
   "id": "2510.17623",
   "title": "Exploring quantum fields in rotating black holes",
   "url": "https://arxiv.org/abs/2510.17623",

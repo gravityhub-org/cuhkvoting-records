@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Improved low-frequency sensitivity of gravitational wave observatories would unlock study of intermediate-mass black hole mergers and binary black hole eccentricity and provide early warnings for multimessenger observations of binary neutron star mergers. Today\u2019s mirror stabilization control injects harmful noise, constituting a major obstacle to sensitivity improvements. We eliminated this noise through Deep Loop Shaping, a reinforcement learning method using frequency domain rewards. We proved our methodology on the LIGO Livingston Observatory (LLO). Our controller reduced control noise in the 10- to 30-hertz band by over 30x and up to 100x in subbands, surpassing the design goal motivated by the quantum limit. These results highlight the potential of Deep Loop Shaping to improve current and future gravitational wave observatories and, more broadly, instrumentation and control systems.",
   "id": "2509.14016",
   "title": "Improving cosmological reach of a gravitational wave observatory using Deep Loop Shaping",
   "url": "https://arxiv.org/abs/2509.14016",

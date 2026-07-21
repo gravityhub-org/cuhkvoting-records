@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We give a simplified proof of the quantum null energy condition (QNEC). Our proof is based on an explicit formula for the shape derivative of the relative entropy, with respect to an entangling cut. It allows bypassing the analytic continuation arguments of a previous proof by Ceyhan and Faulkner and can be used e.g., for defining entropy current fluctuations.",
   "id": "2503.04651",
   "title": "A New Proof of the QNEC",
   "url": "https://arxiv.org/abs/2503.04651",

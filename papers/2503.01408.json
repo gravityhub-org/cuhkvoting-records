@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Electrical resistivity plays a fundamental role in many astrophysical systems, influencing the evolution of the magnetic field and energy dissipation processes. During the coalescence of two neutron stars, resistive effects can significantly affect the dynamics and gravitational and electromagnetic signatures associated with these events, such as gamma-ray bursts and kilonova emission. Here, we present our new code, named mir (an acronym for magnetoidrodinamica resistiva, i.e., resistive magnetohydrodynamics in Italian). Developed within the Einstein Toolkit framework, mir solves the general relativistic magnetohydrodynamic equations in 3D Cartesian coordinates and on a dynamical spacetime using the <math display=\"inline\"><mrow><mn>3</mn><mo>+</mo><mn>1</mn></mrow></math> Eulerian formalism, in both the ideal and resistive regimes, filling a crucial gap in the toolkit\u2019s capabilities.",
   "id": "2503.01408",
   "title": "MIR: a general-relativistic resistive-magneto-hydrodynamic code to study the effect of resistivity in Neutron Star dynamics",
   "url": "https://arxiv.org/abs/2503.01408",

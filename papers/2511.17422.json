@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the prospects for detecting a parity-violating gravitational-wave background (GWB) with third-generation ground-based detector networks. We focus on a network consisting of one Einstein Telescope (ET) and two Cosmic Explorer (CE) detectors. In our analysis we vary the ET design, detector orientations, and arm lengths, in order to assess the impact of geometry and scale on detection capabilities. We find that parity-violation sensitivity is driven primarily by network geometry. In particular, detector orientation has a substantial influence on sensitivity to circular polarization. Given current observational constraints from the fourth observing run of the LIGO-Virgo-KAGRA Collaboration, we find that ET alone cannot confidently detect parity-violation in a flat GWB.",
   "id": "2511.17422",
   "title": "A battle of designs: triangular vs. L-shaped detectors and parity violation in the gravitational-wave background",
   "url": "https://arxiv.org/abs/2511.17422",

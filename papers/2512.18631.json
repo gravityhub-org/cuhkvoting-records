@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study the asymptotic behavior of parametrized black hole quasinormal modes (QNMs) in the high-overtone limit. To gain insights into their analytical structure, we apply the exact WKB method, which was recently developed by the same authors. Our theoretical predictions are confirmed in good agreement with the numerical results based on Leaver\u2019s method. For specific values of parametrization parameters that characterize deviations from general relativity, we find that the real part of asymptotic QNM frequencies diverges in the high-overtone limit, in sharp contrast to the case of a Schwarzschild black hole. This demonstrates that the convergence of the real parts of high-overtone QNMs is a distinctive feature of general relativity, while parametrized corrections generically lead to divergent spectral behaviors.",
   "id": "2512.18631",
   "title": "Instability of parametrized black hole quasinormal modes in the high-overtone limit via the exact WKB analysis",
   "url": "https://arxiv.org/abs/2512.18631",

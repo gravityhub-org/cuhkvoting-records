@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The remnant black hole\u2013accretion disk system resulting from binary neutron star mergers has proven to be a promising site for synthesizing the heaviest elements via rapid neutron capture (r-process). A critical factor in determining the full r-process pattern in these environments is the neutron richness of the ejecta, which is strongly influenced by neutrino interactions. One key ingredient shaping these interactions is fast neutrino flavor conversions (FFCs), which arise due to angular crossings in neutrino distributions and occur on nanosecond timescales. We present the first three-dimensional in situ angle-dependent modeling of FFCs in postmerger disks, implemented within general relativistic magnetohydrodynamics with Monte Carlo neutrino transport. Our results reveal that, by suppressing electron neutrinos, FFCs more efficiently cool the disk and weaken the early thermally driven wind. Less releptonization due to electron neutrino absorption makes this cooler wind more neutron rich, producing a more robust r-process at higher latitudes of the outflow. This study underscores the necessity of incorporating FFCs in realistic simulations.",
   "id": "2503.23727",
   "title": "Angle-dependent in-situ fast flavor transformations in post-neutron star merger disks",
   "url": "https://arxiv.org/abs/2503.23727",

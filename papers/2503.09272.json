@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Mass redistribution on Earth due to dynamic processes such as ice melting and sea level rise leads to a changing gravitational field, observable by geodetic techniques. Monitoring this change over time allows us to learn more about our planet and its dynamic evolution. In this paper, we highlight the impact of General Relativity (GR) on geodesy: it provides corrections essential for the interpretation of high-precision measurements and enables a completely novel measurement approach using chronometry, i.e., clock-based observations. Focusing on the latter, we review the construction of the relativistic gravity potential and the corresponding geoid definition as an isochronometric surface to elucidate the comparison to the conventional Newtonian geoid. Furthermore, we comment on additional potentials due to the non-Newtonian degrees of freedom of the relativistic gravitational field, and assess the feasibility of clock-based measurements for Gravity Field Recovery (GFR) from space. Although clock observations in space demonstrate technical promise for GFR, achieving the necessary precision for practical applications remains challenging.",
   "id": "2503.09272",
   "title": "General Relativity and Geodesy",
   "url": "https://arxiv.org/abs/2503.09272",

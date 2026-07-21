@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate black hole quasinormal modes using the exact Wentzel\u2013Kramers\u2013Brillouin (WKB) method. We perform an analytic continuation from the horizon to infinity along the positive real axis of the radial coordinate and impose appropriate boundary conditions at these asymptotic positions. We clarify the role of previously overlooked logarithmic spirals of Stokes curves and branch cuts emerging from the horizon. We carefully reformulate the derivation of the quasinormal mode conditions using the exact WKB analysis, incorporating the contributions from these features into the calculation. We successfully derive correct results for both solvable model examples and the Schwarzschild spacetime. Our formulation enjoys straightforward extensions to other background geometries as well as a wide range of other physical systems.",
   "id": "2503.17245",
   "title": "Path to an exact WKB analysis of black hole quasinormal modes",
   "url": "https://arxiv.org/abs/2503.17245",

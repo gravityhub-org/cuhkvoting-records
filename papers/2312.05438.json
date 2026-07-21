@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We discuss refinement criteria for the Berger-Rigoutsos (block-based) refinement algorithm in our numerical relativity code GR-Athena++ in the context of binary black hole merger simulations. We compare three different strategies: the \"box-in-box\" approach, the \"sphere-in-sphere\" approach and a local criterion for refinement based on the estimation of truncation error of the finite difference scheme. We extract and compare gravitational waveforms using the three different mesh refinement methods and compare their accuracy against a calibration waveform and demonstrate that the sphere-in-sphere approach provides the best strategy overall when considering computational cost and the waveform accuracy. Ultimately, we demonstrate the capability of each mesh refinement method in accurately simulating gravitational waves from binary black hole systems -- a crucial aspect for their application in next-generation detectors. We quantify the mismatch achievable with the different strategies by extrapolating the gravitational wave mismatch to higher resolution.",
   "id": "2312.05438",
   "title": "Adaptive mesh refinement in binary black holes simulations",
   "url": "https://arxiv.org/abs/2312.05438",

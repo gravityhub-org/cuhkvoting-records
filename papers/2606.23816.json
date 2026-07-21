@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Detecting a stochastic gravitational-wave background represents a crucial yet challenging objective within the field of gravitational-wave astronomy. Ground-based detectors currently rely almost exclusively on cross-correlation methods to detect stochastic gravitational-wave background signals. Traditionally, these methods define and optimize a broadband estimator initially constructed in the time domain. However, a growing number of analyses require precise narrowband estimators to accurately characterize the energy density of the underlying signal in specific frequency bins. Transitioning from time-domain broadband estimators to frequency-domain narrowband estimators introduces significant complexities that have not yet been fully explored in the existing literature. In this study, we systematically revisit and rigorously reformulate the cross-correlation method in the frequency domain, explicitly addressing and resolving issues related to non-zero covariances induced by windowing and overlapping of data in the time domain. We provide new expressions for the narrowband estimators and their covariances, which differ from those used in past searches. Fortunately, we show that the expressions that have been widely used in the field nonetheless lead to correct posterior distributions for parameter estimation and correct log-Bayes factors for model selection. By establishing a robust theoretical framework, our work facilitates more accurate and physically insightful interpretations of stochastic gravitational-wave background observations, laying an essential foundation for current and future research in this field.",
   "id": "2606.23816",
-  "title": "",
+  "title": "A thorough investigation of cross-correlation estimators for stochastic gravitational-wave background searches in ground-based detector data",
   "url": "https://arxiv.org/abs/2606.23816",
   "votes": [
     {

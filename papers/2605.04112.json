@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Coarse-grained descriptions can be used to account for physical processes in which information is lost or not entirely accessible. In this paper, we start by proposing a connection between effective, coarse-grained descriptions of quantum dynamics and the quantum conditional states formalism. In doing so, we address necessary and sufficient conditions for the existence of emergent dynamics from a subjective Bayesian point of view. Although our solution is (quasi-)optimal, the dynamics it determines are shown to be analytically limited -- it solves the problem in a state-by-state case. Due to this limitation, we then implement semidefinite programming techniques to investigate the existence of effective dynamics in four paradigmatic scenarios. The existence of such an effective dynamics motivates the introduction of a new robustness measure that quantifies how much noise can be added to a microscopic dynamics without compromising its compatibility with a given coarse-grained description. Finally, we also show how one can analytically determine a valid emergent description in several examples.",
   "id": "2605.04112",
   "title": "Emergent Quantum Dynamics as a Bayesian Inference Problem: A Critical Analysis",
   "url": "https://arxiv.org/abs/2605.04112",

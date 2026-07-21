@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The sound speed of dark energy encodes fundamental information about the microphysics underlying cosmic acceleration, yet remains essentially unconstrained by existing observations. We demonstrate that a lunar-based laser interferometer, such as the proposed Laser Interferometer Lunar Antenna (LILA), can directly probe the sound speed of dark energy by measuring the real-time evolution of horizon-scale gravitational potentials. Operating in the ultra-low-frequency gravitational band inaccessible from Earth, LILA is sensitive to scalar metric perturbations sourced by dark energy dynamics. Using both fluid and effective field theory descriptions, we develop a complete framework linking dark energy sound speed to observable strain signatures. We construct a likelihood pipeline and Fisher forecasts, showing that LILA can either detect clustering dark energy or exclude broad classes of models with unprecedented sensitivity. This establishes lunar interferometry as a novel and powerful probe of the physics driving cosmic acceleration.",
   "id": "2601.22084",
   "title": "Probing the Sound Speed of Dark Energy with a Lunar Laser Interferometer",
   "url": "https://arxiv.org/abs/2601.22084",

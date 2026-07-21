@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "There is currently no rigorous definition of gravitational wave strain at second order in cosmological perturbation theory. The usual association of gravitational waves with transverse and traceless fluctuations of the metric on spatial hypersurfaces becomes ambiguous at second order, as it inherently depends on the spacetime slicing. While this poses no practical issues in linearized gravity, it presents a fundamental problem for secondary gravitational waves, especially notorious for gravitational waves induced by primordial fluctuations. We compute, for the first time, the observable gravitational wave strain at second order as measured by geodesic observers that emit and receive electromagnetic signals, thereby settling the debate on gauge ambiguities. Working in a gauge invariant fashion, we find that the measured gravitational wave strain coincides with the transverse-traceless components in the Newton gauge.",
   "id": "2512.15704",
   "title": "Physical Effects of Gravitational Waves at Second Order",
   "url": "https://arxiv.org/abs/2512.15704",

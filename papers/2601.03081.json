@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In relativity, relaxation processes are often assumed to undergo time dilation under Lorentz boosts. We show that this intuition fails generically. Because of relativity of simultaneity, Lorentz boosts can split a single relaxation mode into a continuum of excitations, with a width set by the maximal signal propagation speed. Focusing on linearized relativistic (kinetic or rheological) theories with an Onsager-type symmetry, we derive rigorous bounds on relaxation spectra in arbitrary inertial frames, expressed solely in terms of rest-frame spectral data at zero wave number. As a consequence, nonhydrodynamic gaps, maximal relaxation rates, and the convergence radii of hydrodynamic modes obey nontrivial Lorentz-covariant constraints. These results provide a unified framework for understanding how relativity constrains relaxation dynamics in many-body systems.",
   "id": "2601.03081",
   "title": "Disturbing moving fluids",
   "url": "https://arxiv.org/abs/2601.03081",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We identify a general class of spacetime metrics that mimic the properties of black holes without possessing a true event horizon. These metrics are constrained by the requirements of being singularity free and geodesically complete. Specifically, we study metrics that do not possess <math display=\"inline\"><msub><mi>Z</mi><mn>2</mn></msub></math> symmetry and may deviate slightly or significantly from the symmetric case. Focusing on scalar perturbations propagating on such backgrounds, we analyze the resulting effective radial potentials and their dependence on different corners of the mimicker landscape. We further investigate the corresponding quasinormal modes and explore their characteristic features. Finally, we survey the landscape for potential observational signatures, including shadow properties and the possible presence or absence of echo effects.",
   "id": "2511.03879",
   "title": "Exploring the landscape of black hole mimickers",
   "url": "https://arxiv.org/abs/2511.03879",

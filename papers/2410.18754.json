@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Recent studies have shown that there is a strong interplay between quantum complexity and quantum chaos. In this work, we consider a new method to study geometric complexity for interacting non-Gaussian quantum mechanical systems to benchmark the quantum chaos in a well-known oscillator model. In particular, we study the circuit complexity for the unitary time-evolution operator of a non-Gaussian bosonic quantum mechanical system. Our results indicate that, within some limitations, geometric complexity can indeed be a good indicator of quantum chaos.",
   "id": "2410.18754",
   "title": "Benchmarking quantum chaos from geometric complexity",
   "url": "https://arxiv.org/abs/2410.18754",

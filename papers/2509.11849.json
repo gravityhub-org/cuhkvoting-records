@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Yes, it can. Catalogs produced by networks of gravitational-wave interferometers are subject to complicated selection effects, and the gold standard remains direct measurements of the detection probability through large injection campaigns. I leverage public data products from the LIGO-Virgo-KAGRA Collaborations\u2019 third and fourth observing runs to show that there are nontrivial temporal variations within the detection probability that are well-described by a weekly cycle. There are clear differences between weekends and weekdays, between day and night (at the sites), and even between daylight saving time and standard time. I discuss possible causes for this behavior and implications.",
   "id": "2509.11849",
   "title": "Can LIGO Detect Daylight Savings Time?",
   "url": "https://arxiv.org/abs/2509.11849",

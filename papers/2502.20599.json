@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In this work, we propose a modified Newton dynamics (MOND) model to study the rotation curves of galaxies. The model is described by an arc-tangent interpolating function and it fits the rotation curves of several galaxies without invoking the presence of dark matter. We took from the literature the rotation curve data of 15 spiral galaxies, and used it to constrain the model parameter, a0, as around 5\u00d710\u221210 m/s2. This parameter is also called the acceleration constant once it gives the acceleration scale where Newton\u2019s dynamics fails. The model can be further tested in different astrophysical scenarios, such as, the missing mass problem of galaxy clusters and the accelerated expansion of the Universe, thus leading to a more robust and well-constrained model.",
   "id": "2502.20599",
   "title": "A MOND model applied to the rotation curve of galaxies",
   "url": "https://arxiv.org/abs/2502.20599",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We formulate a stochastic generalisation of the Schwinger effect, extending pair production to statistically fluctuating gauge-field backgrounds. Our approach captures realistic field configurations that are transient, inhomogeneous, and stochastic, as commonly encountered in cosmological and high-energy astrophysical settings. Using the effective action formalism, we compute the vacuum decay rate and number density of charged particles, obtaining closed-form analytical expressions for both scalar and fermionic cases. To isolate the essential physics, the analysis is performed in flat spacetime and at zero temperature, providing a controlled setting in which curvature and thermal effects can be neglected. As a proof of concept, we present representative phenomenological examples relevant to astrophysical plasmas and early-Universe-motivated scenarios.",
   "id": "2510.14468",
   "title": "The Stochastic Schwinger Effect",
   "url": "https://arxiv.org/abs/2510.14468",

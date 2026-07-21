@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Perhaps the most basic question we can ask about cosmological correlations is how their strength changes as we smoothly vary kinematic parameters. The answer is encoded in differential equations that govern this evolution in kinematic space. In this Letter, we introduce a new perspective on these differential equations. We show that, in the simplified setting of conformally coupled scalars in a general FRW spacetime, the equations for arbitrary tree-level processes can be obtained from a small number of simple combinatorial rules. While this \"kinematic flow\" is defined purely in terms of boundary data, it reflects the physics of bulk time evolution. The unexpected regularity of the equations suggests the existence of an autonomously defined mathematical structure from which cosmological correlations, and the time evolution of the associated spacetime, emerge.",
   "id": "2312.05300",
-  "title": "",
+  "title": "Kinematic Flow and the Emergence of Time",
   "url": "https://arxiv.org/abs/2312.05300",
   "votes": [
     {

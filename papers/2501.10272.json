@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The recent breakthroughs regarding the detection of compact binary mergers via gravitational waves opened up a new window to the Universe. Gravitational-wave models have been essential to this success since they are necessary to infer the properties of the compact binary system from the observational data. Next-generation detectors, such as the Einstein Telescope, will allow for more observations of binary neutron star mergers with higher precision, making accurate waveform models crucial in describing these systems. In this article, we propose a novel approach for constructing phenomenological waveform models informed by observational data. Using mock data representing a one-year operation of the Einstein Telescope as our baseline, we demonstrate how the results improve as more events are included in the calibration. This method offers a new and complementary approach for developing sophisticated gravitational-wave models compared to classical techniques that employ analytical computations and numerical-relativity simulations. Improved waveform models will then yield more accurate parameter estimation.",
   "id": "2501.10272",
   "title": "Data-driven approach for extracting tidal information from neutron star binary mergers observed with the Einstein Telescope",
   "url": "https://arxiv.org/abs/2501.10272",

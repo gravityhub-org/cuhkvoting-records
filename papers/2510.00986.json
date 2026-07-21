@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We report on a novel set of very-high-frequency quasi-periodic oscillations (VHFQPO's) in the context of compact, non-singular horizonless objects. Focussing on the static, spherically symmetric case we utilize metrics of non-singular black holes that are accompanied by a regulator length scale L > 0. The choice L \u2273 GM generically removes the horizon from these metrics leading to compact, horizonless but non-singular objects. This generically guarantees the existence of a stable orbit at small radii r \u226a r$_{ISCO}$, independent of the angular momentum of the massive particle. Crucially, the absence of a horizon allows the resulting VHFQPO's to escape to infinity, spanning the range from 1kHz (M = 10M$_{\u2299}$) to 25 kHz (M = 2M$_{\u2299}$). Within the paradigm of non-singular spacetime geometries, the absence of such VHFQPO's from X-ray binary spectra implies the presence of a horizon around the central, compact object.",
   "id": "2510.00986",
   "title": "Novel very-high-frequency quasi-periodic oscillations of compact, non-singular objects",
   "url": "https://arxiv.org/abs/2510.00986",

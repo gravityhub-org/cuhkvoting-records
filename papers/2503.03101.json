@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Curvature perturbations induce gravitational waves (GWs) at second order, contributing to the stochastic gravitational wave background. The resulting gravitational wave spectrum is sensitive to the evolutionary history of the universe and can be substantially enhanced by early matter-dominated (eMD) epochs, particularly if they end rapidly. Such epochs can be caused by primordial black holes (PBHs) and non-topological solitons (Q-balls), for example. Prior analysis approximated the end of the eMD epoch as instantaneous or used a Gaussian smoothing. In this work, we present a complete analysis fully incorporating their time-evolving decay rates. We demonstrate that the resulting signal spectra from PBH, thin wall Q-ball, thick wall Q-ball, and delayed Q-ball eMD epochs are distinguishable for monochromatic distributions. We then consider log-normal mass distributions and discuss the distinguishability of the various GW spectra. Importantly, we find that the resulting spectra from different types of matter, which decay at different rates, can be distinguished from the GW spectra from broader mass distributions.",
   "id": "2503.03101",
   "title": "Using Gravitational Wave Signals to Disentangle Early Matter Dominated Epochs",
   "url": "https://arxiv.org/abs/2503.03101",

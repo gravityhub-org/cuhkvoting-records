@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We test screened dark energy with near-Earth, space-based measurements. In a post-Newtonian framework, we compute leading corrections to geodetic precession (Gravity Probe B), LAGEOS-2 pericenter advance, and the Sagnac delay in a prospective orbital configuration, yielding bounds on chameleon, symmetron, and dilaton models. LAGEOS-2 sets the strongest Earth-orbit limits on symmetron and dilaton, while a Sagnac setup at the projected sensitivity of state-of-the-art space clocks gives the tightest chameleon constraint. These results show that low-density, space-based experiments sensitively probe screened dark energy and exclude previously allowed parameter space. Notably, at nuclear-clock precision <math display=\"inline\"><mi mathvariant=\"script\">O</mi><mrow><mo stretchy=\"false\">(</mo><msup><mn>10</mn><mrow><mo>-</mo><mn>19</mn></mrow></msup><mo stretchy=\"false\">)</mo></mrow></math>, a Sagnac test would exclude the entire chameleon parameter space considered.",
   "id": "2511.08448",
   "title": "Earth-orbit bounds on screened dark energy",
   "url": "https://arxiv.org/abs/2511.08448",

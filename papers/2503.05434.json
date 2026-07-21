@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We formulate the statistics of peaks of non-Gaussian random fields and implement it to study the sphericity of peaks. For non-Gaussianity of the local type, we present a general formalism valid regardless of how large the deviation from Gaussian statistics is. For general types of non-Gaussianity, we provide a framework that applies to any system with a given power spectrum and the corresponding bispectrum in the regime in which contributions from higher-order correlators can be neglected. We present an explicit expression for the most probable values of the sphericity parameters, including the effect of non-Gaussianity on the shape. We show that the effects of small perturbative non-Gaussianity on the sphericity parameters are negligible, as they are even smaller than the subleading Gaussian corrections. In contrast, we find that large non-Gaussianity can significantly distort the peak configurations, making them much less spherical.",
   "id": "2503.05434",
   "title": "Peaks sphericity of non-Gaussian random fields",
   "url": "https://arxiv.org/abs/2503.05434",

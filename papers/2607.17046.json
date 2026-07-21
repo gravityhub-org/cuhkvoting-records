@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Based on eigendecomposition and matrix perturbation theory, we propose an alternative method for analyzing perturbations in massive gravity that is applicable to both the base theory and its various modifications. We demonstrate the validity of this approach even in seemingly singular regimes. Applying this framework to mass-varying massive gravity, we compute perturbations for all constant-scalar Schwarzschild-(A)dS black hole solutions. We show that, under the condition $\u03b2= \u03b1^2$, the tensor sector of these black holes reduces to that of general relativity, while the scalar sector remains free from tachyonic instabilities given appropriate parameter choices. A deeper relationship is also revealed between the solutions with generic parameters and those with $\u03b2= \u03b1^2$: their solution manifolds intersect at a specific locus where the perturbation vanishes.",
   "id": "2607.17046",
   "title": "Perturbations of black holes in mass-varying massive gravity",
   "url": "https://arxiv.org/abs/2607.17046",

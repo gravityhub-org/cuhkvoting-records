@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Effective field theories offer a powerful method to unify diverse models under a small set of control parameters, allowing systematic expansions around well-established theories. These techniques, developed in particle physics, were designed for experiments where the initial state - the vacuum before a scattering event - is as clean and isolated as possible. Besides colliders, realistic environments are often noisy and dissipative. The recognition of the limitations of traditional EFT techniques has, over the past decade, sparked intense progress at the interface of high-energy physics and condensed matter. These considerations motivate a new approach to gravitation and cosmology, one that models the gravitational sector as evolving in the presence of an unobservable medium. Open Effective Field Theories provide a systematic and controllable field-theoretic framework for modeling dissipation and noise in gravitation and cosmology. These notes aim to introduce this versatile toolkit, enabling model-agnostic assessments of how unknown environments shape our observational probes.",
   "id": "2510.00140",
   "title": "Lectures on Open Effective Field Theories",
   "url": "https://arxiv.org/abs/2510.00140",

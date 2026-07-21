@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The short-duration gravitational-wave (GW) event GW231123 has inferred component masses in the pair-instability mass gap and exhibits a burst-like morphology with no clearly inspiral, making it an interesting target for tests beyond the standard binary black hole (BBH) interpretation. In this work, motivated by its phenomenological similarity to GW190521, we test whether GW231123 is compatible with a wormhole-echo scenario by modeling a leading echo pulse with a well-motivated phenomenological sine-Gaussian wavepacket. We perform Bayesian model comparison against a BBH baseline described by the IMRPhenomXPHM-SpinTaylor waveform, and obtain the Bayes factor ratio $\\ln B^{\\rm Echo}_{\\rm BBH} = 1.87$, corresponding to weak-to-moderate support for the echo hypothesis. In our previous analysis for GW190521 within the same overall framework, we found $\\ln B^{\\rm Echo}_{\\rm BBH} \\approx -2.9$, implying a shift of $\u0394\\ln B \\approx 4.8$ between the two events. This sign change indicates that GW231123 is more compatible with a single-pulse echo description than GW190521.",
   "id": "2602.01615",
   "title": "Testing the wormhole echo hypothesis for GW231123",
   "url": "https://arxiv.org/abs/2602.01615",

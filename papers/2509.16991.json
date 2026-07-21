@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The Grumiller metric is an effective model for gravity at large distances and plays a significant role in constructing galactic models and explaining dark matter. Here, in Grumiller spacetime, we analytically compute the quasinormal-mode frequencies and wave functions for massless particles with spin \u22642 by introducing a new transformation relation. We find that the quasinormal-mode frequencies are identical for different fermions sharing the same quantum number n. However, no bosonic quasinormal modes associated with Heun polynomials exist. Moreover, for a given frequency \u03c9, the corresponding particles exhibit a 2(n+1)-fold degeneracy. These results provide a theoretical basis for simulating particle waves with identical statistical properties.",
   "id": "2509.16991",
   "title": "Exact quasinormal modes in Grumiller spacetime",
   "url": "https://arxiv.org/abs/2509.16991",

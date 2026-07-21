@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We introduce a higher-derivative action for dark matter whose energy-momentum tensor describes an imperfect fluid with nonzero pressure, energy flux, and anisotropic stress. In the limit where the higher-derivative couplings are switched off, the energy-momentum tensor reduces to pressureless dust. A systematic derivation follows from extending the singular conformal transformation used in the mimetic dark matter scenario to include higher-derivative terms while the resulting action is general and does not rely on the mimetic framework. On a homogeneous cosmological background, the dynamics coincides with that of pressureless dust, while in the presence of inhomogeneities the higher-derivative terms generate nonzero acceleration and vorticity, making it possible to avoid the formation of caustic singularities even if the strong energy condition satisfies. In particular, within the mimetic realization these terms can resolve the usual caustic pathology of mimetic dark matter.",
   "id": "2510.23838",
   "title": "Imperfect dark matter with higher derivatives",
   "url": "https://arxiv.org/abs/2510.23838",

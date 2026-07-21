@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the adiabatic elimination of fast variables in relativistic stochastic mechanics, which is analyzed by using the equation of motion and the distribution function, with relativistic corrections explicitly derived. A new dimensionless parameter is introduced to characterize the timescale. The adiabatic elimination is compared with the path integral coarse graining, which is more general yet computationally demanding. \u2022Performs adiabatic elimination in relativistic stochastic mechanics.\u2022Derives a coarse-grained diffusion equation from a manifestly covariant framework.\u2022Introduces a parameter to characterize relativistic diffusion.\u2022Employs a path integral approach to handle relativistic diffusion.",
   "id": "2510.13053",
   "title": "Adiabatic Elimination in Relativistic Stochastic Mechanics",
   "url": "https://arxiv.org/abs/2510.13053",

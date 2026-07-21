@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The analytic structure of the flat-space S-matrix provides non-perturbative constraints on low-energy effective field theories based on the properties of high-energy theory. While the analytic structure of the flat-space S-matrix is well understood, extending this framework to de Sitter space is challenging, as the expanding background complicates the definition of asymptotic states and breaks time-translation symmetry. This paper investigates how flat-space analyticity is imprinted on the de Sitter S-matrix. We derive a relation between flat-space amplitude and de Sitter S-matrix on a specific limit called the Hubble flat-space limit. Specifically, we show that the relation holds for tree-level amplitude exchanging a massive scalar field with any local derivative interactions. Finally, we argue that the Hubble flat-space limit is more compatible with the description of effective field theory, as the total energy dependence of de Sitter S-matrix becomes trivial, allowing the Mandelstam variable to be identified as the unique energy scale, just as in flat space.",
   "id": "2511.22623",
   "title": "Imprints of flat space analyticity in de Sitter S-matrix",
   "url": "https://arxiv.org/abs/2511.22623",

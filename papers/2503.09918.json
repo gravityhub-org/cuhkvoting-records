@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Quasi-normal modes (QNMs) and greybody factors are some of the most characteristicfeatures of the dynamics of black holes (BHs) and represent the basis for a number of fundamentalphysics tests with gravitational wave observations. It is therefore important to understand theproperties of these quantities, naturally introduced within BH perturbation theory, in particularthe stability properties under modifications of the BH potential. Instabilities in the QNMs havebeen recently shown to appear in the BH pseudospectrum under certain circumstances. In this work,we give a novel point of view based on the existence of some recently discovered hidden symmetriesin BH dynamics and the associated infinite series of conserved quantities, the Korteweg-de Vries(KdV) integrals. We provide different motivations to use the KdV integrals as indicators of somecrucial BH spectral properties. In particular, by studying them in different scenarios describedby modified BH barriers, we find strong evidence that the KdV conserved quantities represent auseful tool to look for instabilities in the BH spectrum of QNMs and in their greybody factors.",
   "id": "2503.09918",
   "title": "Korteweg-de Vries Integrals for Modified Black Hole Potentials: Instabilities and other Questions",
   "url": "https://arxiv.org/abs/2503.09918",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Massive black holes surrounded by a gaseous disk have been a prevailing model to explain a wide spectrum of astrophysical phenomena related to active galactic nuclei (AGNs). However, direct and precise measurements of the disk density profiles remain elusive for current telescopes. In this work, we demonstrate that it is possible to pinpoint the gas density if an inspiralling stellar mass binary black hole is embedded in the AGN disk. Furthermore, if the barycenter of the pair follows an eccentric orbit around an AGN, then space-borne gravitational wave detectors can measure the density of the surrounding disk with multi-year observations by tracking the gravitational wave evolution. The error between the inferred density profile and the injected truth can be constrained to below 2\u00d710$^{-11}$ g/cm$^{3}$. Our work opens up an exciting new channel to investigate the very center of galaxies, where disk gas density distributions \u03c1(r) can be recovered by analyzing time-dependent environmental imprints in gravitational waveforms.",
   "id": "2511.10204",
   "title": "Probing AGN Disks Density Profiles through Gravitational Wave Observations",
   "url": "https://arxiv.org/abs/2511.10204",

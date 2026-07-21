@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "This paper develops a systematic approach to the geometrization of dynamics from the viewpoint of the geodesic equation. The method promotes a semispray to a spray through the imposition of suitable dynamical constraints, and the associated metric structure is extracted via reparameterization. When applied to static spacetimes, this spray-to-metric framework recovers the optical metric, the Jacobi metric for massive particles, and its generalization for charged particles in electromagnetic fields. We further show that a Randers-type Finsler metric arises naturally in the planar circular restricted three-body problem. By establishing a direct pathway from equations of motion to metric structures, this work offers a geometric perspective, independent of the traditional variational framework, may provide a basis for further studies on dynamical systems.",
   "id": "2511.01004",
   "title": "From Spray to Metric: The Geometric Construction of the Jacobi Metric",
   "url": "https://arxiv.org/abs/2511.01004",

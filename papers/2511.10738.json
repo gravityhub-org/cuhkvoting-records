@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Theories of gravity in which the metric is fundamentally classical predict stochastic fluctuations in the gravitational field. In this article, we study the stochastic Klein-Gordon equation as a starting point to understand the phenomenology of linearised classical-quantum hybrid gravity. In particular, we describe how to compute the non-equilibrium two point function of the scalar field, showing explicitly the role of the initial state in regulating divergences. To do so, we use a \"mod-squared-retarded\" pole-prescription and find that the covariance in the field is non-zero only outside the lightcone, scales inversely with the spatial distance of the spacetime points and grows linearly in time. The energy has a contact divergence similar to that found in the quantum case. We conclude by discussing possible implications of anomalous diffusion for hybrid theories of gravity, especially looking at the energy density in the predicted gravitational waves background, which can be inferred from the scalar covariances.",
   "id": "2511.10738",
   "title": "Diffusion in the stochastic Klein-Gordon equation",
   "url": "https://arxiv.org/abs/2511.10738",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The Newtonian motion of a macroscopic particle is derived from the linear Schr\u00f6dinger equation with a Hamiltonian consisting of the free-particle term and a random Hamiltonian drawn from the Gaussian Unitary Ensemble. The random term models interaction with the environment. We show that the parameters governing the resulting state-space random walk, together with the treatment of experimentally indistinguishable states as equivalence classes, explain the contrasting behavior of microscopic and macroscopic systems. The analysis extends previous work deriving the Born rule for microscopic particles when the free-particle term is negligible.",
   "id": "2603.09115",
   "title": "Emergence of Classical Dynamics from a Random Matrix Schr\u00f6dinger Model",
   "url": "https://arxiv.org/abs/2603.09115",

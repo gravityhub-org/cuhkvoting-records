@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We describe a group theoretic analysis of Shor's algorithm and other related hidden subgroup problems in mathematics and relate these to symmetries of molecular and condensed phase assemblies. By recasting Shor's algorithm through the lens of group theory, we expose the possibility that physical systems such as molecular orbitals, condensed phase assemblies and optical beams may be designed such that these contain information pertaining to the solution to hard mathematical problems such as prime-factoring. We discuss real molecular systems, whose orbitals are constructed from symmetry-adapted linear combinations of atomic orbitals, and show that these contain information pertaining to the prime-factors of corresponding integers. Due to the broad significance of prime-factoring towards a variety of encryption problems in cyber-security, we believe this novel and fundamental approach may have broad impact.",
   "id": "2605.04343",
   "title": "Hidden Prime-Factor Subgroups in Molecular and Condensed-Phase Systems",
   "url": "https://arxiv.org/abs/2605.04343",

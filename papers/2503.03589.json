@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The dynamical realization of the equation of state <math display=\"inline\"><mi>p</mi><mo>+</mo><mi>\u03c1</mi><mo>=</mo><mn>0</mn></math> is studied. A nonpathological dynamics for the perturbations of such a system mimicking a dynamical cosmological constant (DCC) requires to go beyond the perfect fluid paradigm. It is shown that an anisotropic stress must be always present. The Hamiltonian of the system in isolation resembles the one of a Pais-Uhlenbeck oscillator and linear stability requires that it cannot be positive definite. The dynamics of linear cosmological perturbations in a DCC dominated Universe is studied in detail showing that when DCC is minimally coupled to gravity no dramatic instability is present. In contrast to what happens in a cosmological constant dominated Universe, the nonrelativistic matter contrast is no longer constant and exhibits an oscillator behavior at small scales while it grows weakly at large scales. In the gravitational waves sector, at small scales, the amplitude is still suppressed as the inverse power of the scale factor while it grows logarithmically at large scales. Also the vector modes propagate, though no growing mode is found.",
   "id": "2503.03589",
   "title": "Dynamical Cosmological Constant",
   "url": "https://arxiv.org/abs/2503.03589",

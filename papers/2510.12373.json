@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Generic solutions are studied in Einstein-scalar gravity in an ansatz that can interpolate between de Sitter and Anti-de Sitter regimes. The scalar potential is arbitrary. All solutions are determined by their end-points in the scalar field space. All such end-points are classified. This provides a complete classification and characterization of the full space of regular solutions. It is shown that there are no regular (Centaur) solutions that interpolate between an AdS boundary and a dS interior, within our ansatz, when d > 2. This no-go theorem persists in the presence of multiple scalar fields with a non-trivial field space metric. The Gubser classification of regular solutions is also upgraded to include cases that are not Lorentz invariant and do not contain AdS boundaries.",
   "id": "2510.12373",
   "title": "de Sitter versus Anti de Sitter flows and the (super)gravity landscape: Part II",
   "url": "https://arxiv.org/abs/2510.12373",

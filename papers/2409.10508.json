@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present the first general-relativistic resistive magnetohydrodynamics simulations of self-consistent, rotating neutron stars with mixed poloidal and toroidal magnetic fields. Specifically, we investigate the role of resistivity in the dynamical evolution of neutron stars over a period of up to 100 ms and its effects on their quasi-equilibrium configurations. Our results demonstrate that resistivity can significantly influence the development of magnetohydrodynamic instabilities, resulting in markedly different magnetic field geometries. Additionally, resistivity suppresses the growth of these instabilities, leading to a reduction in the amplitude of emitted gravitational waves. Despite the variations in magnetic field geometries, the ratio of poloidal to toroidal field energies remains consistently 9:1 throughout the simulations, for the models we investigated.",
   "id": "2409.10508",
   "title": "General-relativistic resistive-magnetohydrodynamics simulations of self-consistent magnetized rotating neutron stars",
   "url": "https://arxiv.org/abs/2409.10508",

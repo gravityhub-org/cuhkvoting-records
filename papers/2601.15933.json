@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Cosmological first-order phase transitions are a well-motivated source of stochastic gravitational waves (GWs), but most predictions are made based on the highly idealized model of perfectly spherical vacuum bubbles, neglecting thermal fluctuations. In this work we use $(3+1)$-dimensional lattice simulations of a scalar model with thermal initial conditions to quantify how thermal fluctuations distort bubble profiles and modify the resulting GW spectrum. We find that thermal fluctuations can strongly break spherical symmetry at early times, allowing even an isolated bubble to emit GWs. In multi-bubble simulations, thermal fluctuations systematically reshape the spectrum, suppressing the infrared part while enhancing and broadening the high-$k$ tail. We further provide an analytical estimate for the ultraviolet regime of the GW spectrum, which is in good agreement with our lattice results and suggests that this regime is dominated by thermal fluctuations. These effects could leave observable imprints in future GW searches.",
   "id": "2601.15933",
   "title": "Gravitational Wave Signature of Aspherical Bubbles Driven by Thermal Fluctuation",
   "url": "https://arxiv.org/abs/2601.15933",

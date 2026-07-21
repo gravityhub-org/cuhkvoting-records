@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The third law of black hole dynamics states that it is impossible, through any classical perturbation of a stationary configuration, to reduce the surface gravity of a black hole to zero. In this work, we examine the validity of this law for static, spherically symmetric charged black holes in the Lovelock theory of gravity. By studying infinitesimal variations in mass and charge, we derive a set of inequalities that constrain these variations. Our analysis shows that as the surface gravity approaches zero (\u03ba \u2192 0), the range of admissible perturbations gradually diminishes, thereby forbidding the attainment of extremality through any finite classical process. The saturation of the inequality is interpreted as the emergence of a dynamical barrier near extremality, which prevents further evolution toward the extremal configuration.",
   "id": "2511.11695",
   "title": "The Third Law of Black Hole Dynamics in Pure Lovelock Gravity",
   "url": "https://arxiv.org/abs/2511.11695",

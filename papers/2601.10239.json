@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Waves propagating through a gravitational potential exhibit wave-optics effects when their wavelength is not significantly smaller than the lensing scales. We study the propagation of a scalar wave, governed by the Klein\u2013Gordon equation in curved spacetime, to focus on effects on amplitude and phase, while leaving aside the issue of wave polarization which affects electromagnetic and gravitational waves. Using the Newman\u2013Penrose formalism, we obtain the first corrections beyond the geometric optics in the expansion in the inverse frequency. In vacuum, that is for Weyl tensor lensing, there is no wave effect at first order in G and wave effects start at order G$^{2}$. Conversely, if the wave travels through a non-vanishing matter density, the first corrections start at order G. We check these analytic results by solving numerically the equations dictating the evolution of the corrections either in the vicinity of a Schwarzschild black hole or through a transparent star.",
   "id": "2601.10239",
   "title": "Gravitational lensing beyond the eikonal approximation",
   "url": "https://arxiv.org/abs/2601.10239",
