@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Observations and simulations of coronal rain show that as cold and dense plasma falls through the corona it initially undergoes acceleration by gravity before the downward velocity saturates. Simulations have shown the emergence of an unexpected relation between terminal velocity of the rain and density ratio that has not been explained. Our aim is to explain this relation. In this paper we develop a simple point-mass model to understand how the evolution of the ambient corona moving with the coronal rain drop can influence the falling motion. We find that this simple effect results in the downward speed reaching a maximal value before decreasing, which is consistent with simulations with realistic coronal rain mass. These results provide an explanation for the scaling of the maximum downward speed to density ratio of the rain to the corona and as such provide a new tool that may be used to interpret observations.",
   "id": "2503.11327",
   "title": "Understanding coronal rain dynamics through a point-mass model",
   "url": "https://arxiv.org/abs/2503.11327",
