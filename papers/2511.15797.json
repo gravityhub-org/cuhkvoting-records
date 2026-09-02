@@ -1,0 +1,12 @@
+{
+  "abstract": "Gravitational waves propagating across gravitational potentials undergo lensing effects that, in the wave-optics regime, manifest as frequency-dependent amplitude and phase modulations. In this work, we revisit the diffraction integral formalism of gravitational lensing and demonstrate that it admits a natural and transparent interpretation within the framework of scattering theory. We establish a direct correspondence between the lensing amplification factor and the scattering amplitude of waves propagating in curved spacetime, clarifying how familiar lensing limits map onto distinct scattering regimes. In particular, we show that the diffraction integral matches exactly the eikonal limit of the scattering amplitude at lowest post-Minkowskian order, after a change in coordinates and the inclusion of finite-distance effects. We further extend the standard formalism by including subleading corrections to the post-Minkowskian and eikonal approximations. Our results provide a unified theoretical framework for the interpretation of lensed gravitational-wave signals and open the way to more accurate waveform modeling for future lensed observations.",
+  "id": "2511.15797",
+  "title": "Scattering perspective on gravitational lensing",
+  "url": "https://arxiv.org/abs/2511.15797",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-09-02T13:29:16.966318Z"
+    }
+  ]
+}
