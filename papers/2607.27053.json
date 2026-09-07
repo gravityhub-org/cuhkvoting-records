@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "The Teukolsky equation possesses discrete symmetries that constrain the properties of black hole perturbations and their quasinormal mode spectrum. In this study, we explore how a class of modifications of the Teukolsky potential can alter the symmetry structure of the equation and break the m = 0 degeneracy of quasinormal modes. We prove this result in frequency domain using the master Teukolsky equation and in time domain via (2+1)-dimensional simulations. We also show that the discrete symmetries can be leveraged for a more efficient characterization of the m = 0 quasinormal modes from time-domain evolutions. As a theory-specific application, we consider the case of higher-derivative theories of gravity, highlighting that time-domain implementations of frequency-domain potentials can give rise to additional non-physical branches of modes.",
   "id": "2607.27053",
   "title": "Discrete symmetries of modified Teukolsky equations",
   "url": "https://arxiv.org/abs/2607.27053",

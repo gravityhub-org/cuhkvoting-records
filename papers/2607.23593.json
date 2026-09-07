@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "DESI DR2 BAO combined with CMB and Type~Ia supernovae in the Chevallier--Polarski--Linder (CPL) parameterisation prefers evolving dark energy over $\u039b$CDM at roughly $2.8$--$4.2\u03c3$. We reconstruct the same late-time expansion history with a hierarchical Gaussian process (GP) that co-samples the kernel hyperparameters $(\u03c3_f,l)$ together with $(H_0, \u03a9_m, \u03a9_k, \u03c9_b h^2)$, coupling BAO, compressed Planck distance priors, and Pantheon+ through a Monte-Carlo effective likelihood conditioned on 37 cosmic-chronometer $H(z)$ points. The baseline posterior gives $w(z\\simeq 0)=-0.80^{+0.26}_{-0.23}$ (68%~C.L.), about $0.8\u03c3$ from $w=-1$, with $l=3.79^{+0.81}_{-1.12}$. A CPL fit on the identical compressed Planck pipeline improves nested $\u039b$CDM by only $\u0394\u03c7^2\\sim 1$ ($\\sim 1\u03c3$). Ablations that fix $(\u03c3_f,l)$, drop SN or LRG1/2 BAO, replace the radial-basis kernel by Mat\u00e9rn-$5/2$, or tighten the prior on $l$ leave the median $w(0)$ within $\\lesssim 1\u03c3$ of $-1$. The mild preference reported here is therefore specific to this compressed-CMB analysis and does not address DESI's full Planck-likelihood result.",
   "id": "2607.23593",
   "title": "Hierarchical Gaussian-process test of DESI's dynamical dark-energy preference",
   "url": "https://arxiv.org/abs/2607.23593",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "In these notes, we extend a formalism for computing the amplitude of gravitational-waves (GWs) beyond null-geodesic propagation, as may arise in alternative theories of gravity. We derive the wavevector divergence governing the amplitude evolution in this more general setting and apply the formalism to GWs with a frequency-independent subluminal group velocity and to massive gravitons. We show that, in both cases, a naive interpretations of the resulting amplitudes can lead to significant apparent distortions. This formalism opens the door for amplitude interactions with extra degrees of freedom in the presence of dispersion.",
   "id": "2607.22099",
   "title": "Notes on gravitational wave amplitude evolution beyond null geodesics",
   "url": "https://arxiv.org/abs/2607.22099",

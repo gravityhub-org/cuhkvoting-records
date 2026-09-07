@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We show that if $(S,g,\u03be_i,\u03b7_i,\u03a6_i)$ is a quasi-regular $3$-Sasakian orbifold of dimension $7$, then its quotient $Z$ by one of the Reeb vector fields inherits an $SU(3)$-structure parametrized by two real parameters. We compute its torsion and show that it is an LT-structure. Moreover, for certain values of the parameters, we can provide a nearly K\u00e4hler structure on $Z$ appearing as a special case of our construction. We give several examples in the regular, quasi-regular and orbifold cases.",
   "id": "2607.28337",
   "title": "SU(3)-structures on quotients of 3-Sasakian orbifolds",
   "url": "https://arxiv.org/abs/2607.28337",

@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate how the primordial curvature perturbation of a certain wavelength scale affects the halo and subhalo structure. Primordial power spectrum considered in this paper features a nearly scale-invariant form with a cutoff at the wavenumber $ k = \\mathcal{O}(1)~$Mpc$^{-1}$ and an additional log-normal bump at smaller scales. We compute the host halo evolution, as well as the subhalo mass function. To be consistent with the observations of stellar streams and gravitational lensing data, the amplitude of the bump that is typically the same or larger than $10^{-9}$ of the primordial curvature perturbation should be present at the wavenumbers of $10$ - $30$ Mpc$^{-1}$.",
   "id": "2607.20884",
   "title": "A lower bound on primordial power spectrum from halo substructure",
   "url": "https://arxiv.org/abs/2607.20884",

@@ -1,7 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We present results of a systematic validation of the \\lalsuite timing model for continuous gravitational waves against \\pint, a modern high-accuracy pulsar-timing package. An accurate timing model is essential for tracking the signal phase, and hence for detecting and accurately characterizing continuous gravitational waves. In order to quantify the impact of timing inaccuracies, we derive and validate the leading-order relation $\u03bc\\approx (2\u03c0f)^2\\stddtau^2$, where $\u03bc$ is the fractional loss of signal power, $f$ is the signal frequency, and $\\stddtau^2$ is the variance of the timing errors. We then compare the solar-system and binary components of the \\lalsuite timing model against the corresponding models in \\pint. With the original \\lalsuite Einstein-delay implementation, the total disagreement is dominated by that component and has $\\stddtau\\simeq\\SI{2.3}{\\micro\\second}$ (corresponding to $\u03bc\\simeq\\SI{0.02}{\\percent}$ at $f=\\SI{1000}{\\hertz}$). With the newer Einstein-delay implementation, the total disagreement (over one year) drops to $\\stddtau\\lesssim\\SI{31}{\\nano\\second}$ (or $\u03bc\\lesssim\\num{4e-8}$ at $f=\\SI{1000}{\\hertz}$) and is dominated by the observatory contribution to the \\Romer delay, owing to the approximate Earth-rotation model used by \\lalsuite. We additionally test binary delays using orbital parameters from \\num{474} catalogued binary pulsars and verify the self-consistency of the \\lalsuite source-time derivatives. Finally, we derive and discuss the \\lalsuite Shapiro delay for signals passing through the solar interior, a case only relevant to gravitational waves.",
   "id": "2608.26271",
-  "title": "",
+  "title": "Validating Timing-Model Accuracy for Continuous Gravitational Waves: A Comparison of LALSuite and PINT",
   "url": "https://arxiv.org/abs/2608.26271",
   "votes": [
     {

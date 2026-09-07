@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "An additional term of the form $\u03bb\\mathbf{T} \\cdot \\mathbf{C} \\cdot \\mathbf{T}$ in the Einstein-Hilbert Lagrangian was introduced to explain the interaction between matter and pure gravitational field [H. W. Lee and A. Qadir, Motion of test particle for Weyl-interaction gravity, {\\it Int. Jour. Mod. Phys. D}{\\bf 28}(16) (2019) 2040014], the modified relativistic dynamics (MORD). In this paper, we estimate the shadow parameters of black hole in a spherically symmetric static spacetime within the MORD framework. As a first approximation, we assume that the black hole is surrounded by a constant-density baryonic matter halo. The analysis is then extended by introducing a homogeneous plasma background. We compute the shadow radii for various black hole masses and analyze their dependence on the WIG coupling parameter $\u03bb$. In addition, we compute the fundamental quasi-normal mode (QNM) frequencies under test-field approximation, and perform a time-domain integration analysis.",
   "id": "2607.23552",
   "title": "Black hole shadow parameters and quasi-normal modes for Weyl-incorporated gravity",
   "url": "https://arxiv.org/abs/2607.23552",

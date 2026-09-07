@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Classical delay, chorus, and reverb effects model multiple pro- pagation paths using discrete delays or statistical distributions. This work proposes a model inspired by gravitational lensing, where an audio signal is treated as a wave packet traversing a temporally distorted potential rather than physical spacetime. The distortion generates multiple effective propa- gation paths with different delays, phases, and gains, producing controlled constructive and destructive interference.",
   "id": "2607.22873",
   "title": "Gravitational DePhaser: A Temporal Gravitational Lensing Model for Creative Audio Processing",
   "url": "https://arxiv.org/abs/2607.22873",

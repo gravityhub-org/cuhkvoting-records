@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present a directional dark matter search using the MIMAC (Micro-tpc Matrix of Chambers) detector at the Modane Underground Laboratory. Operating a low-pressure gas mixture of i-C4H10 and 50% CHF3 at 30 mbar, without any shielding, the detector allows the reconstruction of the 3D tracks of nuclear recoils produced in the 6-liter active volume. Directionality is a crucial tool to discriminate true WIMP signals from those of background producing identical recoils, such as neutrons. We analyze data from two independent chambers with effective exposures of 495.1 and 354.2 days, respectively. To estimate the background directly from the data, we apply a standard ON/OFF spatial analysis. By projecting the reconstructed tracks onto the galactic map and applying a moving kinematic energy cut depending on the WIMP mass, we compare the event rate in the signal direction with multiple OFF-source regions. Finding no significant excess of events in the direction of the Cygnus constellation, we set an upper limit on the spin-dependent WIMP-protoncross section.",
   "id": "2607.23527",
   "title": "First Directional Dark Matter Limits from the MIMAC \u03bc-TPC Detector",
   "url": "https://arxiv.org/abs/2607.23527",

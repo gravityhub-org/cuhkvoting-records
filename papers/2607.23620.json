@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We compute the weak-coupling free energy density of pure four-dimensional $\\mathcal{N}=2$ supersymmetric Yang-Mills (SYM) theory through second order in the 't Hooft coupling $\u03bb$ at finite temperature using effective-field-theory methods. The contribution from the hard scale $T$ is obtained from massless three-loop vacuum diagrams in the full theory, and that from the electric scale $\\sqrt\u03bb\\,T$ from a two-loop calculation in the dimensionally reduced three-dimensional effective theory. In contrast to $\\mathcal{N}=4$ SYM, the theory is asymptotically free: the coupling-renormalization counterterm, together with the EFT unit-operator counterterm, cancels all $1/\u03b5$ poles. The remaining renormalization-scale dependence is fixed by the one-loop beta function. The expansion reproduces earlier results through order $\u03bb^{3/2}$, and the order-$\u03bb^2$ term is new.",
   "id": "2607.23620",
   "title": "$\\mathcal{N}=2$ supersymmetric Yang-Mills thermodynamics from effective field theory",
   "url": "https://arxiv.org/abs/2607.23620",

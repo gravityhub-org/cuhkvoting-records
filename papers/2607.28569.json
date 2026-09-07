@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study linear disturbances localized near planar surfaces moving at constant velocity $v$ in relativistic media. Depending on the physical setting, the surface may represent a moving obstacle, a thermal boundary, or an external source, providing a unified description of boundary layers, wakes, and the asymptotic tails of shock waves. The central result is a propagator representation of the interface solution that yields a geometric characterization of these phenomena. Using a Laplace-transform formulation, we show that the solution is a superposition of modes with purely imaginary frequency and wavenumber. For a given interface velocity, the admissible modes are selected by the line $i\u03c9=vik$ in the $\\{i\u03c9,ik\\}$ plane. As $v$ varies, this line sweeps across the spectrum, providing a unified geometric description of interface-localized solutions for arbitrary interface velocities. We illustrate the formalism with applications to relativistic hydrodynamics and kinetic theory.",
   "id": "2607.28569",
   "title": "Relativistic transport near moving interfaces",
   "url": "https://arxiv.org/abs/2607.28569",
