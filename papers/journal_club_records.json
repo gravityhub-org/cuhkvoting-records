@@ -47,6 +47,14 @@
       "selected_by": "harryyeh-astro",
       "title": "Could the high-mass black holes from gravitational-wave observations be explained by lensing?",
       "week": "2026-W30"
+    },
+    {
+      "arxiv_id": "2601.23230",
+      "historical_vote": 5,
+      "selected_at": "2026-09-10T00:11:20.438030Z",
+      "selected_by": "ohannuks",
+      "title": "Detectability of Gravitational-Wave Memory with LISA: A Bayesian Approach",
+      "week": "2026-W37"
     }
   ]
 }
