@@ -1,0 +1,12 @@
+{
+  "abstract": "Stellar theory predicts a forbidden range of black-hole masses between ${\\sim}50$--$130\\,M_\\odot$ due to pair-instability supernovae, but evidence for such a gap in the mass distribution from gravitational-wave astronomy has proved elusive. Early hints of a cutoff in black-hole masses at ${\\sim} 45\\,M_\\odot$ disappeared with the subsequent discovery of more massive binary black holes. Here, we report evidence of the pair-instability gap in LIGO--Virgo--KAGRA's fourth gravitational wave transient catalog (GWTC-4), with a lower boundary of $44_{-4}^{+5} M_\\odot$ (90\\% credibility). While the gap is not present in the distribution of \\textit{primary} masses $m_1$ (the bigger of the two black holes in a binary system), it appears unambiguously in the distribution of \\textit{secondary} masses $m_2$, where $m_2 \\leq m_1$. The location of the gap lines up well with a previously identified transition in the binary black-hole spin distribution; binaries with primary components in the gap tend to spin more rapidly than those below the gap. We interpret these findings as evidence for a subpopulation of hierarchical mergers: binaries where the primary component is the product of a previous black-hole merger and thus populates the gap. Our measurement of the location of the pair-instability gap constrains the $S$-factor for $^{12}\\rm{C}(\u03b1,\u03b3)^{16}\\rm{O}$ at 300keV to $260_{-108}^{+190}$ keV barns.",
+  "id": "2509.04151",
+  "title": "Evidence of the pair instability gap from black hole masses",
+  "url": "https://arxiv.org/abs/2509.04151",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-09-12T04:49:47.347587Z"
+    }
+  ]
+}
