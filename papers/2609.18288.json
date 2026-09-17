@@ -1,0 +1,12 @@
+{
+  "abstract": "Interacting dark energy (IDE) models, featuring interactions between dark matter (DM) and dark energy (DE), have received significant renewed interest. However, little attention has been devoted to understanding their genuine cosmological signatures, with comparisons against $\u039b$CDM often carried out at fixed cosmological parameters. Considering the widely studied model with energy exchange rate proportional to the DE density, we carry out a three-level sequence of comparisons, starting from the na\u00efve fixed-parameter comparison, then compensating for shifts in $\u03b8_s$ and $z_{\\text{eq}}$, and then removing effects due to the modified background. We show that fixing $\u03b8_s$ and $z_{\\text{eq}}$ leads to pre-recombination evolutions of the Weyl potential, photon monopole, and baryon velocity which are nearly identical to their $\u039b$CDM counterparts, and hence virtually indistinguishable Cosmic Microwave Background (CMB) temperature power spectra. Comparing IDE to a non-interacting $w$CDM model with the same background, we find small scale-dependent signatures in CMB lensing. We find larger differences in the matter power spectrum, reflecting the different values of $\u03a9_m$ resulting from the different partition of the dark sector into DM and DE, with only percent-level differences remaining once we compare $\u03a9_m^2P_m(k)$, indicating the importance of high-fidelity determinations of $\u03a9_m$. Our controlled comparison strategy can be a powerful tool for a wide range of models beyond $\u039b$CDM.",
+  "id": "2609.18288",
+  "title": "Cosmological anatomy of interacting dark energy",
+  "url": "https://arxiv.org/abs/2609.18288",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-09-17T11:19:20.616456Z"
+    }
+  ]
+}
