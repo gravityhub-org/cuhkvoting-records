@@ -1,0 +1,12 @@
+{
+  "abstract": "We present cosmological constraints from 11 strongly lensed quasars with measured time delays (hereafter, the TDCOSMO-2026 sample). In addition to expanding the sample, we improve many aspects of our blind analysis with respect to our 2025 analysis. Among other improvements, spatially resolved kinematics are available for nine systems, including six with JWST-NIRSpec, compared to one in 2025; for three lens models, JWST-NIRCam images now replace HST; axisymmetric dynamical modeling is applied directly to the spatially resolved data, instead of an axisymmetric correction factor applied to spherical models; and the line-of-sight convergence is now based on the Euclid Flagship simulations instead of the Millennium Simulation. Our baseline and primary result is based on the TDCOSMO-2026 sample, in combination with a prior on $\u03a9_{\\rm m}$ from the DES-Dovekie supernova sample. In the flat $\u039b$ cold dark matter ($\u039b$CDM) cosmology, we find $H_0=71.1^{+2.4}_{-2.3}$ km.s$^{-1}$.Mpc$^{-1}$, a 3.3% uncertainty that accounts for the mass-sheet degeneracy. The SLACS and SL2S samples are in excellent agreement with the TDCOSMO-2026 sample, improving the precision on $H_0$ in flat $\u039b$CDM to 3.0%. Using the DESI-DR2 baryon acoustic oscillations (BAO) likelihood instead of DES-Dovekie yields fully consistent results. We also present constraints in the open $\u039b$CDM, $w$CDM, $w_0w_a$CDM, and $w_\u03d5$CDM cosmologies; the TDCOSMO $H_0$ inference is robust and consistent across all of them. The combination of the TDCOSMO+SLACS+SL2S likelihood with those from DESI-DR2 and DES-Dovekie disfavors $w=-1$ at the $2.3$-$2.5\u03c3$ level in all three dark energy extensions that we tested. We find, e.g., $w_0=-0.88^{+0.04}_{-0.05}$ in $w_\u03d5$CDM and $w_0 = -0.85^{+0.07}_{-0.06}$ in $w_0w_a$CDM, while $w_a = -0.48^{+0.46}_{-0.44}$ remains consistent with zero.",
+  "id": "2610.14781",
+  "title": "TDCOSMO 2026: A 3% measurement of the Hubble constant from strong lensing and stellar kinematics",
+  "url": "https://arxiv.org/abs/2610.14781",
+  "votes": [
+    {
+      "user": "souvik-jana",
+      "voted_at": "2026-10-15T04:11:30.243247Z"
+    }
+  ]
+}
