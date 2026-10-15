@@ -1,0 +1,12 @@
+{
+  "abstract": "We report on a gravitational wave search for compact binary coalescences with secondary mass between 0.2 M and 1 M and primary mass between 0.2 M and 10 M, restricting the component mass ratio to lie between 0.1 and 1. The analysis uses data collected by the LIGO and Virgo detectors between 2024 April 10 15:00:00 and 2025 January 28 17:00:00, the second part of the fourth observing run of the LIGO-Virgo-KAGRA Collaboration. Results from two out of three search pipelines show outlier candidates, but not at a sufficient level of significance to provide evidence for detection. We report the combined sensitivity of the current searches over the first and second parts of the observing run to the target sub-solar mass (SSM) black hole (BH) population, as well as to neutron star (NS) binaries with one or more sub-solar component. We place upper limits on the merger rate of SSM BHs, ranging from $50 {\\rm Gpc}^{-3} {\\rm yr}^{-1}$ to~$5000 {\\rm Gpc}^{-3} {\\rm yr}^{-1}$ (90% confidence) for different component mass combinations. We use the merger rate limits to constrain two illustrative dark matter (DM) scenarios that can form SSM compact objects: primordial BHs, and dark BHs forming in a dissipative DM model. Our search limits the fraction of DM in primordial BHs, assuming a monochromatic mass distribution, to be $\\leq$ (0.018-0.032) at 1 M, and $\\leq$ (0.10-0.18) at 0.35 M for early-forming binaries; or to be less than 1 at masses above (0.62-0.74) M for late-forming binaries. For the dissipative model, we constrain the fraction of DM for a range of minimum dark black hole masses below $1\\,M$ to be as low as (1.0-1.1) x $10^{-5}$; we also exclude minimum masses above (0.62-0.74) M, if dark BHs constitute all of the DM. For binary NSs that include sub-solar mass components, assuming a simple, fixed population model we find a merger rate upper limit of $249 {\\rm Gpc}^{-3} {\\rm yr}^{-1}$.",
+  "id": "2610.20276",
+  "title": "Search for Compact Binary Coalescences with Sub-solar Mass Components in Data from the Second Part of LIGO-Virgo-KAGRA's Fourth Observing Run",
+  "url": "https://arxiv.org/abs/2610.20276",
+  "votes": [
+    {
+      "user": "souvik-jana",
+      "voted_at": "2026-10-15T09:56:25.024639Z"
+    }
+  ]
+}
