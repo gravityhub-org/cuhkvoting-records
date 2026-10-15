@@ -1,0 +1,12 @@
+{
+  "abstract": "Tidal Love numbers characterize the conservative response of compact objects to external perturbations and provide a powerful probe of their nature. While the static Love numbers of Schwarzschild, Kerr, and Reissner--Nordstr\u00f6m black holes remarkably vanish, the tidal response of a generic Kerr--Newman black hole has remained unexplored due to the intrinsic coupling between gravitational and electromagnetic perturbations. Exploiting a recent breakthrough in the separability of these perturbations, we analytically determine the static tidal response of the most general stationary black hole in four-dimensional Einstein--Maxwell theory. For arbitrary multipole order, charge, and spin, we show that the entire matrix of conservative Love numbers vanishes, including the mixed gravito-electromagnetic couplings. We also compute the nonvanishing static dissipative response induced by frame dragging.",
+  "id": "2610.17179",
+  "title": "Vanishing Love Numbers of Kerr-Newman Black Holes",
+  "url": "https://arxiv.org/abs/2610.17179",
+  "votes": [
+    {
+      "user": "souvik-jana",
+      "voted_at": "2026-10-15T04:12:33.921999Z"
+    }
+  ]
+}
