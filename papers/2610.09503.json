@@ -1,0 +1,12 @@
+{
+  "abstract": "The binary black hole merger GW250114, the loudest gravitational-wave signal detected to date, offers an opportunity to perform a precise test of Einstein's general relativity (GR). Its exceptionally high signal-to-noise ratio enables accurate measurements of the quasi-normal modes (QNMs) and properties of the remnant black hole. In this work, we present a ringdown analysis of GW250114 using the RingCWB algorithm. We measure the dominant $(2,2,0)$ QNM along with its first overtone and constrain the fractional deviations in frequency and damping time from their GR-predicted values, finding $\u03b4f_{220} = 0.004_{-0.023}^{+0.022}$ and $\u03b4\u03c4_{220} = 0.010_{-0.087}^{+0.096}$ , both consistent with zero within the quoted uncertainties. These results represent stringent constraints on deviations from GR. The analysis also places tight constraints on the remnant spin, consistent with a binary black hole formed through stellar evolution.",
+  "id": "2610.09503",
+  "title": "Ringdown analysis of GW250114 with RingCWB",
+  "url": "https://arxiv.org/abs/2610.09503",
+  "votes": [
+    {
+      "user": "souvik-jana",
+      "voted_at": "2026-10-15T04:22:26.513760Z"
+    }
+  ]
+}
