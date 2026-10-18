@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We study thermal energy fluctuations of cosmological horizons within the canonical ensemble framework, treating the horizon as a thermodynamic system characterized by temperature and entropy. The analysis is performed for a class of gravitational theories, including (n+1)-dimensional Einstein gravity, Gauss-Bonnet gravity, Lovelock gravity, and models incorporating quantum deformed entropy corrections. We find that horizon energy fluctuations stabilize to a constant value in the asymptotic de Sitter limit, independent of the underlying gravity theory and robust against higher-curvature and quantum corrections. It is worth mentioning that in its final de Sitter state, the universe obeys holographic equipartition condition and in consequence the horizon entropy attains a maximum constant value, just like an ordinary macroscopic system. These findings establish a unified thermodynamic picture in which entropy maximization, holographic equipartition, and the suppression of energy fluctuations collectively characterize the asymptotic de Sitter universe as the equilibrium end state of cosmic evolution.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:07.142312Z",
   "id": "2609.02456",
   "title": "Horizon energy fluctuations beyond Einstein's gravity: Gauss-Bonnet, Lovelock and Quantum deformed frameworks",
   "url": "https://arxiv.org/abs/2609.02456",

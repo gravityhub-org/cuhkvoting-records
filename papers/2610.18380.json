@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We study the algebraic and geometric structures of gravitational decoupling within a fixed class of globally static, spherically symmetric spacetimes with non-vanishing areal-radius differential. We show that (minimal and extended) geometric deformations of the seed metric define a groupoid of partial transformations. We also draw a connection between the geometric deformation procedures and disformal transformations. It is shown that every admissible minimal geometric deformation admits a disformal representation using the areal radius as an auxiliary scalar. For extended deformations, we derive a necessary condition and exhibit a global obstruction that persists under diffeomorphisms preserving the areal radius and the static Killing direction up to constant normalization. Finally, we verify that the disformal construction reproduces the standard minimal geometric deformation source equations and separate conservation law, including anisotropic seeds.",
   "id": "2610.18380",
   "title": "On the Mathematical Foundations of Gravitational Decoupling in General Relativity",
   "url": "https://arxiv.org/abs/2610.18380",

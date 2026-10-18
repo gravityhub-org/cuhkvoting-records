@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Layering is a ubiquitous feature of astrophysical objects. Motivated by the fact that physical black holes retain the layered structure of their progenitor stars when viewed in the time concepts synchronizable with the clock of an outside fixed-position probe, we investigate linear perturbations and gravitational-wave (GW) echoes from a compact object composed of two concentric thin shells. Compared with the single-shell case, the double-shell structure introduces an extra barrier in the effective potential and partitions the wave propagation space into four coupled effective cavities. As the mass ratio of the inner shell increases, new spectral peaks enter from the high-frequency side of the echo spectrum; the second and later peaks shift toward higher frequencies; and the lowest-frequency peak first shifts toward lower frequencies and then returns to its $q=0$ position. We call this variation pattern spectral-peak queueing (SQ). Its existence suggests that GW echoes can be used as probes for the internal structure of compact objects under consideration.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:52:34.059518Z",
   "id": "2608.30784",
   "title": "Gravitational-Wave Echoes from Layered Compact Objects: A Double-Shell Model",
   "url": "https://arxiv.org/abs/2608.30784",

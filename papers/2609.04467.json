@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "In this work, we investigate exactly the dynamics of a relativistic spinless particle influenced by a static and uncharged black hole surrounded by a quintessence-like anisotropic fluid or Kiselev black hole. Considering two quintessence-like models as examples, we calculate the radial wave function and determine, in both cases, the quasispectrum of energy, as well as the Hawking radiation and temperature. We find that the stronger the influence of quintessence-like anisotropic fluid, the smaller the radiation observed outside the event horizon. Furthermore, the temperatures obtained in both cases are directly influenced by the quintessence-like anisotropic fluid, and we recover the values obtained in other contexts, such as those derived using the surface gravity. Finally, in the absence of quintessence, we recover in both cases the Hawking temperature $T_{H} = 1/(8\\pi k_{B} M)$ corresponding to the Schwarzschild black hole.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:44.658808Z",
   "id": "2609.04467",
   "title": "Exact solution of the Klein-Gordon equation in a Kiselev black hole background",
   "url": "https://arxiv.org/abs/2609.04467",

@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We investigate asymptotically Weyl-invariant gravity in the Palatini formulation, defined by an exponent that interpolates between an Einstein-like infrared regime, where $n\\to1$, and a Weyl-invariant ultraviolet regime, where $n\\to2$. In four dimensions, we show that exact Weyl invariance within the minimal scalar Palatini $f(\\mathcal{R})$ sector uniquely selects the $\\mathcal{R}^2$ action as the ultraviolet endpoint. Interpreting the exponent as an effective curvature-dependent quantity, we constrain a phenomenological class of smooth autonomous flows compatible with the required infrared and ultraviolet endpoints. We then analyse the strict ultraviolet theory. On the regular branch $\\mathcal{R}\\neq0$, and within a restricted torsionless, parity-even sector constructed purely from curvature, all admissible divergent on-shell counterterms reduce at arbitrary loop order to the original $\\sqrt{-g}\\,\\mathcal{R}^2$ term plus a topological Euler density. Although this conditional result does not establish full off-shell perturbative renormalizability, it provides nontrivial evidence for improved ultraviolet behaviour relative to Einstein gravity and identifies a concrete target for a future first-principles renormalization-group calculation.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:52:46.547183Z",
   "id": "2609.01047",
   "title": "Ultraviolet Closure in Asymptotically Weyl-Invariant Gravity",
   "url": "https://arxiv.org/abs/2609.01047",

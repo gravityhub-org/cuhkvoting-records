@@ -1,5 +1,7 @@
 {
   "abstract": "An observer which propagates in a spacetime with dynamical gravity has access to an algebra of observables which is expected to be a von Neumann algebra with a trace. The observer can use projections from the algebra to perform local measurements. By using this fact we construct a simplicial complex out of measurements recorded on the worldline of the observer and we propose that such a complex captures topological information about spacetime, even when this is fluctuating.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:52:27.941211Z",
   "id": "2607.15007",
   "title": "Observers, local measurements, and topology",
   "url": "https://arxiv.org/abs/2607.15007",

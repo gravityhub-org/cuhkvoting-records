@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We present Transient PULSE, a software package that numerically implements a previously developed source-to-detector framework for transient ultralight bosonic signals from astrophysical bursts. Predicting these signals relies on connecting the source emission spectrum to its evolution during propagation and the resulting observables at a terrestrial detector. The package discretizes a user supplied energy spectrum into momentum modes, propagates them through a specified matter density profile and constructs the time-frequency energy density distribution at Earth, accounting for dispersion and in-medium screening effects. This treatment accommodates non-Gaussian source spectra and provides inputs for detector specific analyses. A complementary analytical module estimates coupling sensitivities, arrival time delays and screening thresholds from parameterized source and detector properties.",
   "id": "2610.20601",
   "title": "Transient PULSE: Code for the Transient Propagation of UltraLight (pseudo)Scalars to Earth",
   "url": "https://arxiv.org/abs/2610.20601",

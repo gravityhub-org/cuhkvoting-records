@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We present the Active Galactic Nuclei Database (AGN-DB), a comprehensive, multi-wavelength catalog compiled from more than 100 publicly available AGN catalogs and samples released by the end of 2025, spanning radio to $\u03b3$-ray wavelengths. The database contains approximately 8.1 million unique sources, approximately 7.8 million of which remain after flagging stellar contaminants, and approximately 6.8 million of these are classified as AGN. Source cross-matching across catalogs is performed using Lyra, a Bayesian likelihood-ratio framework that jointly considers positional uncertainties, source densities, and photometric information to compute posterior match probabilities. The resulting catalog provides astrometric coordinates, redshifts, photometry, and classifications for each unique source. All multi-catalog provenance is preserved. For every property, we store the full array of values and originating catalog identifiers, enabling multi-epoch and multi-survey analyses. In this paper, we describe the AGN-DB pipeline, including the cross-matching methodology, and present the statistical properties of the v1.0 catalog. AGN-DB is designed to enable population studies, spectral energy distribution modeling, AGN classification, and variability analyses at an unprecedented scale. Its pipeline is designed to facilitate the integration of new catalogs, allowing AGN-DB to be updated regularly, with releases planned at least annually.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:40.325327Z",
   "id": "2609.04322",
   "title": "AGN-DB: A Unified Multi-Wavelength Database of Active Galactic Nuclei",
   "url": "https://arxiv.org/abs/2609.04322",

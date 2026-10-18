@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate strong gravitational lensing of gravitational waves from a compact source orbiting a Kerr black hole, motivated by self-lensing in binary extreme-mass-ratio inspirals. In the geometric-optics limit, we construct a point-to-point lens map from null-geodesic integrals and use the Jacobi map to compute the strain magnification of individual images. While lensed signals are generally demagnified, we show that they can be strongly amplified near the extended caustics of the Kerr lens map. For suitable source--observer geometries, the orbit crosses a caustic twice per revolution, producing two amplification peaks. Their arrival-time separation depends on the black-hole spin, observer inclination, and orbital radius through both the source motion and propagation delays. These signatures might offer a means of constraining the source--observer geometry and probing the spacetime of the central black hole.",
   "id": "2610.08399",
   "title": "Self-lensing of gravitational waves from binary extreme-mass-ratio inspirals: Extended caustics and paired flashes",
   "url": "https://arxiv.org/abs/2610.08399",

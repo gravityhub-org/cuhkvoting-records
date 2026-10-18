@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "Gravitational-wave (GW) ``dark siren'' techniques, namely the statistical association of GW events with a galaxy catalog, have so far been used as a cosmological tool. Yet this association carries distinctive astrophysical information that remains unused---specifically, how compact binaries populate galaxies and the identities of individual hosts. In this work, we turn the dark-siren program into an astrophysical probe by inferring both simultaneously within a single hierarchical framework. The method reduces the many potential hosts to a compact, probabilistically ranked target list, providing a direct follow-up decision tool. Applied blindly to GW170817, it recovers NGC~4993 as the highest-ranked host and constrains the galaxy luminosity weighting, mildly favoring non-uniform host weights. Fixing the galaxy weighting can instead degrade host identification and even favor the wrong host. This framework recasts dark sirens as a potentially unique probe of the astrophysics of electromagnetically dark compact-binary mergers.",
   "id": "2609.38110",
   "title": "Gravitational-wave dark sirens as astrophysical probes: inferring galaxy-merger relations and identifying individual hosts",
   "url": "https://arxiv.org/abs/2609.38110",

@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "In this work, we derive phenomenological constraints on a symmetric black-bounce geometry supported by an anisotropic fluid. We investigate the effects of the bounce parameter and the matter parameter on classical and strong-field observables, considering the perihelion advance, light deflection, Shapiro time delay, and black-hole shadow. In the weak-field regime, we obtain analytical corrections to the corresponding general-relativistic predictions and use Solar-System measurements to constrain the parameter space. We find that the matter parameter is generally constrained more strongly than the minimum-radius scale, reflecting the suppressed dependence of weak-field observables on the bounce parameter. In the strong-field regime, we show that the asymptotic shadow radius depends directly on the matter parameter, whereas the bounce parameter enters through the existence condition of the outer unstable photon orbit rather than through an independent correction to the shadow size. These results highlight the distinct roles played by the matter and bounce parameters in weak- and strong-field observables and provide complementary constraints on the parameter space of the symmetric black-bounce geometry.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:54:16.470611Z",
   "id": "2609.14728",
   "title": "Bounds on Black Bounces from Phenomenological Imprints",
   "url": "https://arxiv.org/abs/2609.14728",

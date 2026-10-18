@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We propose a manifestly conformally invariant off-shell definition of the Weyl tensor in Galilean geometry. We also propose definitions for the electric and magnetic parts thereof. For the latter to vanish, observers with specific kinematical properties need to exist. While this is guaranteed by the Newton--Cartan equation, it might not be true for other Galilean invariant theories. Therefore, we propose that imposing the existence of observers for which the off-shell magnetic part is zero should be a necessary condition for a Galilean invariant theory to be called `Newtonian', in the spirit of the `Newtonian' condition, introduced by Trautman, in standard Newton--Cartan gravity. As a side result, we also show that there exists a unique Galilean boost-invariant connection that can be built from a Galilean structure and a choice of Coriolis field, even when the clock form is not closed. No extra structure is needed, contrasting with the standard approach used to construct boost-invariant connections which introduces a mass gauge field.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:31.898425Z",
   "id": "2609.04053",
   "title": "An off-shell conformally invariant Galilean Weyl tensor",
   "url": "https://arxiv.org/abs/2609.04053",

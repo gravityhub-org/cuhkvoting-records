@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We study how finite-$N$ invariant theory organizes the non-perturbative structure of matrix models. For a model of four traceless Hermitian $2\\times 2$ matrices, the Hironaka decomposition realizes the gauge-invariant configuration space as an eight-sheeted branched cover of the space of primary invariants. We show that ramification points of this cover naturally generate additional saddle points when the action depends only on the primaries. For an explicit rank-two saddle, we compute its action, one-loop normalization and Picard--Lefschetz connection to the perturbative vacuum. The same saddle controls the leading Borel singularity and large-order growth of perturbation theory, while its first fluctuation correction reproduces the first subleading large-order correction with no fitted parameters. Our results provide a concrete link between finite-$N$ invariant geometry and resurgence in matrix models.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:47.475226Z",
   "id": "2609.04664",
   "title": "Hironaka Geometry and Resurgence in Finite-$N$ Matrix Models",
   "url": "https://arxiv.org/abs/2609.04664",

@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "We show that Gravity from Entropy (GfE) exhibits a tensor-propagation pathology on generic FLRW backgrounds. In vacuum, in the symmetry-inheriting single-multiplet sector, and for the algebraic perfect-fluid constitutive embedding, the strict-principal TT system has a nonzero real characteristic only when \\(\\dot H=K/a^2\\). Away from this locus the temporal principal roots become complex, signaling a high-frequency hyperbolicity obstruction. Under the stated isotropy assumptions, a rank theorem further shows that one foundational multiplet cannot provide the isotropic bivector response needed to remove this problem.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:25.075401Z",
   "id": "2609.03082",
   "title": "Gravitational Waves and Matter Constraints in Gravity from Entropy",
   "url": "https://arxiv.org/abs/2609.03082",

@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "The late-time ringdown dynamics of near-extremal black holes (BHs) are expected to be dominated by zero-damped modes (ZDMs), whose decay rates are parametrically suppressed relative to those of ordinary quasinormal modes. In this paper, we demonstrate that exact WKB methods provide an exceptionally powerful framework for analyzing the ZDM spectrum of near-extremal Reissner--Nordstr\u00f6m (RN) BHs. Focusing on massless, neutral scalar modes propagating on an RN background, we present the full Stokes geometry derived from the radial eigenvalue problem and establish the corresponding exact quantization condition (EQC). Our analytic computation of the Voros symbols entering the EQC achieves higher-order accuracy for the ZDM spectrum compared to previous studies and is systematically improvable. Ergo, this work serves as a proof of concept for investigations of ZDM spectra of other systems using exact WKB methods.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:15.581119Z",
   "id": "2609.02816",
   "title": "Zero-damped modes of near-extremal Reissner--Nordstr\u00f6m black holes from exact WKB",
   "url": "https://arxiv.org/abs/2609.02816",

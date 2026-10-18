@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "It has long been assumed that a particle--having crossed a black hole event horizon unentangled with another particle in the exterior universe--can no longer dynamically entangle with that particle. Here, we first establish the possibility of post-crossing entanglement via an electromagnetic mediator. We then show within a gravitational time-delayed-potential model that entanglement can be created between freely falling spatial superpositions across an event horizon. Radial escape, however, triggers bremsstrahlung emission--imposing a dephasing bound that grows with entangling phase, $\u0393> \\frac{6}{11\u03c0}\u03a6$, within a constrained leading-quadrupole model--and is ultimately ruled out by macroscopic which-path leakage. By contrast, equivalent macroscopic optical masses in principle allow local harvesting of entanglement tangentially, via quantum erasure, thus revealing a remarkable geometric duality: Spacetime irreversibly degrades entanglement under radial escape, while allowing the transverse teleportation of the entangled qubit to infinity, independent of Hawking evaporation.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:33.148017Z",
   "id": "2609.04104",
   "title": "Gravitationally Induced Entanglement Across an Event Horizon",
   "url": "https://arxiv.org/abs/2609.04104",

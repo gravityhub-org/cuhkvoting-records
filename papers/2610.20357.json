@@ -1,5 +1,5 @@
 {
-  "abstract": "",
+  "abstract": "We investigate the global dynamics and cosmological viability of non-singular solutions in an anisotropic Bianchi type I universe featuring an interacting vacuum energy component $V$ and a perfect fluid $\u03c1$, extending previous work based on a Robertson-Walker geometry. By modeling the energy-momentum transfer via a phenomenological four-vector $Q_\u03bc$, we reduce the field equations to a four-dimensional autonomous dynamical system for the expansion rate $\u0398$, total shear $\u03c3$, energy density $\u03c1$, and vacuum component $V$. We examine two distinct forms for how the interaction depends on $\u03c1$ and $V$: a linear coupling $Q_1 \\propto \u0398[\u03be(V_\u039b- V) + \u03c7\u03c1]$ and a non-linear coupling $Q_2 \\propto \u0398\u03c1(1 - V/V_\u039b)$. Using a potential-energy analogy and phase-space analysis, we show that the linear model $Q_1$ naturally admits non-singular bouncing trajectories. In contrast, unlike the Robertson-Walker case, for the non-linear interaction $Q_2$, invariant boundary surfaces in phase space strictly constrain the domain of expansion ruling out cosmological bounce scenarios for physical matter configurations.",
   "id": "2610.20357",
   "title": "Bouncing Bianchi Type I Universes with Interacting Vacuum",
   "url": "https://arxiv.org/abs/2610.20357",

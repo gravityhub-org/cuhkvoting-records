@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "The gravitational energies of timelike singularities in some asymptotically AdS spaces and in the Schwarzschild black hole with negative mass are explicitly computed. In all cases considered, the energy is finite and positive, depends on the geometry around the singularity, and compensates negative energy contributions from the asymptotic boundary, rendering the total gravitational energy positive. The definition used for energy is the on-shell Hamiltonian of the physical classical action proposed by Hawking and Horowitz~\\cite{Hawking-Horowitz}. To deal with the singularity, spacetime is cut off by a timelike regulating boundary surrounding the singularity that is compatible with a foliation of spacetime in constant-time slices. It is shown that the total energy of static AdS-Kasner solutions with timelike Kasner singularities is equal to the energy of the planar AdS black hole, and that the Schwarzschild black hole with negative mass has the same energy as Minkowski space.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:52:41.772933Z",
   "id": "2609.00423",
   "title": "Positive energy from timelike singularities",
   "url": "https://arxiv.org/abs/2609.00423",

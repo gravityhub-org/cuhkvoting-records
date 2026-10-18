@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Motivated by the recent observation that rotating space\u2013times at finite temperature can be described by particular flat, compact, orientable manifolds, which are different from <math altimg=\"si1.svg\" display=\"inline\" id=\"d1e788\"><msup><mrow><mi mathvariant=\"double-struck\">T</mi></mrow><mrow><mn>4</mn></mrow></msup></math>, we catalogue all such 4-manifolds and their properties. There are in total 26 flat, compact, orientable 4-manifolds, 23 of them spin-manifolds, so fermions and a Dirac operator can also be defined on these. Seven of them are appropriate for finite volume periodic boxes undergoing rotation at finite temperature.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:04.324326Z",
   "id": "2609.02330",
   "title": "QFT on flat, compact, orientable manifolds",
   "url": "https://arxiv.org/abs/2609.02330",

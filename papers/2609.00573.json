@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Quantum imaginarity is a fundamental quantum resource essential for quantum information processing. In this paper, we investigate the dynamical evolution behavior of quantum imaginarity for tripartite quantum mixed states in Schwarzschild spacetime. We find that Hawking radiation degrades the quantum resource of imaginarity, consistent with the behavior of entanglement and coherence under the Hawking effect. Interestingly, imaginarity exhibits a sharp change in the early stage of Hawking radiation, after which it varies slowly and asymptotically approaches a steady value. We further derive several trade-off relations that characterize the nonlocal redistribution of imaginarity across Rindler horizons. The findings of this study contribute to a deeper understanding of quantum resource behaviors in black hole spacetimes.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:52:43.292526Z",
   "id": "2609.00573",
   "title": "Performance of quantum imaginarity in black hole spacetime",
   "url": "https://arxiv.org/abs/2609.00573",

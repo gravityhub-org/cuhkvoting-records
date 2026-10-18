@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "Black-hole critical curves and photon rings provide complementary probes of strong-field geometry, motivating a unified analytic description of these observables beyond Kerr and a direct comparison with the Kerr predictions. We develop such a description for polar observers in a radial class of stationary, axisymmetric spacetimes with separable null geodesics. The spacetime dependence is organized through natural optical combinations selected by the null dynamics and a Kerr-relative representation suited to weak deviations from Kerr. We derive compact exact expressions for the polar critical radius, Lyapunov exponent, time delay, and rotation parameter, together with general first-order formulas that can be applied once the deformation functions of a specific metric are supplied. The weak-deviation analysis shows that the combined polar observables probe only a finite set of local deformation values and radial derivatives at the critical orbit, rather than the full radial profiles.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:52:50.870895Z",
   "id": "2609.01290",
   "title": "Deviations from Kerr: Polar critical curves and photon rings in a class of separable spacetimes",
   "url": "https://arxiv.org/abs/2609.01290",

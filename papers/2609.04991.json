@@ -1,5 +1,7 @@
 {
-  "abstract": "",
+  "abstract": "The field of gravitational wave \"dark siren\" cosmology is facing a number of challenges surrounding the way in which galaxy catalogue data is incorporated into the analysis. The three biggest challenges are adequately compensating for galaxy catalogue incompleteness, robust treatment of galaxy redshift and source properties, and the as-yet unknown host galaxy weighting model. We present an updated methodology for inferring cosmological parameters using dark sirens and incomplete galaxy catalogues. By switching to a sampled redshift prior, rather than one which is pre-computed on a grid, we can jointly infer parameters which describe the population of gravitational-wave hosting galaxies, alongside the gravitational wave population and cosmological model. Using the cosmological inference software gwcosmo, we reproduce a subset of GWTC-5.0 cosmology results, then extend the analysis to jointly infer the host galaxy weighting model - the first measurement of its kind to do so - leading to an updated measurement of the Hubble constant with $H_0 = {71.9}_{-7.5}^{+9.1}$ km s$^{-1}$ Mpc$^{-1}$ (median and 68% symmetric credible interval). This innovative new method opens the door to solving several of the biggest challenges currently facing the field of dark siren cosmology.",
+  "archived": true,
+  "archived_at": "2026-10-18T03:53:55.035329Z",
   "id": "2609.04991",
   "title": "Expanding the scope of dark siren cosmology: Inferring the population properties of gravitational wave-hosting galaxies",
   "url": "https://arxiv.org/abs/2609.04991",
