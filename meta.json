@@ -1,9 +1,9 @@
 {
   "client": {
-    "latest_version": "0.4.0",
-    "source": "admin",
-    "updated_at": "2026-10-13T01:31:25.449267Z",
-    "updated_by": "ohannuks"
+    "latest_version": "0.4.1",
+    "source": "vcs",
+    "updated_at": "2026-10-19T18:30:55.003607Z",
+    "updated_by": "diceandcats"
   },
   "schema": 1
 }
