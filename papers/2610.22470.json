@@ -1,0 +1,12 @@
+{
+  "abstract": "<jats:title>Abstract</jats:title> <jats:p>Gravitational lensing by rotating black holes is modeled, and the null geodesic equations in the strong field regime are integrated numerically. Observational signatures of the black hole spin parameter are identified by comparing image locations and shapes of extended sources at different a values. For the black hole at the center of our galaxy, angular resolutions of the order of hundreds of micro arc seconds are needed to distinguish between the true source position and gravitationally lensed image position. Angular resolution below one micro arc second is needed to determine the spin parameter of the galactic black hole using gravitational lensing.</jats:p>",
+  "id": "2610.22470",
+  "title": "Observational Signatures of Kerr Black Hole Lensing",
+  "url": "https://arxiv.org/abs/2610.22470",
+  "votes": [
+    {
+      "user": "souvik-jana",
+      "voted_at": "2026-10-21T06:59:19.391100Z"
+    }
+  ]
+}
