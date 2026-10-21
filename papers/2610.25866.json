@@ -1,0 +1,12 @@
+{
+  "abstract": "Gravitational-wave dark sirens can be combined with galaxy catalogues to provide a measurement of the Hubble constant. This inference requires assigning each potential host galaxy a probability of hosting a merger, but the appropriate weighting is uncertain because the binary merger rate may trace different galaxy properties, such as stellar mass or star formation rate, depending on the underlying formation channel. We introduce a flexible framework in which the dark-siren population is described as a mixture of two host-weighting prescriptions, with the mixing fraction inferred jointly with $H_0$. These components may be interpreted as subpopulations associated with distinct binary-formation environments. Using simulated catalogues, we show that marginalising over uncertainty in the host-population mixture preserves unbiased constraints on $H_0$, while allowing the gravitational-wave data to constrain the relative contribution of the two host populations. In particular, an A#-like detector network with $\\mathcal{O}(10^3)$ dark sirens may be able to exclude scenarios in which the host population traces only one of the two weighting prescriptions. Dark-siren analyses may therefore provide robust cosmological measurements and new information about how merging compact binaries trace the galaxy population.",
+  "id": "2610.25866",
+  "title": "Hostbusters: constraining $H_0$ and binary formation channels through gravitational-wave host galaxy associations",
+  "url": "https://arxiv.org/abs/2610.25866",
+  "votes": [
+    {
+      "user": "souvik-jana",
+      "voted_at": "2026-10-21T06:56:40.437630Z"
+    }
+  ]
+}
