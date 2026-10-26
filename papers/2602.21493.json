@@ -1,0 +1,12 @@
+{
+  "abstract": "With the discovery of gravitational waves and fast radio bursts, wave optics has become increasingly relevant in astrophysics. This paper studies the behaviour of random gravitational and plasma lenses, presenting the refractive and diffractive expansions, with higher-order terms that allow error estimates and embody the counterintuitive resurgence phenomenon. Specifically, we show that the diffractive expansion converges for a broad class of bounded lens models and provides an efficient description of interference patterns across frequency regimes. Next, building on Picard-Lefschetz techniques, we derive the full refractive expansion, organising it into a transseries. Near caustics, the standard transseries is supplemented with uniform asymptotics. We study this transseries, with both Borel and hyperasymptotic resummation yielding systematic approximations to lensing integrals at all frequencies. Our results give a framework for modelling wave optics lensing near caustics and beyond the geometric optics approximation and thereby illustrate how tools from resurgence and asymptotic analysis can be applied to practical problems in astrophysics. Near caustic singularities, the post-refractive corrections diverge, while the uniform asymptotic expansion becomes accurate. We use the leading uniform approximation to bridge the singular caustic regime. For the Lorenzian lens, the leading-order diffractive-refractive-uniform expansions mosaic the full parameter space, providing quantitative switching criteria.",
+  "id": "2602.21493",
+  "title": "Resurgence and hyperasymptotics in wave optics astronomy",
+  "url": "https://arxiv.org/abs/2602.21493",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-10-26T02:53:17.070198Z"
+    }
+  ]
+}
