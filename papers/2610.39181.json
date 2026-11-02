@@ -1,0 +1,12 @@
+{
+  "abstract": "We simulate the gravitational lensing of gravitational waves (GWs) by a Kerr black hole using a $(1+1)$-dimensional time-domain mode-sum approach. To enable efficient explicit time evolution, we implement a localized hyperboloidal foliation combined with a static field redefinition, ensuring bounded characteristic speeds across an extended, uniform tortoise-coordinate grid. Incident GW initial data are constructed by projecting a plane-wave Weyl tensor onto the Kinnersley tetrad. Through local spin-dyad rotations and Wigner $D$-matrix transformations, our framework accommodates both idealized wave packets and realistic binary coalescence signals at arbitrary incidence and polarization angles. To accurately resolve the lensed waveforms, we evolve over $68,000$ coupled $(j,m)$ modes. Our results reveal that a Kerr black hole acts as a diffraction-limited thick lens, focusing GWs into a forward beam. For idealized wave packets, the primary prompt pulse exhibits a spin-independent transverse Gaussian profile, whereas the subsequent lensing coda is sensitive to the black hole's spin. For binary coalescence signals, strong-field lensing substantially modifies the post-merger ringdown. However, the lensed inspiral and merger phases in Kerr and Schwarzschild backgrounds are virtually identical, yielding waveform mismatches below $2.2\\times10^{-5}$ across various inclinations and polarizations. These findings demonstrate that non-spinning Schwarzschild models provide an accurate and computationally economical surrogate to search for strong-field lensing signatures with current ground-based detectors.",
+  "id": "2610.39181",
+  "title": "Gravitational lensing of gravitational waves by a Kerr black hole",
+  "url": "https://arxiv.org/abs/2610.39181",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-02T02:38:33.063719Z"
+    }
+  ]
+}

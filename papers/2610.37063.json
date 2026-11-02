@@ -1,0 +1,12 @@
+{
+  "abstract": "We construct a Genesis scenario within the framework of a type-II minimally modified gravity. The background solution is past geodesically complete and approaches Minkowski spacetime in the asymptotic past. While the Hubble expansion rate grows, the matter sector satisfies the null-energy condition. Scalar perturbations are ghost-free and have no ultraviolet gradient instability, although the squared sound speed $c_\\mathcal{R}^2$ becomes negative within a finite infrared region in the Fourier space for a finite time interval. Numerical evolution, including superhorizon growth, yields a nearly scale-invariant, slightly red-tilted scalar spectrum over a broad region of parameter space. The tensor spectrum is blue, with a strongly suppressed tensor-to-scalar ratio. Finally, using the matter fluctuation $\u03b4\u03c7$, whose asymptotic normalization is regular, we find that the background-dependent cubic couplings vanish in the far past at fixed nonzero momenta. The surviving matter--graviton and graviton self-interactions are Planck suppressed.",
+  "id": "2610.37063",
+  "title": "Genesis in Minimally Modified Gravity",
+  "url": "https://arxiv.org/abs/2610.37063",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-02T02:38:33.063747Z"
+    }
+  ]
+}

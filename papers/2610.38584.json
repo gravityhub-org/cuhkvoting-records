@@ -1,0 +1,12 @@
+{
+  "abstract": "For the first Painlev\u00e9 equation, we relate three nonlinear Stokes maps associated with a full turn around infinity to modular transformations of the two-parameter tau function through the identity $\\boldsymbol S_\u03c0\\circ\\boldsymbol S_0\\circ \\boldsymbol S_{-\u03c0}=\\mathsf S\\circ\\mathsf T$. Here the subscripts label Borel directions, while $\\mathsf S$ and $\\mathsf T$ denote the modular generators. Working under the analytic assumptions of the topological recursion and exact WKB constructions, we compare Stokes multipliers of the associated isomonodromy system while tracking the homology basis of its elliptic spectral curve under rotations of the independent variable. For the sectors considered, we identify the known parameter transformation induced by an $8\u03c0/5$ rotation with the modular $T$-action and derive a new explicit parameter relation realizing the $S$-action for a $2\u03c0/5$ rotation. We also determine the multiplicative factors in the corresponding tau-function relations, including their normalization constants. Together, these results give an explicit realization of single-valuedness after one full turn around infinity for both the Painlev\u00e9 transcendent and its tau function, with the tau-function prefactors cancelling by Abel's five-term identity for the Rogers dilogarithm.",
+  "id": "2610.38584",
+  "title": "Resurgence and Modularity in the First Painlev\u00e9 Equation",
+  "url": "https://arxiv.org/abs/2610.38584",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-02T02:38:33.063740Z"
+    }
+  ]
+}

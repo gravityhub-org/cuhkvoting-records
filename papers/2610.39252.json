@@ -1,0 +1,12 @@
+{
+  "abstract": "We study scalar-induced gravitational waves (SIGWs) in a spatially covariant gravity model with two tensorial degrees of freedom, minimally coupled to a $k$-essence scalar field. For the parameter choice considered during radiation domination, the quadratic tensor action coincides with that of general relativity (GR). We derive the scalar transfer functions at finite $\u03c3\\equiv C_2\\bar N$ and in the large-$|\u03c3|$ limit. We then construct the source function of SIGWs. We further examine a cubic extrinsic-curvature interaction that modifies the source function of SIGWs without affecting the background or quadratic actions. We calculate the fractional energy density of SIGWs for monochromatic and log-normal primordial curvature power spectra. We find that, for the positive values of $\u03c3$ studied, finite-$\u03c3$ effects suppress the spectrum over a broad range of scales relative to the result in the $\u03c3\\rightarrow \\infty$ limit. In this limit, the cubic interaction suppresses the spectrum at small wavenumbers and enhances it at larger wavenumbers. These results show that modified scalar dynamics and non-linear interactions can alter the fractional energy density of SIGWs even when the quadratic tensor action is identical to that of GR.",
+  "id": "2610.39252",
+  "title": "Scalar-induced gravitational waves in spatially covariant gravity with two tensorial degrees of freedom",
+  "url": "https://arxiv.org/abs/2610.39252",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-02T02:38:33.063735Z"
+    }
+  ]
+}
