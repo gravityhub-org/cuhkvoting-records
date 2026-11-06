@@ -1,0 +1,12 @@
+{
+  "abstract": "We describe the design of a gravitational wave timing array, a novel scheme that can be used to search for low-frequency gravitational waves by monitoring continuous gravitational waves at higher frequencies. We show that observations of gravitational waves produced by Galactic binaries using a space-based detector like LISA provide sensitivity in the nanohertz to microhertz band. While the expected sensitivity is several magnitudes worse than what can be achieved by pulsar timing arrays, it supplements other recent proposals for gravitational wave searches in the microhertz regime. This regime is below the frequencies to which LISA is directly sensitive, and above the frequency range generally targeted by pulsar timing array searches. The low-frequency extension of sensitivity does not require any experimental design change to space-based gravitational wave detectors, and can be achieved with the data products that would already be collected by them.",
+  "id": "2107.02788",
+  "title": "Gravitational wave timing array",
+  "url": "https://arxiv.org/abs/2107.02788",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-11-06T13:07:21.753071Z"
+    }
+  ]
+}
