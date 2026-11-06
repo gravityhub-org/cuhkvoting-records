@@ -1,0 +1,12 @@
+{
+  "abstract": "Residing in the centre of the Milky Way, Sagittarius A* (Sgr A*) is the closest massive black hole$^{1}$ (MBH). Its vicinity has allowed measuring individual stellar orbits around it$^{2, 3-4}$. The stars act as test particles and probe the gravitational potential around the 4.3 \u00d7 10$^{6}$M$_{\u2299}$ MBH. These observations have determined the central mass to sub-per-cent precision$^{5}$, and the mildly relativistic motions of stars have given access to the dominant relativistic corrections, the gravitational redshift$^{6,7}$, the transverse Doppler effect and the prograde precession imposed by the Schwarzschild metric nature of the potential$^{8}$. These effects are of order \u03b2$^{2}$ = (v/c)$^{2}$ (for velocity v and speed of light c). The Kerr metric for a rotating black hole leads to corrections of order \u03b2$^{3}$. Here, we report the discovery of a faint main-sequence star (m$_{K}$ = 19.3), S301, on an 8.7-year orbit and with small enough a pericentre distance, such that the peak velocity of the star reaches 25,000 km s$^{\u22121}$. Within the measurement abilities of current near-infrared interferometry and future spectroscopy on an extremely large telescope, the motion of S301 is directly sensitive to the spin of Sgr A*. The high eccentricity of S301 suggests that it is the captured component of a binary that was torn apart by the Hills mechanism.",
+  "id": "2607.12664",
+  "title": "Discovery of a star sensitive to the spin of Sagittarius A*",
+  "url": "https://arxiv.org/abs/2607.12664",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-11-06T12:04:48.197768Z"
+    }
+  ]
+}
