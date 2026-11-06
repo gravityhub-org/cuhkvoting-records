@@ -1,0 +1,12 @@
+{
+  "abstract": "We present the analysis of five black hole candidates identified from gravitational microlensing surveys. Hubble Space Telescope astrometric data and densely sampled light curves from ground-based microlensing surveys are fit with a single-source, single-lens microlensing model in order to measure the mass and luminosity of each lens and determine if it is a black hole. One of the five targets (OGLE-2011-BLG-0462/MOA-2011-BLG-191 or OB110462 for short) shows a significant >1 mas coherent astrometric shift, little to no lens flux, and has an inferred lens mass of 1.6\u20134.4 M $_{\u2299}$. This makes OB110462 the first definitive discovery of a compact object through astrometric microlensing and it is most likely either a neutron star or a low-mass black hole. This compact-object lens is relatively nearby (0.70\u20131.92 kpc) and has a slow transverse motion of <30 km s$^{\u22121}$. OB110462 shows significant tension between models well fit to photometry versus astrometry, making it currently difficult to distinguish between a neutron star and a black hole. Additional observations and modeling with more complex system geometries, such as binary sources, are needed to resolve the puzzling nature of this object. For the remaining four candidates, the lens masses are <2M $_{\u2299}$, and they are unlikely to be black holes; two of the four are likely white dwarfs or neutron stars. We compare the full sample of five candidates to theoretical expectations on the number of black holes in the Milky Way (\u223c10$^{8}$) and find reasonable agreement given the small sample size.",
+  "id": "2202.01903",
+  "title": "An Isolated Mass-gap Black Hole or Neutron Star Detected with Astrometric Microlensing",
+  "url": "https://arxiv.org/abs/2202.01903",
+  "votes": [
+    {
+      "user": "ohannuks",
+      "voted_at": "2026-11-06T10:30:54.381028Z"
+    }
+  ]
+}
