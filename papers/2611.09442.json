@@ -1,0 +1,12 @@
+{
+  "abstract": "The Curci-Ferrari (CF) model provides an efficient perturbative framework for describing several aspects of the infrared (IR) dynamics of Yang-Mills (YM) theories. We extend this framework to YM theories coupled with scalar matter and investigate its main properties, with particular emphasis on the one-loop two-point correlation functions of scalars, gluons, and ghosts. We analyze the renormalization group (RG) structure of the model, computing its beta functions and studying the corresponding RG flows for different scalar masses. We establish the existence of IR-safe trajectories along which perturbation theory remains under control and identify a novel fixed-point, while recovering the standard CF results in an appropriate limit. We then confront our results with lattice data through a simultaneous fit of the scalar, gluon, and ghost propagators, finding excellent agreement. Our results indicate that, within the approximations considered here, the CF framework gives a successful perturbative description of the IR regime of YM theories coupled with scalar matter.",
+  "id": "2611.09442",
+  "title": "Yang-Mills theories with scalar matter: a first foray using the Curci-Ferrari model",
+  "url": "https://arxiv.org/abs/2611.09442",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-09T04:13:53.510480Z"
+    }
+  ]
+}

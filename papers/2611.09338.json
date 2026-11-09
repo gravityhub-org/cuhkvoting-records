@@ -1,0 +1,12 @@
+{
+  "abstract": "Hierarchical triple mergers denote a sequential merger process in which the black hole remnant from an initial binary merger subsequently merges with a third black hole. In this study, we identify a related pair of binary black hole mergers, GW230729_082317 and GW231118_005626, which exhibit consistent sky localization and luminosity distances; the latter is identified as a candidate hierarchical merger binary back holes. The Bayes factor in favor of a hierarchical triple merger origin over the non-association hypothesis is $110$. However, after accounting for the priors odds, the corresponding odds ratio decreases to $0.1$, indicating that the current evidence is insufficient to favor the hierarchical triple merger scenario. GW230720_0823 show no detectable signatures of orbit eccentricity or line-of-sight acceleration. The inferred properties of these two gravitational wave events suggest a dynamical formation channel, such as few-body scattering or gas-assisted mergers, while a primordial triple origin is disfavored. Among the proposed dynamical environments, the accretion disk of an active galactic nucleus provides the most plausible site. We further derive constraints on the local rate of hierarchical triple mergers rate under both the null and candidate scenarios. Under the assumption of no detected hierarchical triple mergers, the most stringent $90\\%$ confidence upper limit is $4.2\\,{\\rm Gpc^{-3}yr^{-1}}$ for $t_{\\rm max}=10$ years using the GWTC-4 catalog.",
+  "id": "2611.09338",
+  "title": "GW230729_082317 and GW231118_005626: A Candidate of Hierarchical Triple Mergers",
+  "url": "https://arxiv.org/abs/2611.09338",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-09T04:13:53.510423Z"
+    }
+  ]
+}

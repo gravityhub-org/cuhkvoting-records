@@ -1,0 +1,12 @@
+{
+  "abstract": "Let $N$ be a natural tensor which vanishes at a metric $g\\_0$. By diffeomorphism invariance, $DN(g\\_0)^*$ takes values in divergence-free symmetric $2$-tensors, and in TT tensors if moreover $DN(g\\_0)$ kills conformal directions. Such operators are local potentials, which we call machines: they produce smooth compactly supported tensors with the required property and, on closed manifolds, all of them up to a finite-dimensional space when their symbol is injective. On Einstein manifolds of every dimension, the linearised Bach tensor gives the operator $P$ of an earlier paper, which factorises on TT tensors into the massless and partially massless spin-$2$ operators; we also construct machines on Bach-flat, conformally flat and Ricci-parallel metrics. Replacing the diffeomorphisms of $M$ by those of the vacuum development, we obtain potentials, with a Fredholm property, for the linearised Einstein constraint equations on arbitrary spacelike hypersurfaces of Minkowski, de Sitter and anti-de Sitter spacetimes.",
+  "id": "2611.09303",
+  "title": "Natural potentials for TT tensors, divergence-free symmetric tensors and linearised relativistic initial data",
+  "url": "https://arxiv.org/abs/2611.09303",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-09T04:13:53.510378Z"
+    }
+  ]
+}

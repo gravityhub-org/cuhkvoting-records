@@ -1,0 +1,12 @@
+{
+  "abstract": "Following a proposal that the thermodynamic aspects of general relativity can be found in the evolution of the past light cones of arbitrary worldlines, we generalize the Bondi-Sachs formalism to these surfaces. The observer may accelerate and rotate their tetrad, the spacetime may contain matter and a cosmological constant, and no symmetry is assumed. We impose regularity conditions at the vertex of each light cone and along the polar axis, including a general axial condition that allows for shear. Given a suitable prescription for the stresses of matter, the Einstein field equations can then be integrated hierarchically from data on a single light cone, and the regularity at the vertex fixes all constants of integration. The solution reveals a universal property: to first order in the observer's proper time, the evolution of the metric and of the four-momentum crossing the light cones is independent of the specific behavior of matter. As an application, we derive, for an observer immersed in matter, an analogue of the integral mass formula of black hole mechanics.",
+  "id": "2611.08958",
+  "title": "Bondi-Sachs formalism on past light cones and an analogue of the integral mass formula",
+  "url": "https://arxiv.org/abs/2611.08958",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-09T04:13:53.510336Z"
+    }
+  ]
+}
