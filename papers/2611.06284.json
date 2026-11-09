@@ -1,0 +1,12 @@
+{
+  "abstract": "We investigate the sensitivity of the Pierre Auger Observatory to sterile neutrinos with masses in the MeV-to-100 MeV range. To this end, we consider a minimal $3+1$ framework in which a single sterile state mixes mainly with the $\u03bd_\u03c4$ flavor through an active--sterile mixing angle $\u03b8_N$ to produce a mass eigenstate $N_1$. At ultrahigh energies, $N_1$ neutrinos can traverse substantial chord lengths through the Earth and interact through their active component, producing $\u03c4$ leptons that may emerge near the surface and decay in the atmosphere, thereby generating detectable air showers. We compute the corresponding exposures with a detailed Monte Carlo simulation of neutrino propagation, interactions, $\u03c4$ energy losses and decay, and derive upper limits at $90\\%$ confidence level on an isotropic diffuse flux of $N_1$ neutrinos. For an $E^{-2}$ spectrum, we obtain $E^2\u03a6_N\\leq 2\\times10^{-9}\\sin^{-2}\u03b8_N\\,\\mathrm{GeV\\,cm^{-2}\\,sr^{-1}\\,s^{-1}}$ over $0.3$--$200$ EeV for $\\sin^2\u03b8_N\\lesssim10^{-1}$. We further consider $N_1$ neutrinos arising from the decay of a superheavy dark-matter particle. For a benchmark dark-matter mass of $10^{13}$ GeV, we derive constraints on the active--sterile mixing angle and dark-matter lifetime for sterile-neutrino masses of $10$ and $100$ MeV. These results illustrate the potential of the Observatory to probe long-lived weakly interacting particles.",
+  "id": "2611.06284",
+  "title": "A search for sterile neutrinos at ultrahigh energies at the Pierre Auger Observatory",
+  "url": "https://arxiv.org/abs/2611.06284",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-09T05:57:28.376663Z"
+    }
+  ]
+}

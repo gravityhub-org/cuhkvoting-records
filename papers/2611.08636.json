@@ -1,0 +1,12 @@
+{
+  "abstract": "We investigate how two extensions of the standard $\u039b$CDM scenario affect the evolution of the matter density and velocity divergence fields, from the linear regime to deeply nonlinear scales, using $N$-body simulations. We consider two well-motivated scenarios in which the canonical properties of dark matter (DM) are modified. In the first scenario, DM interacts with dark energy (DM--DE interaction). In the second scenario, we allow the DM equation-of-state parameter to deviate from the canonical pressureless limit, $w_{\\rm DM}=0$. For the coupled DM--DE scenario, we find significant and scale-dependent deviations from $\u039b$CDM of order $50$--$100\\%$ in the matter power spectrum, persisting throughout the nonlinear regime, with the velocity divergence spectra providing complementary and partially independent sensitivity. For the $w_{\\rm DM} \\neq 0$ scenario, we find systematic but remarkably small deviations confined within $5\\%$ across all scales probed. Our results identify which scales carry the greatest discriminatory power between these nonstandard scenarios and $\u039b$CDM. We show that testing these models with current and forthcoming LSS surveys, through the analysis of density and/or velocity fields, will require a deeper theoretical understanding and accurate nonlinear modelling before robust constraints can be derived from observational data.",
+  "id": "2611.08636",
+  "title": "Nonstandard Dark Matter at Nonlinear Scales",
+  "url": "https://arxiv.org/abs/2611.08636",
+  "votes": [
+    {
+      "user": "cosmoquark",
+      "voted_at": "2026-11-09T05:57:28.376614Z"
+    }
+  ]
+}
