@@ -1,0 +1,12 @@
+{
+  "abstract": "Extreme mass ratio inspirals on inclined orbits can produce recurrent electromagnetic flares by shocking gas at accretion-disk crossings. Using forward ray tracing in Kerr spacetime, we investigate how self-lensing by the central supermassive black hole (SMBH) reshapes these flares. Flares emitted behind the SMBH can be strongly magnified, whereas near-side flares remain almost unmagnified, producing strong-weak alternation even for identical intrinsic emission. As Lense-Thirring precession shifts the crossing azimuths, it generates long-term amplitude envelopes whose spacing can be used to infer the precession period. Lense-Thirring precession can also increase the cumulative geometric lensing probability over longer observing windows. Within individual flares, Keplerian motion of hotspots co-rotating with the disk produces time-dependent magnification, which can generate shoulders or double peaks and change the effective width. We also propose a spectral diagnostic to distinguish self-lensing from external lensing when their light curves are similar: self-lensing can amplify later, cooler emission and produce a softer secondary peak, whereas delayed images from a static external lens repeat the same intrinsic spectral evolution.",
+  "id": "2611.02645",
+  "title": "Self-lensing of electromagnetic counterparts to extreme mass ratio inspirals",
+  "url": "https://arxiv.org/abs/2611.02645",
+  "votes": [
+    {
+      "user": "samlange04",
+      "voted_at": "2026-11-10T05:28:45.578107Z"
+    }
+  ]
+}
